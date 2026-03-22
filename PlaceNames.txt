@@ -1,0 +1,5228 @@
+ギルドリーヴ 	 Levemete
+ハイデリン 	 Hydaelyn
+エオルゼア 	 Eorzea
+ラノシア 	 La Noscea
+黒衣森 	 The Black Shroud
+ザナラーン 	 Thanalan
+クルザス 	 Coerthas
+モードゥナ 	 Mor Dhona
+リムサ・ロミンサ 	 Limsa Lominsa
+リムサ・ロミンサ：上甲板層 	 Limsa Lominsa Upper Decks
+リムサ・ロミンサ：下甲板層 	 Limsa Lominsa Lower Decks
+中央ラノシア 	 Middle La Noscea
+低地ラノシア 	 Lower La Noscea
+東ラノシア 	 Eastern La Noscea
+西ラノシア 	 Western La Noscea
+高地ラノシア 	 Upper La Noscea
+サスタシャ浸食洞 	 Sastasha
+ブレイフロクスの野営地 	 Brayflox's Longstop
+ワンダラーパレス 	 The Wanderer's Palace
+グリダニア 	 Gridania
+ウルダハ：ナル回廊 	 Ul'dah - Steps of Nald
+ウルダハ：ザル回廊 	 Ul'dah - Steps of Thal
+西ザナラーン 	 Western Thanalan
+中央ザナラーン 	 Central Thanalan
+東ザナラーン 	 Eastern Thanalan
+南ザナラーン 	 Southern Thanalan
+北ザナラーン 	 Northern Thanalan
+カッターズクライ 	 Cutter's Cry
+カッパーベル銅山 	 Copperbell Mines
+ハラタリ修練所 	 Halatali
+カルン埋没寺院 	 The Sunken Temple of Qarn
+ウルダハ 	 Ul'dah
+グリダニア：新市街 	 New Gridania
+グリダニア：旧市街 	 Old Gridania
+黒衣森：中央森林 	 Central Shroud
+黒衣森：東部森林 	 East Shroud
+黒衣森：南部森林 	 South Shroud
+黒衣森：北部森林 	 North Shroud
+タムタラの墓所 	 The Tam-Tara Deepcroft
+ハウケタ御用邸 	 Haukke Manor
+トトラクの千獄 	 The Thousand Maws of Toto-Rak
+イシュガルド 	 Ishgard
+クルザス中央高地 	 Coerthas Central Highlands
+ゼーメル要塞 	 Dzemael Darkhold
+オーラムヴェイル 	 Aurum Vale
+東方地域 	 Far East
+モードゥナ 	 Mor Dhona
+翡翠湖畔 	 Jadeite Thick
+グリーンティア択伐地 	 Greentear
+ベントブランチ 	 Bentbranch
+スカンポの安息所 	 Sorrel Haven
+枯骨の森 	 The Standing Corses
+ハニーヤード 	 The Honey Yard
+ナインアイビー 	 Nine Ivies
+茨の森 	 The Bramble Patch
+ラークスコール 	 Larkscall
+シルフ領 	 Sylphlands
+アッパーパス 	 Upper Paths
+ロウアーパス 	 Lower Paths
+蛇殻林 	 Snakemolt
+沈黙の花壇 	 Silent Arbor
+ウルズの恵み 	 Urth's Gift
+ひそひそ木立 	 Treespeak
+ピースガーデン 	 Peacegarden
+アルダースプリングス 	 Alder Springs
+プラウドクリーク 	 Proud Creek
+青狢門 	 Blue Badger Gate
+白狼門 	 White Wolf Gate
+ギルバート監視哨 	 Gilbert's Spire
+バノック練兵所 	 The Bannock
+ガビノー親方の小屋 	 Gabineaux's Bower
+裸岩の丘 	 Naked Rock
+ウォーレン牢獄 	 Spirithold
+ベントブランチ牧場 	 Bentbranch Meadows
+ガルヴァンス監視哨 	 Galvanth's Spire
+地神の忘却 	 The Matron's Lethe
+タムタラの墓所 	 The Tam-Tara Deepcroft
+鏡池桟橋 	 The Mirror Planks
+睡蓮岩 	 Lilystone
+境樹 	 The Hedgetree
+エバーシェイド 	 Everschade
+ハウケタ御用邸 	 Haukke Manor
+早贄台 	 Sanguine Perch
+芽吹の池 	 Hopeseed Pond
+鱗紋岩 	 Amberscale Rock
+スプリガンの巣窟 	 Spriggan Dig
+ホウソーン家の山塞 	 The Hawthorne Hut
+境樹 	 The Hedgetree
+アマリセ監視哨 	 Amarissaix's Spire
+カストルム・オリエンス 	 Castrum Oriens
+十二神大聖堂 	 Sanctum of the Twelve
+シルフの仮宿 	 Little Solace
+ムーンスポア・グローブ 	 Moonspore Grove
+ゆりかごの大樹 	 The Seedbed
+金葉台 	 Goldleaf Dais
+ハンギングバーブ 	 Hanging Barbs
+バスカロン監視所跡 	 Buscarron's Scar
+酒房「バスカロンドラザーズ」 	 Buscarron's Druthers
+トトラクの千獄 	 The Thousand Maws of Toto-Rak
+イソム・ハーの穴蔵 	 Issom-Har
+主なき庵室 	 No Man's Hovel
+キャンプ・トランキル 	 Camp Tranquil
+古アムダプール市街 	 The Lost City of Amdapor
+根渡り沼 	 Rootslake
+サウスシュラウド・ランディング 	 South Shroud Landing
+古城アムダプール 	 Amdapor Keep
+クォーリーミル 	 Quarrymill
+レッドベリー砦 	 Redbelly Hive
+ゴブリン族の野営地 	 Goblins' Meet
+朽葉の吹溜り 	 Takers' Rot
+ウルズの泉 	 Urth's Fount
+黄蛇門 	 Yellow Serpent Gate
+ツリースピーク厩舎 	 Treespeak Stables
+エ・タッタ監視哨 	 E-Tatt's Spire
+境樹 	 The Hedgetree
+ハーストミル 	 Hyrstmill
+フォールゴウド 	 Fallgourd Float
+浮かぶコルク亭 	 The Bobbing Cork
+フロランテル監視哨 	 Florentel's Spire
+山師の岩窟 	 Finders' Bluff
+ゲルモラ遺跡 	 Gelmorra Ruins
+イクサル軍伐採所 	 Ixali Logging Grounds
+ユージニア監視哨 	 Eugenia's Spire
+初心者の館 	 Hall of the Novice
+旅館「とまり木」 	 The Roost
+エオルゼア地下空間 	 Eorzean Subterrane
+モルディオン監獄 	 Mordion Gaol
+ザ・フォールド 	 The Fold
+花蜜桟橋 	 Sweetbloom Pier
+西の葉脈 	 West Vein
+東の葉脈 	 East Vein
+ジョスラン監視哨 	 Josselin's Spire
+フルフラワー養蜂場 	 Fullflower Comb
+精霊の幼木 	 Blessed Bud
+ゼファードリフト 	 Zephyr Drift
+サマーフォード 	 Summerford
+スリーマルム・ベンド 	 Three-malm Bend
+モラビー湾 	 Moraby Bay
+シダーウッド 	 Cedarwood
+ゴッズグリップ 	 The Gods' Grip
+ブラッドショア 	 Bloodshore
+レインキャッチャー樹林 	 Raincatcher Gully
+アジェレス旧街道 	 Agelyss Wise
+クォーターストーン 	 Quarterstone
+スカルバレー 	 Skull Valley
+ハーフストーン 	 Halfstone
+幻影諸島 	 The Isles of Umbra
+オークウッド 	 Oakwood
+ロングクライム 	 The Long Climb
+アイアンレイク 	 Iron Lake
+ブロンズレイク 	 Bronze Lake
+ゼルマ渓谷 	 Zelma's Run
+ゼファー陸門 	 Zephyr Gate
+ガラディオン湾 	 Galadion Bay
+デネベール街道 	 De Nevelle Westroad
+ローグ川 	 Rogue River
+ラザグラン関門 	 La Thagran Checkpoint
+サマーフォード庄 	 Summerford Farms
+シーソング石窟 	 Seasong Grotto
+アジェレス川 	 Agelyss River
+クックポット 	 The Cookpot
+開拓者の納屋 	 Tiller's Rest
+デセント断崖 	 The Descent
+スカイリフト 	 Skylift
+デネベール関門 	 De Nevelle Checkpoint
+ささやきの谷 	 Woad Whisper Canyon
+ニーム川 	 Nym River
+フォアマスト 	 Foremast
+迷子橋 	 Madman Bridge
+眼鏡岩 	 The Eyes
+モーニングウィドー 	 The Mourning Widow
+テンペスト陸門 	 Tempest Gate
+オシュオン大橋 	 Oschon's Embrace
+レッドルースター農場 	 Red Rooster Stead
+グレイフリート風車群 	 The Grey Fleet
+ブラインドアイアン坑道 	 Blind Iron Mines
+ラザグラン街道 	 La Thagran Eastroad
+見捨てられた廃屋 	 House of Sticks
+白鴎塔 	 Gullperch Tower
+コスタ・デル・ソル 	 Costa del Sol
+アジェレス川 	 Agelyss River
+船着場 	 Ferry Docks
+ガーロックの棲処 	 The Garlok's Lair
+船着場：隠れ滝 	 Hidden Falls Docks
+隠れ滝 	 Hidden Falls
+ブレイフロクスの野営地 	 Brayflox's Longstop
+切られた革紐亭 	 The Severed String
+レッドマンティス滝 	 Red Mantis Falls
+船着場：レインキャッチャー 	 Raincatcher Gully Docks
+ワインポート 	 Wineport
+カストルム・オクシデンス 	 Castrum Occidens
+スウィフトパーチ入植地 	 Swiftperch
+ドードー営巣地 	 The Flock
+ブルワーズ灯台 	 The Brewer's Beacon
+デネベール街道 	 De Nevelle Westroad
+サスタシャ浸食洞 	 Sastasha
+エールポート 	 Aleport
+キャンプ・スカルバレー 	 Camp Skull Valley
+エールグヘームルの墓 	 The Founder's Crypt
+北防波壁 	 North Tidegate
+南防波壁 	 South Tidegate
+船の墓場 	 The Ship Graveyard
+常夏の島 	 Isle of Endless Summer
+シリウス大灯台 	 Pharos Sirius
+メメルン交易商店 	 Memeroon's Trading Post
+プアメイドミル 	 Poor Maid's Mill
+サラオスの亡骸 	 Thalaos
+愚か者の滝 	 Fool Falls
+隠者の庵 	 The Hermit's Hovel
+ニーム浮遊遺跡 	 The Floating City of Nym
+キャンプ・オーバールック 	 Camp Overlook
+ウ・ガマロ武装鉱山 	 U'Ghamaro Mines
+キャンプ・ブロンズレイク 	 Camp Bronze Lake
+ワンダラーパレス 	 The Wanderer's Palace
+ジジルン交易商店 	 Jijiroon's Trading Post
+コボルド軍試掘地 	 Kobold Dig
+金槌台地 	 Hammerlea
+ホライズン・エッジ 	 Horizon's Edge
+足跡の谷 	 The Footfalls
+ウエストウインド岬 	 Cape Westwind
+刺抜盆地 	 Spineless Basin
+ブラックブラッシュ 	 Black Brush
+クラッチ狭間 	 The Clutch
+ドライボーン 	 Drybone
+サンドゲート 	 Sandgate
+ウェルウィック新林 	 Wellwick Wood
+バーニングウォール 	 The Burning Wall
+ブロークンウォーター 	 Broken Water
+ザンラク 	 Zanr'ak
+レッドラビリンス 	 The Red Labyrinth
+サゴリー砂漠 	 Sagolii Desert
+ブルーフォグ 	 Bluefog
+ラウバーン緩衝地 	 Raubahn's Push
+カストルム・メリディアヌム 	 Castrum Meridianum
+ササモの八十階段 	 The Eighty Sins of Sasamo
+ビーコンヒル灯台 	 Beaconhill Lighthouse
+スコーピオン交易所 	 Scorpion Crossing
+ノフィカの井戸 	 Nophica's Wells
+一号杭打塔 	 The East Hammer
+シルバーバザー 	 The Silver Bazaar
+カッパーベル銅山 	 Copperbell Mines
+サンライズ門 	 Sunrise Gate
+サンセット門 	 Sunset Gate
+アラグ陽道 	 Royal Allagan Sunway
+ホライズン 	 Horizon
+クレセントコーヴ 	 Crescent Cove
+物言わぬ王 	 The Silent King
+ベスパーベイ 	 Vesper Bay
+ムーンドリップ洞窟 	 Moondrip
+パラタの墓所 	 Parata's Peace
+帝国軍前哨基地 	 Imperial Outpost
+ストーンズスロー貧民窟 	 Stonesthrow
+フェスカ冒険者キャンプ 	 Fesca's Wash
+姉妹丘 	 Four Sisters
+スートクリーク 	 Soot Creek
+王立ナナモ菜園 	 Royal Plantations
+ウルダハ操車庫 	 Ul'dah Dispatch Yard
+アラグ星道 	 Royal Allagan Starway
+フェスカ展望台 	 Fesca's Watch
+ササガン大王樹 	 Sultantree
+サゴリー関所 	 Sagolii Gate
+アラグ陽道 	 Royal Allagan Sunway
+酒房「コッファー＆コフィン」 	 The Coffer & Coffin
+ブラックブラッシュ停留所 	 Black Brush Station
+シラディハ遺跡 	 Sil'dih Excavation Site
+ネズミの巣 	 The Rat's Nest
+ヘルズブルード洞穴 	 Hellsbrood Holes
+ロストホープ流民街 	 Lost Hope
+狼煙の丘 	 The Bonfire
+ナナワ銀山 	 Nanawa Mines
+アンホーリーエアー 	 The Unholy Heir
+キヴロン別宅跡 	 The Quiveron Manse
+アラグ陽道 	 Royal Allagan Sunway
+キャンプ・ドライボーン 	 Camp Drybone
+見えざる都 	 The Invisible City
+聖アダマ・ランダマ教会 	 Church of Saint Adama Landama
+錐峰ヶ原 	 Sea of Spires
+ゴールドバザー 	 The Golden Bazaar
+ハラタリ修練所 	 Halatali
+アマルジャ軍陣屋 	 Amalj'aa Encampment 
+ハイブリッジ 	 Highbridge
+ユグラム川 	 Yugr'am River
+ザルの祠 	 Thal's Respite
+バーガンディ滝 	 Burgundy Falls
+最後の祈祷 	 Final Prayer
+カルン埋没寺院 	 The Sunken Temple of Qarn
+リトルアラミゴ 	 Little Ala Mhigo
+リザードクリーク 	 Burnt Lizard Creek
+放浪者の埋葬地 	 The Sepulchre
+焼かれし者の里 	 Circle of the Tempered
+ゴーストレイク 	 Ghostlake
+ザンラク脇本陣 	 Zanr'ak Encampment
+ザンラク祭場 	 Zanr'ak Altar
+ザハラク戦陣 	 Zahar'ak
+ナルの祠 	 Nald's Reflection
+ミノタウロスマルム 	 Minotaur Malm
+忘れられたオアシス 	 Forgotten Springs
+ビエルゴズ・ストライク 	 Byregot's Strike
+キャンプ・ブルーフォグ 	 Camp Bluefog
+東方監視塔 	 East Watchtower
+西方監視塔 	 West Watchtower
+アマジナ霊銀山跡 	 Abandoned Amajina Mythril Mine
+ダラガブの爪 	 Dalamud's Talons
+青燐泉 	 Ceruleum Field
+青燐精製所 	 Ceruleum Processing Plant
+前門 	 Forward Gates
+カストルム・メリディアヌム 	 Castrum Meridianum
+錐峰ヶ原 	 Sea of Spires
+魔列車停車場 	 Loading Bay
+飛空戦艦発着場 	 Dreadnaught Landing
+モラビー造船廠 	 Moraby Drydocks
+ソルトストランド 	 The Salt Strand
+キャンドルキープ埠頭 	 Candlekeep Quay
+エンプティハート 	 Empty Heart
+オシュオン灯台 	 Oschon's Torch
+青燐採水場 	 Ceruleum Drill
+ハウケタ御用邸：1F 	 Haukke Manor: Ground Floor
+ハウケタ御用邸：2F 	 Haukke Manor: Second Floor
+ハウケタ御用邸：B1F 	 Haukke Manor: Cellarage
+神勇隊司令室 	 Seat of the First Bow
+不語仙の座卓 	 Lotus Stand
+再生の根株 	 Lifemend Stump
+カステッルム・マリヌム 	 Castrum Marinum
+外地ラノシア 	 Outer La Noscea
+アドミラルブリッジ：提督室 	 Command Room
+リムサ・ロミンサ会議部屋 	 リムサ・ロミンサ会議部屋
+リムサ・ロミンサ演説部屋 	 リムサ・ロミンサ演説部屋
+銀冑団総長室 	 Heart of the Sworn
+香煙の間 	 The Fragrant Chamber
+砂の家 	 The Waking Sands
+炎帝祭跡 	 Bowl of Embers
+ウルヴズジェイル係船場 	 Wolves' Den Pier
+オ・ゴモロ火口神殿 	 The Navel
+茨の園 	 Thornmarch
+ハウリングアイ石塔群 	 The Howling Eye
+海蛇の巣穴 	 The Serpent's Tongue
+サプサ産卵地 	 Sapsa Spawning Grounds
+サハギン軍陣営 	 Sahagin Landbase
+船隠しの港 	 Reaver Hide
+ウォームワイン・サナトリウム 	 Warmwine Sanitorium
+船着場：エールポート 	 Aleport Docks
+波止場：クレセントコーヴ 	 Crescent Cove Docks
+波止場：シルバーバザー 	 Silver Bazaar Docks
+B2F 	 B2
+ザル回廊 	 Merchant Strip
+暁の間 	 The Solar
+二号杭打塔 	 The South Hammer
+三号杭打塔 	 The West Hammer
+カッターズクライ 	 Cutter's Cry
+エーテライト・プラザ 	 Ul'dah Aetheryte Plaza
+次元の狭間：迎賓室 	 Hall of Summoning
+ドラゴンヘッド 	 Dragonhead
+神意の地 	 Providence Point
+巨石の丘 	 Boulder Downs
+ホワイトブリム 	 Whitebrim
+ハルドラス騎道 	 Haldrath's March
+アドネール占星台 	 First Dicasterial Observatorium of Aetherial and Astrological Phenomena
+グリフィン大橋 	 Griffin Crossing
+アートボルグ砦群 	 Skyfire Locks
+キャンプ・ドラゴンヘッド 	 Camp Dragonhead
+ウィッチドロップ 	 Witchdrop
+スチールヴィジル 	 Steel Vigil
+悪鬼の胃袋 	 The Ogre's Belly
+聖ダナフェンの落涙 	 The Weeping Saint
+ナタラン入植地 	 Natalan
+オーラムヴェイル 	 The Aurum Vale
+七谺 	 Hall of the Seven Echoes
+秘石の塔 	 Monument Tower
+ハルオーネの射目 	 The Fury's Gaze
+聖ダナフェンの旅程 	 Daniffen Pass
+ゼーメル要塞 	 Dzemael Darkhold
+大審門 	 Gates of Judgement
+ストーンヴィジル 	 Stone Vigil
+ホワイトブリム前哨地 	 Whitebrim Front
+ベヒーモスの縄張り 	 Behemoth's Dominion
+スノークローク大氷壁 	 Snowcloak
+剣ヶ峰 	 The Nail
+雲廊 	 Steps of Faith
+雲海 	 Sea of Clouds
+白狼門（中央森林西方面） 	 White Wolf Gate (Central Shroud)
+迷霧湿原 	 Fogfens
+銀泪湖北岸 	 North Silvertear
+レヴナンツトール 	 Revenant's Toll
+崩壊したキャンプ 	 Camp Revenant's Toll
+タングル湿林 	 The Tangle
+早霜峠 	 Rathefrost
+カストルム・セントリ 	 Castrum Centri
+聖コイナク財団の調査地 	 Saint Coinach's Find
+唄う裂谷 	 Singing Shards
+黙約の塔 	 The Keeper of the Lake
+エバーシェイド
+[長老の木] 	 Everschade
+(The Guardian Tree)
+クリスタルタワー 	 Crystal Tower
+銀泪湖 	 Silvertear Falls
+ブレイブハート号 	 The Braveheart
+対戦受付 	 Entry Counter
+船着場：ウルヴズジェイル 	 Wolves' Den Docks
+ミスト・ヴィレッジ 	 Mist
+ラベンダーベッド 	 The Lavender Beds
+ゴブレットビュート 	 The Goblet
+閲兵場 	 Parade Ground
+ヴィア・プラエトリア 	 Via Praetoria
+魔導城プラエトリウム 	 The Praetorium
+廃棄物処分場 	 Waste Disposal
+ヴィア・プリンシパリス 	 Via Principalis
+第V閉鎖区 	 Area V
+中央交差路 	 Central Crossing
+魔列車停留場 	 Phantom Train Depot
+アーマメンタリウム 	 Armamentarium
+飛空艇発着場 	 Dreadnaught Landing
+青燐水汲上場 	 Ceruleum Pumps
+ダンスタン監視哨 	 Dunstan's Spire
+魔導城プラエトリウム 	 The Praetorium
+最上層 	 Sky Level
+管理層 	 Castrum Control
+防御層 	 Castrum Defense
+主要層 	 Main Level
+基部層 	 Ground Level
+工房層 	 Research Level
+飛空艇プラットフォーム 	 Airship Platform
+対空防御区 	 Anti-aircraft Station
+魔導アーマー駐機庫 	 Magitek Armor Bay
+外縁通路 	 Outer Walk
+軍団長室 	 Command Chamber
+基部中枢区 	 Central Hall
+斜行リフト 	 The Echelon
+スカエウァ研究室 	 Laboratorium Primum
+魔導工房区 	 Magitek Research
+工房リフト 	 Magitek Lift
+ポルタ・デクマーナ 	 Porta Decumana
+魔導兵器認証室 	 Armor Recognition Chamber
+ハウリングアイ外縁 	 The Howling Eye
+船着場：モラビー造船廠 	 Moraby Drydocks Landing
+船着場：幻影諸島 	 Isles of Umbra Docks
+ロータノ海 	 Rhotano Sea
+ラグナロク級拘束艦 	 The Ragnarok
+メテオ探査坑浅部 	 Upper Aetheroacoustic Exploratory Site
+メテオ探査坑深部 	 Lower Aetheroacoustic Exploratory Site
+ラグナロク級拘束艦 	 The Ragnarok
+稼働隔壁 	 Ragnarok Drive Cylinder
+中枢区画 	 Ragnarok Central Core
+第一艦橋 	 Ragnarok Main Bridge
+案内人：ナルの祠 	 Labyrinth Guide (to the Minotaur Malm)
+案内人：ミノタウロスマルム 	 Labyrinth Guide (to Nald's Reflection)
+砂の家 	 The Waking Sands
+案内人：白狼門 	 White Wolf Gate Guard
+軍団兵員区 	 Training Area
+船着場：鏡池桟橋 	 Mirror Planks Docks
+船着場：ラベンダーベッド 	 Lavender Beds Docks
+ポルタ・デクマーナ 	 Porta Decumana
+古代の民の迷宮 	 Labyrinth of the Ancients
+古代の民の迷宮階層1 	 Lower Labyrinth
+古代の民の迷宮階層2 	 Upper Labyrinth
+石の家 	 The Rising Stones
+灰の陣営 	 Ring of Ash
+カッパーベル銅山 (Hard) 	 Copperbell Mines (Hard)
+ハウケタ御用邸 (Hard) 	 Haukke Manor (Hard)
+下層1 	 First Lower Ring
+下層2 	 Second Lower Ring
+下層3 	 Third Lower Ring
+中層1 	 First Central Ring
+中層2 	 Second Central Ring
+中層3 	 Third Central Ring
+上層 	 Upper Ring
+山スポット25 	 山スポット25
+シルクスの塔 	 Syrcus Tower
+サスタシャ浸食洞 (Hard) 	 Sastasha (Hard)
+ワンダラーパレス (Hard) 	 The Wanderer's Palace (Hard)
+シールロック 	 Seal Rock
+アバラシア 	 Abalathia's Spine
+ドラヴァニア 	 Dravania
+シリウス大灯台 (Hard) 	 Pharos Sirius (Hard)
+リムサ・ロミンサ市街 	 Limsa Lominsa
+ウルヴズジェイル 	 ウルヴズジェイル
+ラノシア 	 La Noscea
+ゴールドソーサー 	 ゴールドソーサー
+ウルダハ市街 	 Ul'dah
+ザナラーン 	 Thanalan
+グリダニア市街 	 Gridania
+黒衣森 	 The Black Shroud
+クルザス 	 Coerthas
+モードゥナ 	 Mor Dhona
+アバラシア 	 Abalathia's Spine
+ドラヴァニア 	 Dravania
+イシュガルド市街 	 Ishgard
+クガネ市街 	 Kugane
+ギラバニア 	 Gyr Abania
+オサード 	 Othard
+クリスタリウム市街 	 The Crystarium
+ユールモア市街 	 Eulmore
+ノルヴラント 	 Norvrandt
+懺悔の回廊 	 The Way of Penance
+寛容の回廊 	 The Torn's Rest
+愚者の広間 	 The Fool's Rest
+裸者の広間 	 Confession Chamber
+審問の間 	 The Way of Forgiveness
+断罪の間 	 Interrogation Chamber
+贖罪の回廊 	 The Way of Redemption
+告解の間 	 Execution Chamber
+出入口 	 Exit
+潮騒のオシュフォーンの独房 	 Ser Aucheforne of the High Tide's Cell
+鈍物ベルガンドの独房 	 Bergand the Broken's Cell
+十本指のタタビの独房 	 Tatabi Tenfingers' Cell
+沼人ユーキルの独房 	 Joukil Halfmoor's Cell
+レディ・ダーランドルの独房 	 Lady Cliaie d'Arlendre's Cell
+出入口 	 Exit
+若木の祭壇 	 Greenwood Altar
+名も無き墓 	 Unmarked Tomb
+絶対王ガルヴァンスの墓 	 Tomb of King Galvanth the Dominator
+イニク家の墓 	 The Ak–Inik Tomb
+大木の祭壇 	 Hardwood Altar
+メナ家の墓 	 The Ak–Mena Tomb
+古木の祭壇 	 Wormwood Altar
+石橋 	 Stone Bridge
+幽寂の円環 	 Eternal Calm
+壺室 	 Interring Chamber
+カーラインカフェ 	 Carline Canopy
+冒険者ギルド 	 Adventurers' Guild
+カーラインカフェ
+[冒険者ギルド] 	 Carline Canopy
+(Adventurers' Guild)
+旅館「とまり木」 	 The Roost
+グリダニア・ランディング 	 Airship Landing
+ミスタル連橋 	 Mistalle Bridges
+水車四辻 	 The Knot
+青狢門 	 Blue Badger Gate
+古樫の高堂 	 The Oak Atrium
+木工師ギルド 	 Carpenters' Guild
+古樫の高堂
+[木工師ギルド] 	 The Oak Atrium
+(Carpenters' Guild)
+フィガガ大水車 	 Figaga's Gift
+どんぐり遊園 	 Acorn Orchard
+ベルラン連橋 	 Berlends Bridges
+白狼門 	 White Wolf Gate
+朱獺門 	 Red Otter Gate
+神勇隊司令砦 	 Quiver's Hold
+弓術士ギルド 	 Archers' Guild
+神勇隊司令砦
+[弓術士ギルド] 	 Quiver's Hold
+(Archers' Guild)
+黒檀商店街 	 Ebony Stalls
+紫檀商店街 	 Rosewood Stalls
+木陰の東屋 	 Shaded Bower
+アトリエ「フェン・イル」 	 Atelier Fen–Yll
+革細工師ギルド 	 Leatherworkers' Guild
+工芸「フェン・イル」 	 Fen–Yll Fineries
+鬼哭隊屯所 	 Wailing Barracks
+槍術士ギルド 	 Lancers' Guild
+鬼哭隊屯所
+[槍術士ギルド] 	 Wailing Barracks
+(Lancers' Guild)
+武具屋「セントールアイ」 	 The Centaur's Eye
+玄猪門 	 Black Boar Gate
+アプカル滝 	 Apkallu Falls
+碩老樹瞑想窟 	 Stillglade Fane
+幻術士ギルド 	 Conjurers' Guild
+碩老樹瞑想窟
+[幻術士ギルド] 	 Stillglade Fane
+(Conjurers' Guild)
+豊穣神祭壇 	 Nophica's Altar
+ミィ・ケット野外音楽堂 	 Mih Khetto's Amphitheatre
+グレートローム農場 	 Greatloam Growery
+園芸師ギルド 	 Botanists' Guild
+グレートローム農場
+[園芸師ギルド] 	 Greatloam Growery
+(Botanists' Guild)
+口笛粉屋 	 The Whistling Miller
+紅茶川 	 Black Tea Brook
+囁きの渓谷 	 Whispering Gorge
+翡翠湖 	 Jadeite Flood
+ハートストリーム 	 Heartstream
+ムントゥイ醸造庫 	 The Mun–Tuy Cellars
+エーテライト・プラザ 	 Gridania Aetheryte Plaza
+双蛇党：統合司令部 	 Adders' Nest
+東桟橋
+黒衣森：東部森林 	 Westshore Pier
+East Shroud
+チョコボ留 	 Chocobokeep
+アトリエ「フェン・イル」
+[革細工師ギルド] 	 Atelier Fen-Yll
+(Leatherworkers' Guild)
+東桟橋 	 Westshore Pier
+先には進めないようだ 	 You cannot proceed any further.
+青狢門（中央森林東方面） 	 Blue Badger Gate (Central Shroud)
+黄蛇門（北部森林方面） 	 Yellow Serpent Gate (North Shroud)
+1F 	 Ground Floor
+2F 	 Second Floor
+B1F 	 Cellarage
+エントランス 	 Foyer
+食料庫 	 Spence
+紅薔薇の間 	 Red Hall
+倉庫 	 Storeroom
+音楽室 	 Clarichord Chamber
+書庫 	 Library
+白百合の間 	 White Hall
+黄撫子の間 	 Yellow Hall
+ワイン藏 	 Bottlery
+被疑者の間 	 Accusation Chamber
+拷問の間 	 Abacination Chamber
+ナル大門 	 Gate of Nald
+不滅隊：作戦本部 	 Hall of Flames
+クイックサンド 	 The Quicksand
+クイックサンド
+[冒険者ギルド] 	 The Quicksand
+(Adventurers' Guild)
+宿屋「砂時計亭」 	 The Hourglass
+プラチナミラージュ 	 Platinum Mirage
+格闘士ギルド 	 Pugilists' Guild
+プラチナミラージュ
+[格闘士ギルド] 	 Platinum Mirage
+(Pugilists' Guild)
+エメラルドアベニュー 	 Emerald Avenue
+コロセウム 	 The Coliseum
+剣術士ギルド 	 Gladiators' Guild
+コロセウム
+[剣術士ギルド] 	 The Coliseum
+(Gladiators' Guild)
+武具店「ルディウス」 	 The Rudius
+ナナモ新門 	 Gate of the Sultana
+アルダネス聖櫃堂 	 Arrzaneth Ossuary
+エラリグ墓地 	 Erralig's Burial Chamber
+呪術士ギルド 	 Thaumaturges' Guild
+アルダネス聖櫃堂
+[呪術士ギルド] 	 Arrzaneth Ossuary
+(Thaumaturges' Guild)
+宝飾店「エシュテム」 	 Eshtaime's Aesthetics
+エシュテム直営工房 	 Eshtaime's Lapidaries
+彫金師ギルド 	 Goldsmiths' Guild
+エシュテム直営工房
+[彫金師ギルド] 	 Eshtaime's Lapidaries
+(Goldsmiths' Guild)
+アマジナ鉱山社 	 Amajina & Sons Mineral Concern
+採掘師ギルド 	 Miners' Guild
+アマジナ鉱山社
+[採掘師ギルド] 	 Amajina & Sons Mineral Concern
+(Miners' Guild)
+オニキスレーン 	 Onyx Lane
+ゴールドコート 	 The Gold Court
+ルビーロード国際市場 	 Ruby Road Exchange
+ウェルヘッドリフト 	 Wellhead Lift
+織物「サンシルク」 	 Sunsilk Tapestries
+裁縫師ギルド 	 Weavers' Guild
+織物「サンシルク」
+[裁縫師ギルド] 	 Sunsilk Tapestries
+(Weavers' Guild)
+ザル大門 	 Gate of Thal
+サファイアアベニュー国際市場 	 Sapphire Avenue Exchange
+パールレーン 	 Pearl Lane
+ミルバネス礼拝堂 	 Milvaneth Sacrarium
+フロンデール薬学院 	 Frondale's Phrontistery
+錬金術師ギルド 	 Alchemists' Guild
+フロンデール薬学院
+[錬金術師ギルド] 	 Frondale's Phrontistery
+(Alchemists' Guild)
+フロンデール歩廊 	 Scholars' Walk
+ロイヤル・プロムナード 	 Royal Promenade
+ウルダハ・ランディング 	 Airship Landing
+宿り木の扉 	 Ivy Door
+浸食洞 	 Sastasha Seagrot
+霧髭のアジト 	 Dead Man's Drink
+霧髭入江 	 Mistbeard Cove
+浸食洞 	 Sastasha Seagrot
+叫びの池 	 Wauling Pond
+行き止り 	 Empty Room
+クァールのねぐら 	 The Cattery
+第一舷梯門 	 The First Rambade
+漕ぎ手室 	 Rowers' Quarters
+出入口 	 Exit
+航海士室 	 Navigator's Quarters
+甲板員室 	 Deckhands' Quarters
+船長室 	 Captain's Quarters
+懲罰房 	 The Hole
+第二舷梯門 	 The Second Rambade
+海人門 	 Waverider Gate
+隠れ桟橋 	 The Sultana's Lap
+Ａ１坑道 	 Shaft A1
+Ｂ１坑道 	 Shaft B1
+Ｂ４坑道 	 Shaft B4
+再開発区Ｅ１坑道 	 Shaft E1
+再開発区Ｅ２坑道 	 Shaft E2
+人喰いの淵 	 Maneater Rip
+喚きの立坑 	 The Screaming Dark
+嘆きの立坑 	 The Crying Dark
+巌窟王の玉座 	 The Cold Throne
+未開の茂み 	 Thicktwine
+ブレイフロクスの避難地 	 Brayflox's Runstop
+泥濘の水源地 	 Mudstop Watergush
+ブレイフロクスの野営地 	 Brayflox's Longstop
+ブレイフロクスの監視小屋 	 Brayflox's Watchbox
+避難地の前庭 	 Runstop Frontblock
+避難地の裏庭 	 Runstop Backblock
+野営地の前庭 	 Longstop Frontblock
+竜のねぐら 	 Dragonsleep
+野営地の内門 	 Longstop Gutgate
+拳闘の間 	 Hall of the Cesti
+剣闘の間 	 Hall of the Secutores
+獣闘の間 	 Hall of the Bestiarii
+フロンデール薬学院小児病棟 	 Frondale's Home for Friendless Foundlings
+政庁層 	 Hustings Strip
+上甲板層 	 Upper Decks
+下甲板層 	 Lower Decks
+アスタリシア号 	 The Astalicia
+コーラルタワー
+[斧術士ギルド] 	 Coral Tower
+(Marauders' Guild)
+コーラルタワー 	 Coral Tower
+銃術士ギルド 	 Musketeers' Guild
+メルヴァン税関公社 	 Mealvaan's Gate
+メルヴァン税関公社
+[巴術士ギルド] 	 Mealvaan's Gate
+(Arcanists' Guild)
+レストラン「ビスマルク」 	 The Bismarck
+レストラン「ビスマルク」
+[調理師ギルド] 	 The Bismarck
+(Culinarians' Guild)
+ナルディク＆ヴィメリー社 	 Naldiq & Vymelli's
+ナルディク＆ヴィメリー社
+[鍛冶師ギルド]
+[甲冑師ギルド] 	 Naldiq & Vymelli's
+(Blacksmiths' Guild)
+(Armorers' Guild)
+巴術士ギルド 	 Arcanists' Guild
+網倉 	 Fisherman's Bottom
+網倉
+[漁師ギルド] 	 Fisherman's Bottom
+(Fishermen's Guild)
+溺れた海豚亭 	 The Drowning Wench
+溺れた海豚亭
+[冒険者ギルド] 	 The Drowning Wench
+(Adventurers' Guild)
+魚商｢ハイアライン｣ 	 The Hyaline
+薬舗｢セブンスセージ｣ 	 The Seventh Sage
+永遠の乙女亭 	 The Missing Member
+調理師ギルド 	 Culinarians' Guild
+ミズンマスト 	 The Mizzenmast
+アドミラルブリッジ 	 The Bridge
+アドミラルブリッジ：作戦指揮所 	 Stateroom
+アドミラルブリッジ：作戦会議室 	 Briefing Room
+リムサ・ロミンサ・ランディング 	 Airship Landing
+チョコボ留 	 Chocobokeep
+ポラリス灯台 	 Pharos Polaris
+フェリードック 	 Ferry Docks
+養殖場 	 The Barrel
+競売所 	 Auction House
+クロウズリフト 	 Crow's Lift
+ブルワークホール 	 Bulwark Hall
+宿屋「ミズンマスト」 	 Mizzenmast Inn
+漁師ギルド 	 Fishermen's Guild
+ゼファー陸門 	 Zephyr Gate
+テンペスト陸門 	 Tempest Gate
+アフトカースル 	 The Aftcastle
+エーテライト・プラザ 	 Limsa Lominsa Aetheryte Plaza
+八分儀広場 	 The Octant
+アンカーヤード 	 Anchor Yard
+鰺刺大橋 	 Procession of Terns
+国際街広場 	 Hawkers' Round
+東国際街商通り 	 East Hawkers' Alley
+西国際街商通り 	 West Hawkers' Alley
+ランプレイ橋廊 	 The Lamprey's Leap
+ミノウ橋廊 	 The Minnow's Leap
+中央管区 	 Central Limsa Lominsa
+北管区 	 Northern Islands
+船長区 	 Captains Ward
+南管区 	 Southern Islands
+水兵区 	 Sailors Ward
+商業区 	 Market Wards
+船着場：リムサ・ロミンサ 	 Lominsan Ferry Docks
+黒渦団：軍令部 	 Maelstrom Command
+黄撫子の扉 	 Carnation Door
+閉ざされた扉 	 Sealed Door
+閉ざされた扉 	 Sealed Door
+避難地の主門 	 Runstop Headgate
+避難地の内門 	 Runstop Gutgate
+避難地の裏門 	 Runstop Backgate
+野営地の主門 	 Longstop Headgate
+船長室の扉 	 Captain's Quarters
+冒険者ギルド前（鍛冶師・甲冑師ギルド/黒渦団） 	 The Aftcastle
+調理師ギルド前（レストラン「ビスマルク」） 	 Culinarians' Guild
+斧術士ギルド前（コーラルタワー） 	 Marauders' Guild
+マーケット（国際街広場） 	 Hawkers' Alley
+漁師ギルド前（双剣士ギルド） 	 Fishermen's Guild
+巴術士ギルド前（フェリードック） 	 Arcanists' Guild
+ゼファー陸門（中央ラノシア方面） 	 Zephyr Gate (Middle La Noscea)
+テンペスト陸門（低地ラノシア方面） 	 Tempest Gate (Lower La Noscea)
+冒険者ギルド前 	 Adventurers' Guild
+呪術士ギルド前 	 Thaumaturges' Guild
+剣術士ギルド前（コロセウム） 	 Gladiators' Guild
+採掘師ギルド前（ブルースカイ） 	 Miners' Guild
+錬金術師ギルド前 	 Alchemists' Guild
+裁縫師ギルド前 	 Weavers' Guild
+ウルダハ王政庁 	 The Chamber of Rule
+ナナモ新門（西ザナラーン方面） 	 Gate of the Sultana (Western Thanalan)
+ナル大門（中央ザナラーン北方面） 	 Gate of Nald (Central Thanalan)
+ザル大門（中央ザナラーン南方面） 	 Gate of Thal (Central Thanalan)
+弓術士ギルド前 	 Archers' Guild
+マーケット（革細工師ギルド前） 	 Leatherworkers' Guild & Shaded Bower
+槍術士ギルド前 	 Lancers' Guild
+幻術士ギルド前 	 Conjurers' Guild
+園芸師ギルド前 	 Botanists' Guild
+ミィ・ケット野外音楽堂 	 Mih Khetto's Amphitheatre
+彫金師ギルド前 	 Goldsmiths' Guild
+サイレントガーデン 	 The Silent Garden
+ロングホール 	 The Long Hall
+旅人の桟橋 	 Point of Peregrination
+水上庭園 	 Still Waters
+無限回廊 	 The Endless Rise
+旅人の安息所 	 The Final Ease
+ワンダラーチャントリー 	 The Chantry
+金地金の沼 	 Golden Pools
+無銭の洞窟 	 The Empty Pocket
+黄水湖 	 Bile Lake
+守衛の罠 	 The Trap
+守衛の詰所 	 The Lock
+金庫の扉 	 The Banded Lid
+徴税人の金庫 	 Coincounter's Chest
+守銭奴の住処 	 The Miser's Hold
+守銭奴の蔵 	 The Miser's Take
+門兵詰所 	 Guardhouse
+チョコボ房 	 Chocobo Stables
+虎口 	 The Gullet
+大広間 	 Grand Hall
+龍息の瀧 	 Dragonbreath Falls
+衛兵食房 	 Feasting Hall
+衛兵宿房 	 Knights' Quarters
+聖ダナフェン礼拝堂 	 Altar to Saint Daniffen
+練兵広場 	 Training Hall
+太陽のテラス 	 The Sun Terrace
+タタメフII世の祈祷所 	 The Oratory of Tatamefu II
+ララフトI世の中庭 	 The Rosarium of Lalafuto I
+ララフトIV世の地下神殿 	 The Adytum of Lalafuto IV
+武力の間 	 The Vault of Steel
+巨富の間 	 The Vault of Wealth
+魔力の間 	 The Vault of Aether
+知恵の間 	 The Vault of Secrets
+ララフトIII世の中庭 	 The Rosarium of Lalafuto III
+審理の間 	 The Inquisitor's Measure
+メメト女王の祈祷所 	 The Oratory of Memeto the Meek
+太陽神アーゼマの間 	 The Cameral Chamber
+祈祷所の扉 	 Inner Sanctum Gate
+閉ざされた扉 	 Sealed Door
+閉ざされた扉 	 Sealed Door
+閉ざされた扉 	 Sealed Door
+閉ざされた門扉 	 Sealed Door
+閉ざされた扉 	 Sealed Door
+地下神殿の扉 	 Lower Sanctum Gate
+武力の扉 	 Vault of Steel
+巨富の扉 	 Vault of Wealth
+魔力の扉 	 Vault of Aether
+知恵の扉 	 Vault of Secrets
+審理の扉 	 Path to Retribution
+渇水の層 	 The Dry Sands
+湧水の層 	 The Wet Sands
+青燐水の層 	 The Blue Sands
+飽食の前室 	 Feeding Pit
+沈殿せし中室 	 Sunken Antechamber
+大喰王の玄室 	 Craver's Den
+埋門 	 Chocobo Stables Gate
+大手門 	 Gullet Gate
+応門 	 Grand Hall Gate
+食房の扉 	 Feasting Hall Gate
+魔導フィールドⅣ 	 Level IV Magitek Field
+1F 	 Ground Level
+B1F 	 First Drop
+ウルヴズピット 	 The Wolf Pit
+ファングケージ 	 Fang Cage
+クロウケージ 	 Claw Cage
+遺跡入口 	 Sanctum Entrance
+埋没遺跡 	 Inner Sanctum
+地下遺跡 	 Lower Sanctum
+大十字の広間 	 The Crossroads
+腐汁の迷宮 	 Path of Decay
+異界の迷宮 	 Path of Vice
+煉獄の迷宮 	 Path of Redemption
+昇天の歩廊 	 Walk of Ascension
+死者の浴室 	 Pools of Demise
+入口（仮） 	 入口（仮）
+愚者の浴室 	 Pools of Folly
+腐王の廟堂 	 Hall of the Tainted
+嘆声の歩廊 	 Walk of Lament
+妖王の廟堂 	 Hall of the Deviant
+焦熱の歩廊 	 Walk of Fire
+獣王の廟堂 	 Hall of the Savage
+不浄の大広間 	 The Gier Hall
+惨劇の翼廊 	 The Bloody Transept
+裏切りの謁見室 	 The Presence Chamber
+1F 	 Ground Floor
+2F 	 Second Floor
+3F 	 Third Floor
+悲憤の前庭 	 The Forecourt
+バービガン 	 The Barbican
+右翼ブレテーシュ 	 The Right Brattice
+補助格納庫 	 The Strongroom
+騎兵詰所 	 The Barracks
+左翼ブレテーシュ 	 The Left Brattice
+勇将の廟堂 	 Hall of the Inexorable
+亡者の浴室 	 Pools of Oblivion
+被疑者の間の扉 	 Accusation Chamber door
+拷問の間の扉 	 Abacination Chamber door
+探査拠点区 	 Exploratory Site Entrance
+メテオの風穴 	 Meteor Fissure
+メテオの探査坑 	 Aetheroacoustic Exploratory Site
+アラグの遺構 	 Allagan Megastructure
+第Iブレード 	 First Blade
+探査坑深部 	 Lower Aetheroacoustic Exploratory Site
+第VII区画 	 Sector VII
+第IV区画 	 Sector IV
+第II区画 	 Sector II
+第I区画 	 Sector I
+第III区画 	 Sector III
+第V区画 	 Sector V
+第VI区画 	 Sector VI
+機関部燃焼室 	 Engine Room
+機関部圧縮室 	 Compression Chamber
+機関部推進剤室 	 Propellant Chamber
+稼働隔壁 	 Drive Cylinder
+バハムートの右手 	 The Right Hand of Bahamut
+第一艦橋 	 Main Bridge
+リフト区画 	 The Lifts
+第XIIブレード 	 Twelfth Blade
+第XIブレード 	 Eleventh Blade
+第Xブレード 	 Tenth Blade
+第IXブレード 	 Ninth Blade
+第VIIIブレード 	 Eighth Blade
+第VIIブレード 	 Seventh Blade
+第VIブレード 	 Sixth Blade
+第Vブレード 	 Fifth Blade
+第IVブレード 	 Fourth Blade
+第IIIブレード 	 Third Blade
+第IIブレード 	 Second Blade
+防衛指揮室 	 Security Command
+ザ・フォールド 	 The Fold
+拘束艦 	 The Ragnarok
+ヘキサリフト 	 Hexalift
+拘束艦稼働隔壁 	 Ragnarok Outer Hull
+要塞外郭 	 Outer Hold
+要塞主郭 	 Inner Hold
+機関部燃焼室 	 Engine Room
+機関部圧縮室 	 Compression Chamber
+機関部推進剤室 	 Propellant Chamber
+シリウス大灯台 	 Pharos Sirius
+第二塔基部 	 Second Spire
+エーテル貯蔵室 	 Fuel Chamber
+エーテル圧縮室 	 Aether Compressor
+シリウスの灯室 	 Beacon Chamber
+第三塔基部 	 Third Spire
+第四塔基部 	 Fourth Spire
+エーテルポンプ室 	 Aether Pump
+5F 	 Fifth Floor
+4F 	 Fourth Floor
+3F 	 Third Floor
+2F 	 Second Floor
+1F 	 Ground Floor
+B1F 	 Flood Cellar
+クリスタルゲート 	 Crystal Gate
+八剣士の前庭 	 The Eight Sentinels
+セブンスヘブン 	 The Seventh Heaven
+第789洞穴団の採掘地 	 789th Order Dig
+ノォヴの育成地 	 Novv's Nursery
+月影島 	 Moonshade Isle
+洋上の商船 	 Open Sea - Merchantman
+洋上の海賊船 	 Open Sea - Pirate Vessel
+海還りの墓碑 	 The Reef of Sending
+未知の釣り場 	 Undiscovered Fishing Hole
+葉脈水系 	 The Vein
+鏡池 	 The Mirror
+青翠の奈落 	 Verdant Drop
+さざなみ小川 	 Springripple Brook
+シルフランド渓谷 	 Sylphlands
+ハズーバ支流：上流 	 Upper Hathoeva River
+ハズーバ支流：中流 	 Middle Hathoeva River
+ハズーバ支流：下流 	 Lower Hathoeva River
+ハズーバ支流：東 	 East Hathoeva River
+ゴブリン族の生簀 	 Goblinblood
+さざめき川 	 Murmur Rills
+フォールゴウド秋瓜湖畔 	 Fallgourd Float
+タホトトル湖畔 	 Lake Tahtotl
+グリダニア：翡翠湖畔 	 Jadeite Flood
+グリダニア：紅茶川水系下流 	 Lower Black Tea Brook
+タングル湿林源流 	 The Deep Tangle
+唄う裂谷北部 	 The North Shards
+クルザス川 	 Coerthas River
+剣ヶ峰山麓 	 The Nail
+キャンプ・ドラゴンヘッド溜池 	 Dragonhead Latrines
+調査隊の氷穴 	 Exploratory Ice Hole
+イシュガルド大雲海 	 Sea of Clouds
+ゼファードリフト沿岸 	 Zephyr Drift
+サマーフォード沿岸 	 Summerford
+西アジェレス川 	 West Agelyss River
+モラビー湾西岸 	 Moraby Bay
+シダーウッド沿岸部 	 Cedarwood
+南ブラッドショア 	 South Bloodshore
+北ブラッドショア 	 North Bloodshore
+東アジェレス川 	 East Agelyss River
+レインキャッチャー沼沢地 	 The Juggernaut
+スカルバレー沿岸部 	 Skull Valley
+ハーフストーン沿岸部 	 Halfstone
+幻影諸島北岸 	 Isles of Umbra Northshore
+幻影諸島南岸 	 Isles of Umbra Southshore
+ブロンズレイク南岸 	 South Bronze Lake
+ブロンズレイク北東岸 	 Northeast Bronze Lake
+ブロンズレイク・シャロー 	 Bronze Lake Shallows
+ロングクライム渓谷 	 The Long Climb
+スートクリーク上流 	 Upper Soot Creek
+スートクリーク下流 	 Lower Soot Creek
+ドライボーン北湧水地 	 North Drybone
+ドライボーン南湧水地 	 South Drybone
+バーガンディ川 	 Burgundy Falls
+ザハラクの湧水 	 Zahar'ak
+サゴリー砂海 	 Sagolii Desert
+サゴリー砂丘 	 Sagolii Dunes
+ブルーフォグ湧水地 	 Bluefog
+グリダニア：紅茶川水系上流 	 Upper Black Tea Brook
+グリダニア：囁きの渓谷 	 Whispering Gorge
+ロータノ海沖合：船首 	 Rhotano Sea (Privateer Forecastle)
+ロータノ海沖合：船尾 	 Rhotano Sea (Privateer Sterncastle)
+クルザス不凍池 	 Unfrozen Pond
+クリアプール 	 Clearpool
+ベーンプール南 	 South Banepool
+ベーンプール西 	 West Banepool
+モーン大岩窟西 	 West Mourn
+サリャク河上流 	 Upper Thaliak River
+サリャク河中州 	 Middle Thaliak River
+ソーム・アル笠雲 	 Sohm Al Summit
+廃液溜まり 	 Aetherochemical Spill
+ブロンズレイク北西岸 	 Northwest Bronze Lake
+常夏の島北 	 North Isle of Endless Summer
+ティモン川 	 Timmon Beck
+夜の森 	 Dimwold
+流星の尾 	 The Comet's Tail
+ベロジナ川 	 The Velodyna River
+ミラージュクリーク 	 Mirage Creek
+夫婦池 	 Grymm & Enid
+スロウウォッシュ 	 The Slow Wash
+ヒース滝 	 Heather Falls
+裁定者の像 	 The Ephor
+ブルズバス 	 The Bull's Bath
+アラギリ水源地 	 Ala Ghiri Reservoir
+アームズ・オブ・ミード 	 The Arms of Meed
+ロッホ・セル湖 	 Loch Seld
+紅玉台場近海 	 The Ruby Price
+獄之蓋近海 	 Hells' Lid
+ベッコウ島近海 	 The Isle of Bekko
+沖之岩近海 	 Shoal Rock
+オノコロ島近海 	 Onokoro
+イサリ村沿岸 	 Isari
+ゼッキ島近海 	 The Isle of Zekki
+アオサギ池 	 The Heron's Nest
+アオサギ川 	 The Heron's Way
+ナマイ村溜池 	 Namai
+ドマ城前 	 Doma Castle
+城下船場 	 Mercantile Docks
+無二江東 	 The One River (East)
+無二江西 	 The One River (West)
+梅泉郷 	 Plum Spring
+七彩溝 	 Prism Lake
+七彩渓谷 	 Prism Canyon
+ドタール・カー 	 Dotharl Khaa
+アジム・カート 	 Azim Khaat
+ネム・カール 	 Nem Khaal
+タオ・カール 	 Tao Khaal
+ヤト・カール下流 	 Lower Yat Khaal
+ヤト・カール上流 	 Upper Yat Khaal
+監獄廃墟 トトラクの千獄 	 The Thousand Maws of Toto-Rak
+地下霊殿 タムタラの墓所 	 The Tam-Tara Deepcroft
+封鎖坑道 カッパーベル銅山 	 Copperbell Mines
+天然要害 サスタシャ浸食洞 	 Sastasha
+霧中行軍 オーラムヴェイル 	 Aurum Vale
+名門屋敷 ハウケタ御用邸 	 Haukke Manor
+魔獣領域 ハラタリ修練所 	 Halatali
+奪還支援 ブレイフロクスの野営地 	 Brayflox's Longstop
+遺跡探索 カルン埋没寺院 	 The Sunken Temple of Qarn
+旅神聖域 ワンダラーパレス 	 The Wanderer's Palace
+城塞攻略 ストーンヴィジル 	 Stone Vigil
+流砂迷宮 カッターズクライ 	 Cutter's Cry
+掃討作戦 ゼーメル要塞 	 Dzemael Darkhold
+邪教排撃 古城アムダプール 	 Amdapor Keep
+怪鳥巨塔 シリウス大灯台 	 Pharos Sirius
+騒乱坑道 カッパーベル銅山 (Hard) 	 Copperbell Mines (Hard)
+妖異屋敷 ハウケタ御用邸 (Hard) 	 Haukke Manor (Hard)
+盟友支援 ブレイフロクスの野営地 (Hard) 	 Brayflox's Longstop (Hard)
+剣闘領域 ハラタリ修練所 (Hard) 	 Halatali (Hard)
+腐敗遺跡 古アムダプール市街 	 The Lost City of Amdapor
+ミスト・ヴィレッジ：コテージ 	 Private Cottage - Mist
+ミスト・ヴィレッジ：ハウス 	 Private House - Mist
+ミスト・ヴィレッジ：レジデンス 	 Private Mansion - Mist
+ゴブレットビュート：コテージ 	 Private Cottage - The Goblet
+ゴブレットビュート：ハウス 	 Private House - The Goblet
+ゴブレットビュート：レジデンス 	 Private Mansion - The Goblet
+ラベンダーベッド：コテージ 	 Private Cottage - The Lavender Beds
+ラベンダーベッド：ハウス 	 Private House - The Lavender Beds
+ラベンダーベッド：レジデンス 	 Private Mansion - The Lavender Beds
+1F 	 Ground Floor
+2F 	 Second Floor
+B1F 	 Cellarage
+1F 	 Ground Floor
+2F 	 Second Floor
+B1F 	 Cellarage
+1 	 1
+2 	 2
+3 	 3
+4 	 4
+5 	 5
+6 	 6
+7 	 7
+8 	 8
+9 	 9
+10 	 10
+11 	 11
+12 	 12
+13 	 13
+14 	 14
+15 	 15
+16 	 16
+17 	 17
+18 	 18
+19 	 19
+20 	 20
+21 	 21
+22 	 22
+23 	 23
+24 	 24
+25 	 25
+26 	 26
+27 	 27
+28 	 28
+29 	 29
+30 	 30
+ハウス（フリーカンパニー） 	 Estate Hall (Free Company)
+ハウジング関連担当官 	 Resident Caretaker
+1F 	 Ground Floor
+B1F 	 Cellarage
+船着場：ミスト・ヴィレッジ 	 Mist Docks
+ミスト・ヴィレッジ東 	 Mist East
+ラベンダーベッド東 	 Lavender East
+ゴブレットビュート北 	 Goblet North
+ゴブレットビュート南東 	 Goblet Southeast
+案内人：ゴブレットビュート 	 Residential Area Guide
+ミスト・ヴィレッジ南 	 Mist South
+ミスト・ヴィレッジ南（船着場） 	 Mist South (Docks)
+ミスト・ヴィレッジ：プライベートルーム 	 Private Chambers - Mist
+ゴブレットビュート：プライベートルーム 	 Private Chambers - The Goblet
+ラベンダーベッド：プライベートルーム 	 Private Chambers - The Lavender Beds
+ハウス（個人） 	 Estate Hall (Private)
+ミスト・ヴィレッジ 	 Mist
+[拡張街]ミスト・ヴィレッジ 	 Mist Subdivision
+ゴブレットビュート 	 The Goblet
+[拡張街]ゴブレットビュート 	 The Goblet Subdivision
+ラベンダーベッド 	 The Lavender Beds
+[拡張街]ラベンダーベッド 	 The Lavender Beds Subdivision
+[拡張街]ミストビーチ 	 Mist Beach Subdivision
+[拡張街]ミストゲート・スクエア 	 Mistgate Square Subdivision
+[拡張街]メルウィブ水道橋 	 The Admiral's Waterspire Subdivision
+[拡張街]シーゲイズ商通り 	 Seagaze Markets Subdivision
+[拡張街]ミスト・ヴィレッジ北東 	 Mist Northeast Subdivision
+[拡張街]ミスト・ヴィレッジ南東 	 Mist Southeast Subdivision
+[拡張街]ミスト・ヴィレッジ中央 	 Central Mist Subdivision
+[拡張街]ミスト・ヴィレッジ北西（船着場） 	 Mist Northwest Subdivision
+[拡張街]ミスト・ヴィレッジ南西 	 Mist Southwest Subdivision
+[拡張街]シーゲイズ商通り（居住区担当官） 	 Seagaze Markets Subdivision
+[拡張街]センナの大樹 	 Senna's Pride Subdivision
+[拡張街]樹冠商店街 	 Dappled Stalls Subdivision
+[拡張街]鎮守の石門 	 Autumn's Sentinels Subdivision
+[拡張街]若草商店街 	 Wildflower Stalls Subdivision
+[拡張街]ラベンダーベッド北東 	 Lavender Northeast Subdivision
+[拡張街]ラベンダーベッド南 	 Lavender South Subdivision
+[拡張街]ラベンダーベッド北西 	 Lavender Northwest Subdivision
+[拡張街]ラベンダーベッド南西 	 Lavender Southwest Subdivision
+[拡張街]ヤイヌ・パーの円庭 	 Yainu-Par Subdivision
+[拡張街]紫水桟橋 	 Amethyst Shallows Subdivision
+[拡張街]樹冠商店街（居住区担当官） 	 Dappled Stalls Subdivision
+[拡張街]エンドレスドラフト 	 The Endless Draught Subdivision
+[拡張街]ゴブレット市場 	 Goblet Exchange Subdivision
+[拡張街]ブリミングハート広場 	 The Brimming Heart Subdivision
+[拡張街]ナナモ大風車 	 The Sultana's Breath Subdivision
+[拡張街]ラウバーンの腕 	 Raubahn's Salute Subdivision
+[拡張街]ゴブレットビュート東 	 Goblet East Subdivision
+[拡張街]ゴブレットビュート北 	 Goblet North Subdivision
+[拡張街]ゴブレットビュート南東 	 Goblet Southeast Subdivision
+[拡張街]ゴブレットビュート南 	 Goblet South Subdivision
+[拡張街]ゴブレットビュート南西 	 Goblet Southwest Subdivision
+[拡張街]ゴブレット市場（居住区担当官） 	 Goblet Exchange Subdivision
+[拡張街]船着場：ミスト・ヴィレッジ 	 Mist Docks Subdivision
+ミストゲート・スクエア 	 Mistgate Square
+メルウィブ水道橋 	 The Admiral's Waterspire
+シーゲイズ商通り 	 Seagaze Markets
+ミストビーチ 	 Mist Beach
+ミスト・ヴィレッジ北西 	 Mist West
+ミスト・ヴィレッジ北東 	 Mist Northeast
+シーゲイズ商通り（居住区担当官） 	 Seagaze Markets
+ミスト・ヴィレッジ南東 	 Mist Southeast
+ゴブレット市場 	 Goblet Exchange
+エンドレスドラフト 	 The Endless Draught
+ブリミングハート広場 	 The Brimming Heart
+ナナモ大風車 	 The Sultana's Breath
+ラウバーンの腕 	 Raubahn's Salute
+ゴブレット市場（居住区担当官） 	 Goblet Exchange
+ゴブレットビュート北東 	 Goblet Northeast
+ゴブレットビュート西 	 Goblet West
+ゴブレットビュート東 	 Goblet East
+樹冠商店街 	 Dappled Stalls
+センナの大樹 	 Senna's Pride
+鎮守の石門 	 Autumn's Sentinels
+若草商店街 	 Wildflower Stalls
+ヤイヌ・パーの円庭 	 Yainu-Par
+紫水桟橋 	 Amethyst Shallows
+ラベンダーベッド北西 	 Lavender Northwest
+ラベンダーベッド南東 	 Lavender Southeast
+ラベンダーベッド南西 	 Lavender Southwest
+樹冠商店街（居住区担当官） 	 Dappled Stalls
+ミスト・ヴィレッジ：地下工房 	 Company Workshop - Mist
+ゴブレットビュート：地下工房 	 Company Workshop - The Goblet
+ラベンダーベッド：地下工房 	 Company Workshop - The Lavender Beds
+エーテライト 	 Aetheryte
+都市転送網 	 Aethernet Shard
+ショップ 	 Shop
+修理 	 Repairs
+モグレター 	 Delivery Moogle
+呼び鈴 	 Summoning Bell
+リテイナー手続き 	 Retainer Vocate
+リンクシェル発行 	 Linkshell Distributor
+カンパニーチェスト 	 Company Chest
+呼び鈴（宿屋内） 	 Summoning Bell (Inn Room)
+ベッド（宿屋内） 	 Bed (Inn Room)
+訪問帳 	 Message Book Stand
+簡易エーテライト 	 Aetheryte Shard
+ダンジョン 	 Dungeon
+船着場 	 Ferry Docks
+フェリードック 	 Ferry Docks
+発着場 	 Landing
+拠点/集落 	 Settlement
+宿屋 	 Inn
+冒険者ギルド 	 Adventurers' Guild
+上の階層へ移動 	 To Upper Level
+下の階層へ移動 	 To Lower Level
+隣接エリアへ移動 	 Adjoining Area
+蛮族拠点：アマルジャ族 	 Amalj'aa Stronghold
+蛮族拠点：シルフ族 	 Sylph Stronghold
+蛮族拠点：イクサル族 	 Ixali Stronghold
+蛮族拠点：サハギン族 	 Sahagin Stronghold
+蛮族拠点：コボルド族 	 Kobold Stronghold
+剣術士ギルド 	 Gladiators' Guild
+格闘士ギルド 	 Pugilists' Guild
+斧術士ギルド 	 Marauders' Guild
+槍術士ギルド 	 Lancers' Guild
+弓術士ギルド 	 Archers' Guild
+幻術士ギルド 	 Conjurers' Guild
+呪術士ギルド 	 Thaumaturges' Guild
+巴術士ギルド 	 Arcanists' Guild
+木工師ギルド 	 Carpenters' Guild
+鍛冶師ギルド 	 Blacksmiths' Guild
+甲冑師ギルド 	 Armorers' Guild
+彫金師ギルド 	 Goldsmiths' Guild
+革細工師ギルド 	 Leatherworkers' Guild
+裁縫師ギルド 	 Weavers' Guild
+錬金術師ギルド 	 Alchemists' Guild
+調理師ギルド 	 Culinarians' Guild
+採掘師ギルド 	 Miners' Guild
+園芸師ギルド 	 Botanists' Guild
+漁師ギルド 	 Fishermen's Guild
+黒渦団：軍令部 	 Maelstrom Command
+双蛇党：統合司令部 	 Adders' Nest
+不滅隊：作戦本部 	 Hall of Flames
+ハウジング関連担当官 	 Resident Caretaker
+マーケットボード 	 Market Board
+デュエルエリア 	 Dueling Area
+レイド 	 Raid
+黒渦団ランディング 	 Storm Landing
+双蛇党ランディング 	 Serpent Landing
+不滅隊ランディング 	 Flame Landing
+モブハントボード 	 Hunt Board
+天気予報士 	 Skywatcher
+双剣士ギルド 	 Rogues' Guild
+ゴールドソーサースタッフ 	 Gold Saucer Employee
+聖ガンリオル占星院  	 Athenaeum Astrologicum
+スカイスチール機工房  	 Skysteel Manufactory
+ポーター 	 Porter
+別エリアへ移動 	 Gatekeeper
+マイスター認定 	 Specialist Approval
+マテリア師 	 Materia Master
+クロの空想帳 	 Wondrous Tails
+お得意様取引 	 Custom Deliveries
+トレーダー 	 Trader
+コンテンツ内エーテライト 	 Aethernet Shard
+メテオの陰地 	 Dalamud's Shadow
+バインディングコイル 	 The Outer Coil
+ラグナロク級三番艦：艦体中央部 	 Central Decks
+ラグナロク級三番艦：作戦室 	 The Holocharts
+ラグナロク級三番艦：第一艦橋 	 Main Bridge
+拓かれた山道 	 Floating Pass
+石兵の血道 	 The Golem Trail
+傷跡の門戸 	 Scar's Edge
+培養器運搬アーム 	 Incubator Transport
+生体管理区 	 Bioweapon Storage
+生体転送区 	 Bioweapon Deployment
+破壊された外部隔壁 	 Breached Hull
+上甲板 	 Upper Decks
+主甲板 	 Main Decks
+下甲板 	 Lower Decks
+左舷第XIV区画 	 Sector XIV
+右舷第XIII区画 	 Sector XIII
+左舷第XII区画 	 Sector XII
+右舷第XI区画 	 Sector XI
+左舷第X区画 	 Sector X
+右舷第IX区画 	 Sector IX
+中枢第VIII区画 	 Sector VIII
+中枢第VII区画 	 Sector VII
+左舷第VI区画 	 Sector VI
+右舷第V区画 	 Sector V
+左舷第IV区画 	 Sector IV
+右舷第III区画 	 Sector III
+左舷第II区画 	 Sector II
+右舷第I区画 	 Sector I
+中枢艦首区 	 Central Bow
+蛮闘の間 	 Hall of the Crupellarii
+剣闘士のホール 	 Hall of the Provocatores
+ハラタリ修練所 (Hard) 	 Halatali (Hard)
+対リヴァイアサン双胴船 	 The Whorleater
+腐敗した市街地 	 Central Amdapor
+封魔洞 	 Sanctum of Dreams
+第一大橋脚 	 First Column
+第二大橋脚 	 Second Column
+水源地の抜道 	 Watergush Sneakway 
+侵入者の仮設橋 	 Unguest's Watercross
+ブレイフロクスの芥場 	 Brayflox's Drossdump
+侵入者の野営陣 	 Unguest's Breachhold
+腐敗の大路 	 The Agora
+平和の残滓 	 Halcyon Court
+白魔道士の塔 	 Tower of White
+夢想宮 	 Dream Gate
+封魔洞 	 The Sanctum of Dreams
+悪夢の舞踏場 	 The Waking Nightmare
+仮設の関門 	 Swiftmake Checkgate
+暁の間 	 The Solar
+ブレイフロクスの野営地 (Hard) 	 Brayflox's Longstop (Hard)
+案内人：ザル回廊 	 Residential Area Guide
+培養層 	 Incubation Bay
+管理層 	 Monitoring Station 
+主格納庫 	 Main Storage Vault
+至天の階段 	 The Ladder of Ascension
+群狼の広間 	 The Gathering
+螺旋回廊 	 The Braid
+守護者の闘技場 	 The Ring of the Protector
+黄金回廊 	 The Golden Sacristy
+帝立歌劇場 	 The Final Curtain
+始皇帝の玉座 	 The Emperor's Throne
+古木の神判地 	 The Striking Tree
+双蛇党ランディング 	 Serpent Landing
+不滅隊ランディング 	 Flame Landing
+黒渦団ランディング 	 Storm Landing
+双蛇党アウトポスト 	 Serpent Outpost
+不滅隊アウトポスト 	 Flame Outpost
+黒渦団アウトポスト 	 Storm Outpost
+アラグ市場跡 	 Allagan Markets
+アラグ太陽神殿 	 Allagan Sun Temple
+アラグ居住区跡 	 Allagan Manors
+ヘリオドロム防衛塔 	 Heliodrome
+カルテノー平原：外縁遺跡群 	 Carteneau Flats: Borderland Ruins
+タムタラの墓所 (Hard) 	 The Tam-Tara Deepcroft (Hard)
+ストーンヴィジル (Hard) 	 The Stone Vigil (Hard)
+ハルブレーカー・アイル 	 Hullbreaker Isle
+霧髭一味のアジト 	 Runner's Reel
+霧髭の宝物庫 	 Hidden Cache
+旗艦「ハール号」 	 The Haar
+生存者の海岸 	 Survivor Spit
+小ホール 	 Minor Hall
+エーテライト・プラザ（格闘士ギルド/不滅隊） 	 Ul'dah Aetheryte Plaza
+エーテライト・プラザ（冒険者・木工師ギルド/双蛇党） 	 Gridania Aetheryte Plaza
+エカトル実験場 	 Ehcatl
+呻きの池 	 Greeting Pond
+潮の抜け道 	 The Pull
+占拠されたアジト 	 Dead Man's Drink
+隠れ桟橋 	 The Sultana's Lap
+戒律の殻 	 The Chrysalis
+久遠の聖堂 	 The Ivory Chapel
+ロウェナ記念会館 	 Rowena's House of Splendors
+工房「ダイヤモンドフォージ」 	 The Diamond Forge
+異端の隧道 	 Corruption
+静かなる氷洞 	 Silence
+風雪の断崖 	 Conviction
+異端の潜窟 	 Contempt
+氷柱の円庭 	 Oblivion
+アク・アファー円形劇場 	 Akh Afah Amphitheatre
+仮設牢獄 	 Asylum
+排水管理室 	 The Bellows
+カルン埋没寺院 (Hard) 	 The Sunken Temple of Qarn (Hard)
+ララフトIV世の地下庭園 	 The Ambulatorium of Lalafuto IV
+ララフトI世の中庭 	 The Rosarium of Lalafuto I
+ラグナロク級六番艦：艦体中央部 	 IC-06 Central Decks
+ラグナロク級六番艦：再生制御区 	 IC-06 Regeneration Grid
+ラグナロク級六番艦：第一艦橋 	 IC-06 Main Bridge
+バハムートコア 	 The Burning Heart
+ラグナロク級四番艦：第一艦橋 	 IC-04 Main Bridge
+生体管理区画 	 Bioweapon Storage
+第VII生体区画 	 Bioweapon Sector VII
+第IX生体区画 	 Bioweapon Sector IX
+第XII生体区画 	 Bioweapon Sector XII
+精神接続区画 	 Neurokinetic Linkup
+第I信徒区画 	 Alpha Concourse
+生体転送区 	 Bioweapon Deployment
+再生制御区外殻 	 Outer Regeneration Grid
+再生制御区内殻 	 Inner Regeneration Grid
+一番艦管制区画 	 IC-01 Control
+八番艦管制区画 	 IC-08 Control
+九番艦管制区画 	 IC-09 Control
+四番艦管制区画 	 IC-04 Control
+二番艦管制区画 	 IC-02 Control
+バインディングコイル制御区画 	 Coil Operations Deck
+コア制御区画 	 Core Override
+エーデルワイス商会 	 Dutiful Sisters of the Edelweiss
+船着場の平屋 	 Dock Storehouse
+応接室 	 Intercessory
+地下 	 Weight Chamber
+闇の世界 	 The World of Darkness
+ケルベロスの胃袋 	 The Belly of the Beast
+妖眼の領域 	 Sphere of the Sightless
+妖竜の領域 	 Sphere of the Voiceless
+妖犬の領域 	 Sphere of the Ravenous
+暗闇の領域 	 Sphere of Naught
+ケルベロスの胃袋 	 The Belly of the Beast
+闇の渚 	 Dark Water
+眼の島 	 The Eye
+妖眼の展望台 	 The Vista
+首の島 	 The Nape
+妖竜の狩場 	 The Vermiculary
+口の島 	 The Jaws
+妖犬の門扉 	 Plutonium
+闇の転送装置 	 The Verge
+暗闇の殻 	 Pitch Black
+古城アムダプール (Hard) 	 Amdapor Keep (Hard)
+悲憤の前庭 	 Garden of Sorrow
+苦渋の広間 	 The Moot Hall
+厄災の十字廊 	 The Twain
+流血の演舞場 	 Scarlet Ballroom
+洋上の大型船 	 Rhotano Privateer
+エーデルワイス商会
+[双剣士ギルド] 	 Dutiful Sisters of the Edelweiss
+(Rogues' Guild)
+31 	 31
+32 	 32
+33 	 33
+34 	 34
+35 	 35
+36 	 36
+37 	 37
+38 	 38
+39 	 39
+40 	 40
+41 	 41
+42 	 42
+43 	 43
+44 	 44
+45 	 45
+46 	 46
+47 	 47
+48 	 48
+49 	 49
+50 	 50
+51 	 51
+52 	 52
+53 	 53
+54 	 54
+55 	 55
+56 	 56
+57 	 57
+58 	 58
+59 	 59
+60 	 60
+ゴールドソーサー 	 The Gold Saucer
+エントランススクウェア 	 Entrance Square
+エーテライト・プラザ 	 Gold Saucer Aetheryte Plaza
+カードスクウェア 	 Card Square
+ワンダースクウェア 	 Wonder Square
+ラウンドスクウェア 	 Round Square
+イベントスクウェア 	 Event Square
+ゴールドソーサー・ランディング 	 Airship Landing
+メインカウンター 	 Main Counter
+チョコボリフト 	 Chocobo Lift
+ジャボテンダー 	 El Coloso
+マウント・コレル 	 Mt. Corel
+イベントステージ 	 Main Stage
+くじテンダーボード 	 Cactpot Board
+テーブル・マンダヴィル 	 The Manderville Tables
+ラウンジ・マンダヴィル 	 The Manderville Lounge
+チョコボスクウェア 	 Chocobo Square
+チョコボレースカウンター 	 Race Counter
+チョコボリフト 	 Chocobo Lift
+崩れた構造体 	 Agrius Hull
+帝国軍仮設作業場 	 Provisional Research Camp
+浮行ガス充填区 	 Ceruleum Spill
+幻龍の背 	 The Keeper's Spine
+黙約の広間 	 The Forsworn Promise
+（仮）第１障壁 	 First Ward
+（仮）第2障壁 	 Second Ward
+対竜バリスタ：フラヴィアン 	 Flavien's Arm
+（仮）第3障壁 	 Third Ward
+対竜バリスタ：シルヴトレル 	 Sylvetrel's Arm
+（仮）第4障壁 	 Fourth Ward
+対竜バリスタ：ハルドラス 	 Haldrath's Arm
+聖徒門 	 The Arc of the Worthy
+（仮）防衛橋エリア名 	 The Steps of Faith
+エーテライト・プラザ 	 Gold Saucer Aetheryte Plaza
+エントランススクウェア（カードスクウェア） 	 Entrance & Card Squares
+ワンダースクウェア東（ドマ式麻雀） 	 Wonder Square East
+ワンダースクウェア西 	 Wonder Square West
+イベントスクウェア 	 Event Square
+くじテンダーボード 	 Cactpot Board
+ラウンドスクウェア 	 Round Square
+チョコボスクウェア 	 Chocobo Square
+低層 	 Forecastle
+中層 	 Quarterdeck
+高層 	 Stern
+1F 	 Ground Floor
+3F 	 Third Floor
+B1F 	 Cellar
+外郭中庭 	 Outer Training Grounds
+騎兵詰所 	 Barracks
+キープ内部 	 Inner Keep
+閲兵ホール 	 Gathering Hall
+作戦会議室 	 Lord Commander's Seat
+聖ガンリオル礼拝堂 	 Saint Guenriol's Chapel
+キープ外壁 	 Outer Walls
+ゴール 	 Finish Line
+飛び石の島 	 The Pebble That Skips
+木々揺れる参道 	 The Trees That Sway
+水巡る社庭 	 The Water That Sings
+吹き荒れる随神島 	 The God Who Whispers
+風惑う拝殿 	 The Wind That Summons
+雲産みの社 	 The Cloud That Laughs
+博物戦艦総合デッキ 	 Grand Deck
+歴史展示デッキ 	 History Gallery
+兵器展示デッキ 	 Soldiery Gallery
+博物戦艦防衛デッキ 	 Security Deck
+第III展示区 	 Exhibit Level III
+特級キメラ培養室 	 High-level Incubation Bay
+バイオレット管制区 	 Violet Ward
+クリムゾン管制区 	 Crimson Ward
+エメラルド管制区 	 Emerald Ward
+現実拡張室 	 Reality Augmentation Bay
+艦首構造群 	 Forward Complex
+左舷構造群 	 Larboard Complex
+右舷構造群 	 Starboard Complex
+礼拝堂身廊 	 Chantry Nave
+礼拝堂側廊 	 Chantry Cloister
+庁内庭園 	 Inner Sanctum
+氷天宮 	 Hall of the Spear
+教皇庁の身廊 	 Vault Nave
+聖トールダン大聖堂 	 Saint Thordan's Basilica
+礼拝堂の昇降室 	 Chantry Lift
+庭園東の昇降室 	 East Sanctum Lift
+庭園西の昇降室 	 West Sanctum Lift
+氷天宮の昇降室 	 Spear Lift
+氷天宮円堂 	 Rotunda
+聖歌隊席 	 The Quire
+庭園の小ホール 	 Chapter House
+氷天宮礼拝堂 	 The Chancel
+エアリー・エクステリア 	 Aery Exterior
+エアリー・インテリア 	 Aery Interior
+エアリー・エイペックス 	 Aery Apex
+艦体構造群 	 Central Complex
+アク・ファール・ライ 	 Akh Fahl Lye
+ミニオンスクウェア 	 Minion Square
+第66号前線培養室 	 Incubator 66
+テン・ウール 	 Ten Oohr
+エルン・スコール 	 Errn Scorh
+ニーズヘッグ・アン 	 Nidhogg An
+ブロークンリンク 	 The Broken Link
+サーペントスロート 	 The Serpent's Throat
+シールロック・ランディング 	 Seal Rock Landing
+ロンデファイル浸食谷 	 The Long Defile
+スワローテイル海岸 	 Swallowtail Sands
+先遣隊の発掘場 	 The Dig
+メインゲート 	 Main Portal
+機械兵器研究棟 	 Automachina Research
+物資運搬路 	 Material Transport
+物資分配場 	 Material Distribution
+生体兵器研究棟 	 Bioweapon Research
+特殊警戒通路 	 Security Passage
+三闘神制御区 	 Triad Control
+ニューロリンク 	 Neurolink
+スフィア・オブ・マーヴィン 	 Marvyn
+試作機実験庫 	 Analysis and Proving
+評価試験場 	 Evaluation and Authentication
+第VII培養層 	 Incubation Bay VII
+第VIII培養層 	 Incubation Bay VIII
+ニューロリンク・ナセル 	 Neurolink Nacelle
+機械兵器研究棟 	 Automachina Research
+生体兵器研究棟 	 Bioweapon Research
+三闘神制御区 	 Triad Control
+南の斜面 	 The South Face
+霊峰の血管 	 The Veins
+不義の山道 	 Betrayal
+碧の崖 	 Greenlinn
+紅の墓 	 The Red Crypt
+蒼の墓 	 The Blue Crypt
+霊峰の傷 	 The Wound
+ヘス・アファー 	 Hess Afah
+ソーム・アル：不義の山道 	 Betrayal
+ソーム・アル：霊峰の血管 	 The Veins
+ソーム・アル：南の斜面 	 The South Face
+黙想閲覧室 	 Reading Room
+幻想書庫 	 School of Phantasmagoria
+奇想談話室 	 Convocation House
+エーテル学研究室 	 Aetherology End
+博物学研究室 	 Natural History Room
+夢想禁書庫 	 School of Fantastics
+魔書の翼廊 	 Hall of Magicks
+占星学研究室 	 Astrology and Astromancy Camera
+狂想禁書庫 	 Rhapsodies Quadrangle
+昇降機 	 Autolift
+昇降機 	 Autolift
+フィスト・オブ・ゴルディオス 	 The Fist of the Father
+第583整備坑道 	 Serviceway #583
+第262蒸気機関室 	 Engine Room #262
+第44機工兵格納庫 	 Machinery Bay 44
+第8大型格納庫 	 Hangar 8
+カフ・オブ・ゴルディオス 	 The Cuff of the Father
+第542整備坑道 	 Serviceway #542
+第541整備坑道 	 Serviceway #541
+第539整備坑道 	 Serviceway #539
+第12大型格納庫 	 Hangar 12
+アーム・オブ・ゴルディオス 	 The Arm of the Father
+第523整備坑道 	 Serviceway #523
+ストラテゲイオン1階 	 Strategeion - 1F
+ストラテゲイオン2階 	 Strategeion - 2F
+ストラテゲイオン3階 	 Strategeion - 3F
+ストラテゲイオン4階 	 Strategeion - 4F
+第9大型復水器 	 Condensate Demineralizer #9
+バーデン・オブ・ゴルディオス 	 The Burden of the Father
+チョコボスクウェア（ミニオンスクウェア） 	 Minion Square
+ディアデム諸島 	 The Diadem
+カフ上層 	 Upper Ring
+カフ下層 	 Lower Ring
+エーテライト・プラザ 	 Ishgard Aetheryte Plaza
+忘れられた騎士亭前（聖バルロアイアン広場） 	 The Forgotten Knight
+スカイスチール機工房前（聖レネット広場） 	 Skysteel Manufactory
+雲霧街 	 The Brume
+聖ガンリオル占星院前（イシュガルド・ランディング） 	 Athenaeum Astrologicum
+マーケット（宝杖通り） 	 The Jeweled Crozier
+聖レマノー大聖堂（聖アンダリム神学院） 	 Saint Reymanaud's Cathedral
+神聖裁判所 	 The Tribunal
+ラストヴィジル（フォルタン伯爵邸） 	 The Last Vigil
+聖徒門（クルザス中央高地方面） 	 The Gates of Judgement (Coerthas Central Highlands)
+かいはつしつ 	 The Eighteenth Floor
+なおきのへや 	 Office of the Producer
+おんがくしつ 	 Sound Studio
+LoVMカウンター 	 Lord of Verminion Counter
+ウルヴズジェイル演習場 	 The Feasting Grounds
+カードバトルルーム 	 The Battlehall
+アレキサンダー結節点 	 Articulation
+ゴルディオス・ノット 	 The Gordian Knot
+4F　5F 	 Fifth & Fourth Levels
+3F 	 Third Level
+2F 	 Second Level
+1F 	 First Level
+熱帯展示室 	 Telmatology
+乾燥帯展示室 	 Eremology
+聖モシャーヌの研究窟 	 The Study
+密林の小道 	 Silvology
+揺れる蓮池 	 Limnology
+腐臭の庭 	 Zymology
+女王蜂の玉座 	 Amber Room
+芳香の食卓 	 Last Supper
+エーテライト・プラザ 	 Idyllshire Aetheryte Plaza
+イディルシャイア西 	 West Idyllshire
+表紙門（低地ドラヴァニア西方面） 	 Prologue Gate (Western Hinterlands)
+裏表紙門（低地ドラヴァニア東方面） 	 Epilogue Gate (Eastern Hinterlands)
+コボルド軍地下坑道 	 Sapper Tunnel
+1F 	 First Floor
+B1F 	 The Underworks
+腐敗した市街地 	 Central Amdapor
+翼獣の縄張 	 Dark Wings
+魔晶堂 	 The Crystallum
+守護の聖域 	 The Protectorate
+星の渚 	 Pleroma
+最上下層 	 The Lower Reaches
+最下上層 	 The Upper Reaches
+賢者の研究室 	 Where Minds Toil
+隠者の娯楽室 	 Where Souls Rest
+空中魔法陣 	 The Manifest
+浮遊舞踏場 	 Where Hearts Leap
+星海展望室 	 Where All Witness
+クロウケージ 	 Claw Cage
+ファングケージ 	 Fang Cage
+腐敗した市街地 	 Central Amdapor
+封魔洞 	 Sanctum of Dreams
+魔晶堂 	 The Crystallum
+古アムダプール市街 (Hard) 	 The Lost City of Amdapor (Hard)
+悲嘆の前庭 	 An Answer of Sorrow
+静寂の宮殿 	 An Answer of Silence
+悔恨の正殿 	 An Answer of Shame
+フィスト・オブ・ミダース 	 The Fist of the Son
+第721整備坑道 	 Serviceway #721
+第334蒸気機関室 	 Engine Room #334
+ゴブリサイエンス研究室 	 The Clevering
+第726整備坑道 	 Serviceway #726
+超最先端実験室 	 Advanced Clevering
+カフ・オブ・ミダース 	 The Cuff of the Son
+カフ前部 	 Forward Ring
+カフ後部 	 Rear Ring
+第763整備坑道 	 Serviceway #763
+第66機工兵格納庫 	 Machinery Bay 66
+第67機工兵格納庫 	 Machinery Bay 67
+第68機工兵格納庫 	 Machinery Bay 68
+第69機工兵格納庫 	 Machinery Bay 69
+第70機工兵格納庫 	 Machinery Bay 70
+アーム・オブ・ミダース 	 The Arm of the Son
+左上腕部 	 Upper Arm
+科学都市 	 Illuminus
+第796整備坑道 	 Serviceway #796
+第5機関塔 	 Control Tower 5
+科学都市外縁 	 Outer Illuminus
+アレキサンダー科学都市 	 Illuminus
+公開処刑広場 	 Electrocution Gallery
+バーデン・オブ・ミダース 	 The Burden of the Son
+ミダース・ノット 	 The Midan Knot
+キャンプ・グローリー 	 Camp Glory
+アウルネスト跡 	 Owl's Nest
+ダークスケール湖畔 	 Clearwater
+グローリー発掘地 	 Discovery
+アラガントームリスS1号基 	 Allagan Tomelith S1
+アラガントームリスS2号基 	 Allagan Tomelith S2
+アラガントームリスS3号基 	 Allagan Tomelith S3
+フィールド・オブ・グローリー 	 The Fields of Glory
+ハルブレーカー・アイル (Hard) 	 Hullbreaker Isle (Hard)
+禁忌都市マハ 	 The Weeping City of Mhach
+ヤフェーム湿地 	 Yafaem Saltmoor
+マハ都市遺跡 	 The Weeping Ruins
+ピラミッド基部層 	 Pyramid Base
+ピラミッド上部層 	 The Gloriole
+圧縮世界 	 Twelvefold
+ピラミッド最上層 	 Pyramid Peak
+不浄の湿地 	 Peat Bogs
+湿地の細道 	 The Dryroad
+マハ市街地 	 Mhach
+ピラミッド陸橋 	 The Approach
+基幹通路 	 Main Corridor
+警備通路 	 Security Corridor
+大怪球の参道 	 The Gallery
+圧縮世界 	 Twelvefold
+上昇通路 	 Ascending Corridor
+[拡張街]船着場：ラベンダーベッド 	 Lavender Beds Docks Subdivision
+大迷宮バハムート 	 The Binding Coil of Bahamut
+蜘蛛女の狩場 	 The Queen's Room
+クェーサル公園 	 Cessair Lawns
+シャトト記念広場 	 Shatotto Memorial
+神託の祭壇 	 The Shrine of the Goetic
+操魔の関門 	 Control Gates
+オズマ大回廊 	 The Gloriole
+要の玄室 	 Tomb of the Nullstone
+哀しみの円庭 	 Unsevered Despair
+祈りの身廊 	 Unstifled Prayer
+追憶の柱礎 	 Shattered Remembrance
+嘆きの庭園 	 Sudden Torment
+ラタトスクの殿堂 	 Ratatoskr's Peace
+軍獣訓練区画 	 Hell of Howls
+行軍訓練区画 	 Hell of Malms
+海上訓練区画 	 Hell of Waves
+黒渦闘技場 	 Maelstrom
+宝物庫入口 	 Treasury Entrance
+第一区画 	 1st Chamber
+第二区画 	 2nd Chamber
+第三区画 	 3rd Chamber
+第四区画 	 4th Chamber
+第五区画 	 5th Chamber
+第六区画 	 6th Chamber
+最終区画 	 7th Chamber
+中層 	 Middle Floors
+最上層 	 Upper Floors
+大渓谷の隘路 	 The Wishbone
+タパソリ営巣地 	 Tapaxoli
+ゼルファトル山麓 	 The First Mountain
+営巣地門前 	 The Cage
+タパソリ闘技場 	 The Tlachtli
+神前祭壇 	 The Vortex
+ゼルファトル 	 Xelphatol
+死者の宮殿 	 The Palace of the Dead
+個人演習場 	 Dueling Circle
+稀覯書庫受付 	 Rare Tomes Desk
+断想閲覧室 	 School of Nihility
+司書長室 	 The Last Lamp
+思想稀覯書庫 	 Rare Tomes Room
+アクアポリス 	 The Aquapolis
+双蛇党兵舎 	 Twin Adder Barracks
+不滅隊兵舎 	 Flame Barracks
+黒渦団兵舎 	 Maelstrom Barracks
+パロック繋留基地 	 The Parrock
+レオファードの私室 	 Leofard's Chambers
+トップマスト 	 The Topmast
+[拡張街]トップマスト 	 The Topmast Subdivision
+リリーヒルズ 	 Lily Hills
+[拡張街]リリーヒルズ 	 Lily Hills Subdivision
+ナナモ大風車 	 The Sultana's Breath
+[拡張街]ナナモ大風車 	 The Sultana's Breath Subdivision
+トップマスト：ロビー 	 Topmast Apartment Lobby
+トップマスト：部屋 	 Topmast Apartment
+リリーヒルズ：ロビー 	 Lily Hills Apartment Lobby
+リリーヒルズ：部屋 	 Lily Hills Apartment
+ナナモ大風車：ロビー 	 Sultana's Breath Apartment Lobby
+ナナモ大風車：部屋 	 Sultana's Breath Apartment
+001号室 	 Room #001
+002号室 	 Room #002
+003号室 	 Room #003
+004号室 	 Room #004
+005号室 	 Room #005
+006号室 	 Room #006
+107号室 	 Room #107
+108号室 	 Room #108
+106号室 	 Room #106
+101号室 	 Room #101
+105号室 	 Room #105
+103号室 	 Room #103
+104号室 	 Room #104
+102号室 	 Room #102
+201号室 	 Room #201
+202号室 	 Room #202
+館主の間 	 The Hall of Blood
+亡霊屋敷 ホーンテッドマナー 	 Haunted Manor
+アイズ・オブ・アレキサンダー 	 Eyes of the Creator
+知神の水瓶 	 The Tipped Ewer
+アレキサンダー・ヘッド 	 The Cranium
+ミダース・ユニット 	 The Midas Unit
+頭部甲板 	 The Cranial Plate
+再生処理室 	 Life Support
+ブレス・オブ・アレキサンダー 	 Breath of the Creator
+公開処刑塔 	 Danglylimbs
+科学都市4番街 	 Illuminus - Ward 4
+科学都市11番街 	 Illuminus - Ward 11
+公開処刑塔前 	 Slickred Drainage Ducts
+科学的万能処刑場 	 The Excruciationator
+ハート・オブ・アレキサンダー 	 Heart of the Creator
+中枢上層 	 The Atrium
+中枢下層 	 The Ventricle
+コア製造ライン 	 Core Production
+エネルギー供給ライン 	 Energy Conduit
+中枢大動力室 	 Main Generators
+ソウル・オブ・アレキサンダー 	 Soul of the Creator
+過去空間 	 Entropy
+中央管制室 	 Central Control
+ハート・オブ・アレキサンダー 	 Heart of the Creator
+バエサルの長城 	 Baelsar's Wall
+長城下部 	 Lower Reaches
+長城内部1 	 Outer Reaches
+長城内部2 	 Inner Reaches
+長城上部 	 The Walk
+ヴィア・プラエトリア 	 Via Praetoria
+魔導兵器格納庫 	 Magitek Installation
+飛空戦艦発着場 	 Airship Landing
+カストルム・オリエンス 	 Castrum Oriens
+長城内兵器庫 	 Armory
+長城胸壁 	 Parapet
+影の国ダン・スカー 	 Dun Scaith
+巨大飛空艇「レディ・ラドリア号」 	 The Lady Radlia
+ダン・スカー遺跡群 	 Dun Scaith Ruins
+城塞内部 	 The Crumbling Hold
+城塞屋上 	 Hold Roof
+未知空間 	 Unwhere
+影の鐘楼 	 The Belfry
+闇薔薇の円庭 	 Round of the Dark Rose
+闇薔薇の広間 	 Hall of the Dark Rose
+レディ・ラドリア号主甲板 	 Main Deck
+影の商店区 	 The Mercantile
+影の大通り 	 The Thoroughfare
+道化の舞台 	 The Rostrum
+女王の観閲広場 	 The Queen's Pride
+女王の間 	 The Queen's Graces
+観月の座 	 Lunar
+ライケンウィード演習場 	 Lichenweed
+クロウケージ 	 Claw Cage
+ファングケージ 	 Fang Cage
+オメガ管制室 	 Omega Control
+ソーム・アル山麓 (Hard) 	 Sohm Al (Hard)
+ソーム・アル：霊峰の心臓 	 The Heart
+炎獣の縄張り 	 The Fever
+大溶岩窟 	 Lava Tube
+霊峰の心臓 	 The Heart
+シロガネ：コテージ 	 Private Cottage - Shirogane
+シロガネ：ハウス 	 Private House - Shirogane
+シロガネ：レジデンス 	 Private Mansion - Shirogane
+茜雲桟橋 	 Akanegumo Bridge
+茜坂商店街 	 Akanezaka Markets
+白銀浜 	 Shirogane Shores
+好文園 	 Kobun Gardens
+隠れ浜 	 Hidden Shores
+白雲之湯 	 Shirakumo Hot Springs
+茜雲桟橋(居住区担当官) 	 Akanegumo Bridge
+シロガネ北西 	 Northwestern Shirogane
+シロガネ西 	 Western Shirogane
+紅梅御殿 	 Kobai Goten
+シロガネ北東 	 Northeastern Shirogane
+シロガネ南西 	 Southwestern Shirogane
+シロガネ南 	 Southern Shirogane
+シロガネ南東 	 Southeastern Shirogane
+[拡張街]茜雲桟橋 	 Akanegumo Bridge Subdivision
+[拡張街]茜坂商店街 	 Akanezaka Markets Subdivision
+[拡張街]白銀浜 	 Shirogane Shores Subdivision
+[拡張街]好文園 	 Kobun Gardens Subdivision
+[拡張街]隠れ浜 	 Hidden Shores Subdivision
+[拡張街]白雲之湯 	 Shirakumo Hot Springs Subdivision
+[拡張街]シロガネ北 	 Northern Shirogane Subdivision
+[拡張街]シロガネ東 	 Eastern Shirogane Subdivision
+[拡張街]茜雲桟橋(居住区担当官) 	 Akanegumo Bridge Subdivision
+[拡張街]シロガネ北東 	 Northeastern Shirogane Subdivision
+[拡張街]シロガネ西 	 Western Shirogane Subdivision
+[拡張街]紅梅御殿 	 Kobai Goten Subdivision
+[拡張街]シロガネ南西 	 Southwestern Shirogane Subdivision
+[拡張街]シロガネ南 	 Southern Shirogane Subdivision
+星導山寺院　　　コンテンツ名は「壊神修行 星導山寺院」 	 The Temple of the Fist
+ラールガーの肩 	 Rhalgr's Shoulder
+星導の参道 	 The Way of Enlightenment
+星導山寺院本殿 	 The Closed Fist
+水苔池 	 Tourmaline Pond
+陰陽苑 	 Harmony
+導霊殿 	 Guidance
+星導山中腹 	 Dilemma
+星導山山頂 	 Enlightenment
+格納区画 	 Storage Compound
+実験区画 	 Testing Compound
+中枢区画 	 Central Compound
+陸戦兵器開発房 	 Terrestrial Weaponry
+強化実験房 	 Project Aegis
+性能試験場 	 Assessment Grounds
+蒼玉魚園 	 Sogyoku Piscary
+紅玉御殿 	 Kogyoku Palace
+紫水祭殿 	 Shisui Temple
+春告門前 	 Harutsuge Gate
+紅潮之間 	 Akashio Hall
+紫水御神楽 	 Shisui Gokagura
+エーテライト・プラザ 	 Kugane Aetheryte Plaza
+潮風亭前 	 Shiokaze Hostelry
+第一波止場 	 Pier #1
+ラザハン大使館前 	 Thavnairian Consulate
+マーケット（小金通り） 	 Kogane Dori Markets
+望海楼 	 Bokairo Inn
+ウルダハ商館前 	 The Ruby Bazaar
+赤誠組屯所南 	 Sekiseigumi Barracks
+楽座街 	 Rakuza District
+紅玉海方面 	 The Ruby Price
+エーテライト・プラザ 	 Rhalgr's Reach Aetheryte Plaza
+ラールガーズリーチ西 	 Western Rhalgr's Reach
+ラールガーズリーチ北東 	 Northeastern Rhalgr's Reach
+ギラバニア辺境地帯方面 	 Fringes Gate
+ギラバニア山岳地帯方面 	 Peaks Gate
+ミゼリー号 	 The Misery
+亡霊の岩場 	 Spae Rock
+ジェイン号 	 The Jane Guy
+看守長の遊技場 	 Warden's Delight
+棄てられた監獄島 	 The Isle of the Dead
+クラウツ大灯台 	 Glowering Krautz
+二の丸御殿庭園 	 Ni-no-Maru Manor Gardens
+渓泉園 	 Keisen Garden
+本丸御殿 	 Hon-maru Manor
+岩礁地帯 	 The Teeth
+難破船群 	 The Whipjacks
+天守武道館 	 Budokan Training Grounds
+本丸天守 	 Hon-maru Tenshu
+天守能楽堂 	 Noh Theater
+二の丸 	 Ni-no-Maru
+本丸 	 Hon-maru
+戦士バルダムの狩場 	 Bardam's Hunt
+勇士バルダムの再誕地 	 The Rebirth of Bardam the Brave
+物言わぬ語り部 	 The Voiceless Muse
+若きバルダムの躍動 	 The Rise of Bardam the Brash
+驕りしバルダムの受難 	 The Fall of Bardam the Boastful
+勇壮なるバルダムの栄光 	 The Glory of Bardam the Bold
+明けの試練 	 The Dawn Trial
+暮れの試練 	 The Dusk Trial
+勇士バルダムの偉業 	 The Triumph of Bardam the Brave
+第III兵器庫 	 The Third Armory
+練兵場 	 Training Grounds
+赤燕の間 	 Hall of the Scarlet Swallow
+二の曲輪 	 Ni-no-Kuruwa
+一の曲輪 	 Ichi-no-Kuruwa
+ドマ城天守 	 Tenshu
+四柱大広間 	 Hall of the Four Pillars
+ウズネアカナル入口 	 Canal Entrance
+第一区画 	 The First Sluice
+第二区画 	 The Second Sluice
+第三区画 	 The Third Sluice
+第四区画 	 The Fourth Sluice
+第五区画 	 The Fifth Sluice
+第六区画 	 The Sixth Sluice
+最終区画 	 The Seventh Sluice
+高地ドラヴァニア 	 The Dravanian Forelands
+低地ドラヴァニア 	 The Dravanian Hinterlands
+ドラヴァニア雲海 	 The Churning Mists
+チョコボの森 	 Chocobo Forest
+スモーキングウェイスト 	 The Smoldering Wastes
+グナースの塚 	 Loth ast Gnath
+アヴァロニア・フォールン 	 Avalonia Fallen
+ソーム・アル山麓 	 Sohm Al Foothills
+モーン大岩窟 	 Mourn
+シャーレアン工匠街 	 The Makers' Quarter
+シャーレアン選者街 	 The Collectors' Quarter
+シャーレアン哲人街 	 The Ruling Quarter
+ソーム・アル山頂 	 Sohm Al Summit
+エイル・トーム 	 Eil Tohm
+ランドロード遺構 	 Landlord Colony
+フォーアームズ 	 Four Arms
+オール・ターン 	 Ohl Tahn
+グリーンスウォード島 	 Greensward
+テイルフェザー 	 Tailfeather
+悲嘆の飛泉 	 The Hundred Throes
+ウィロームリバー 	 Whilom River
+ヴァスの塚 	 Loth ast Vath
+邪竜の彫像 	 The Stained One
+兵站穴 	 Thriphive
+武神穴 	 Gynehive
+不浄の三塔 	 Anyx Trine
+ダンナー街道 	 The Danneroad 
+エース・ダイ 	 Ehs Daih
+餌食の台地 	 The Iron Feast
+光輪の祭壇 	 Halo
+ソーム・アル 	 Sohm Al
+大工房アーキテクトン 	 The Arkhitekton
+創造の道 	 The Paths of Creation
+聖モシャーヌ植物園 	 Saint Mocianne's Arboretum
+クイックスピル・デルタ 	 Quickspill Delta
+マトーヤの洞窟 	 Matoya's Cave
+碩学の道 	 Path of Knowing
+グブラ幻想図書館 	 The Great Gubal Library
+サリャク河 	 Thaliak River
+知神の水瓶 	 The Tipped Ewer
+機工城アレキサンダー 	 Alexander
+モグモグホーム 	 Moghome
+手紙の家 	 The House of Letters
+モンステリエ 	 Monsterie
+アサー天空廊 	 Asah
+白亜の宮殿 	 Zenith
+飛竜泊 	 The Rookery
+サルウーム・カシュ 	 Tharl Oom Khash
+イーストン・アイ 	 Easton Eyes
+ドラゴンズエアリー 	 The Aery
+聖女シヴァ像 	 Mother of the Sheave
+シャーレアン学士街 	 The Answering Quarter
+つつやき小道 	 The Hissing Cobbles
+バックブリッジ 	 Buckbridge
+メアズオウス遺跡 	 Mare's Oath
+不浄の集落 	 Anyx Minor
+アネス・ソー 	 Anyx Old
+ダガー石柱群 	 The Daggers
+セノタフ大石碑 	 Cenotaph
+ショートストップ野営地 	 Bigwest Shortstop
+オーン原生林 	 The Orn Wild
+黙想の道 	 The Paths of Contemplation
+アスロン跡 	 The Asulon
+確信の道 	 The Path of Conviction
+グブラ山 	 Mt. Gubal
+ぼっちの木 	 The Lonely
+グロン・レイ 	 Gron Rhei
+いちばんの木 	 The Old Father
+サウストン・ウォール 	 Sothton Walls
+ウェストン・ウォーター 	 Weston Waters
+ランドロード像 	 The Lost Landlord
+武神の闘技場 	 Thok ast Thok
+イディルシャイア 	 Idyllshire
+供物穴 	 Sacrificial Chamber
+表紙橋 	 Frontbridge
+裏表紙橋 	 Backbridge
+セノタフ大石碑 	 The Cenotaph
+エーテライト・プラザ 	 Idyllshire Aetheryte Plaza
+逆さの塔 	 The Antitower
+ストーンスカイシー 	 Stone, Sky, Sea
+ソール・カイ 	 Sohr Khai
+グブラ幻想図書館 (Hard) 	 The Great Gubal Library (Hard)
+スティックキクス工房 	 Stickqix's Bangpots
+ロウェナ総合文化会館 	 Rowena's Center for Cultural Promotion
+自由市場 	 Freewalks Roundspot
+バール・レス広場 	 Bahrr Lehs
+崖っぷち亭 	 The Hard Place
+スネイル広場 	 The Snail
+グリーングラブ菜園 	 Greengrub Mudplots
+アストラガロス 	 Astragalos
+アバラシア雲海 	 The Sea of Clouds
+アジス・ラー 	 Azys Lla
+クラウドトップ 	 Cloudtop
+ヴール・シアンシラン 	 Voor Sian Siran
+ブンド・オク・ベンド 	 Vundu Ok' Bendu
+ブルーウィンドウ 	 The Blue Window
+ガントレット諸島 	 The Gauntlet
+オク・ブンド・ヴァナ 	 Ok' Vundu Vana
+オク・ブンド・モック 	 Ok' Vundu Mok
+アルファ管区 	 Alpha Quadrant
+ベータ管区 	 Beta Quadrant
+ガンマ管区 	 Gamma Quadrant
+デルタ管区 	 Delta Quadrant
+ハビスフィア 	 The Habisphere
+アジス・ラー旗艦島 	 The Flagship
+プロテクトゥール号 	 The Protector
+キャンプ・クラウドトップ 	 Camp Cloudtop
+ローズハウス 	 The Rosehouse
+オク・グンド 	 Ok' Gundu
+渡り鳥の営巣地 	 The Nidifice
+雲溜まり 	 The Eddies
+雄弁なるベンドの屋敷 	 Hearth of the Mighty Bendu
+白鯨の冠 	 The Whale's Crown
+オク・ズンド 	 Ok' Zundu
+オク・ブンド 	 Ok' Vundu
+舞い降りた羽根の屋敷 	 Hall of the Fallen Plume
+クロムレック 	 The Cromlech
+ヘネガの坩堝 	 Hengr's Crucible
+コールドウィンド島 	 Coldwind
+モック・ウーグル島 	 Mok Oogl Island
+ネバーリープ 	 Neverreap
+ポート・ヘリックス 	 Helix
+アルファ交信塔 	 Alpha Comm Beacon
+エーテル供給アレイ 	 Aetheroconductor Array
+第II転送リング 	 Matter Conduit II-III
+第III転送リング 	 Matter Conduit III-II
+生体培養局 	 Biomass Incubation Complex
+突然変異誘発房 	 Mutagenesis
+第IV転送リング 	 Matter Conduit IV-V
+第V転送リング 	 Matter Conduit V-IV
+飛空戦艦グラティオン 	 The Gration
+飛空戦艦揚陸地点 	 Dreadnaught Landing
+カストルム・ソルス 	 Castrum Solus
+第VI転送リング 	 Matter Conduit VI-VII
+第VII転送リング 	 Matter Conduit VII-VI
+対偶の磔刑台 	 Antithesis
+エシュ・トーム 	 Esh Thom
+魔科学研究所 	 Aetherochemical Research Facility
+フラクタル・コンティニアム 	 The Fractal Continuum
+ニューロリンク・ナセル 	 Neurolink Nacelle
+シンギュラリティ・リアクター 	 Singularity Reactor
+群青空域 	 The Limitless Blue
+ラストステップ 	 Last Step
+ウィセントヘッド 	 Wisent Herd
+霧散の滝 	 Disappearing Falls
+モローモート 	 Morrowmotes
+シャッタードバック 	 The Shattered Back
+プロヴェナンス島 	 Provenance
+クリスタル増殖炉 	 Centrifugal Crystal Engine
+総合冷却局 	 Cooling Station
+キメラ生成ラボ 	 Recombination Labs
+ハビスフィア管理局 	 Habisphere Control
+古代のカテドラル 	 The Cathedral
+デルタ送水局 	 The Aqueduct
+パプスの大樹 	 The Pappus Tree
+三闘神の像 	 The Warring Triad
+隔離実験島 	 Quarantine Block
+機動補給艦 	 Mobile Supply Cache
+超星間交信塔 	 Hyperstellar Downconverter
+シンギュラリティ・リアクター 	 Singularity Reactor
+魔大陸中枢 	 Central Azys Lla
+残骸島 	 Last Remnant
+魔航船ヴォイドアーク 	 Void Ark
+船尾楼甲板 	 Sterncastle Deck
+後甲板 	 Quarter Deck
+左舷換気区画 	 Port Ventilation
+優良種保管庫 	 Orlop Deck
+船内魔道通路 	 Conveyance Unit
+動力区画 	 Engine Deck
+主妖異動力炉 	 Main Void Engine
+雲海獣の棲処 	 The Beast
+左舷後部換気房 	 Forward Port Ventilator
+左舷前部換気房 	 Aft Port Ventilator
+改良種栽培室 	 Modification Cell
+中央魔道通路 	 Central Conveyance Unit
+動力操魔場 	 Conversion Chamber
+女王の臥所 	 The Queen's Bedchamber
+上甲板 	 Upper Deck
+船倉 	 The Hold
+船首楼 	 Fo'c'sle
+第二甲板 	 Midship Deck
+クルザス西部高地 	 Coerthas Western Highlands
+リバーズミート 	 Riversmeet
+ツインプールズ 	 Twinpools
+レッドリム 	 Red Rim
+ファルコンネスト 	 Falcon's Nest
+クルザス川 	 Coerthas River
+スウィフトラン川 	 Swiftrun River
+ゴルガニュ牧場 	 Gorgagne Mills
+ヘムロック 	 Hemlock
+キャンプ・リバーズミート 	 Camp Riversmeet
+ベーンプール 	 Banepool
+アッシュプール 	 Ashpool
+臥竜島 	 The Dreaming Dragon
+イエティの棲処 	 The Bed of Bones
+ダスクヴィジル 	 Dusk Vigil
+ハルドラス像 	 The Pike
+金床の塔 	 The Anvil
+グレイテール滝 	 Greytail Falls
+異端者の坑道 	 The Warrens
+スレート連峰 	 Slate Mountains
+聖フィネア連隊の露営地 	 The Convictory
+ブラックアイアン・ブリッジ 	 Black Iron Bridge
+ナインスヴェアー 	 The Ninth Vare
+ゴルガニュ牧草地 	 Gorgagne Holding
+ノーススター号 	 The North Star
+オーカム波止場 	 Oakum Landing
+ドラゴンスピット 	 Dragonspit
+ザ・ウォッチャー 	 The Watcher
+槍峡門 	 Lancegate
+遠鳴り岩 	 Summoning Stone
+船尾回廊 	 Sterncastle
+ナッキ島 	 Ok' Gundu Nakki
+北西空域 	 Northwestern Pavilion
+北東空域 	 Northeastern Pavilion
+南西空域 	 Southwestern Pavilion
+南東空域 	 Southeastern Pavilion
+天の王冠 	 Crown Jewel
+第六着陸地点 	 Landing Site 06
+第七着陸地点 	 Landing Site 07
+第八着陸地点 	 Landing Site 08
+第九着陸地点 	 Landing Site 09
+第一着陸地点 	 Landing Site 01
+第二着陸地点 	 Landing Site 02
+第三着陸地点 	 Landing Site 03
+第四着陸地点 	 Landing Site 04
+第五着陸地点 	 Landing Site 05
+バウンティ号の漂着地 	 The Bounty
+コンテイメントベイS1T7 	 Containment Bay S1T7
+ディアデム諸島の湧水地 	 Diadem Skysprings
+ディアデム諸島の洞穴 	 Diadem Grotto
+ディアデム諸島の南西池 	 Southern Diadem Lake
+ディアデム諸島の穴場 	 Secluded Diadem Pond
+ディアデム諸島の北西池 	 Northern Diadem Lake
+風吹き抜ける雲海 	 Blustery Cloudtop
+風穏やかな雲海 	 Calm Cloudtop
+風渦巻く雲海 	 Swirling Cloudtop
+コンテイメントベイP1T6 	 Containment Bay P1T6
+コンテイメントベイZ1T9 	 Containment Bay Z1T9
+漂流遺跡 	 The Missing Gem
+エーテルホール 	 Aetherial Gap
+漂流遺跡の魔導通路 	 Mhachi Portal
+シロガネ：プライベートルーム 	 Private Chambers - Shirogane
+シロガネ：地下工房 	 Company Workshop - Shirogane
+紅梅御殿：ロビー 	 Kobai Goten Apartment Lobby
+紅梅御殿：部屋 	 Kobai Goten Apartment
+ランディングポイント 	 Landing Point
+ポイントII 	 Point II
+ポイントIII 	 Point III
+仮設拠点 	 Temporary Camp
+被検世界「デルタ」 	 Deltascape
+次元城 	 Dimension Castle
+次元城：地下牢獄 	 The Dungeons
+次元城：王の間 	 The Audience Chamber
+次元城：屋上 	 The Parapet
+マーケット（サファイアアベニュー国際市場） 	 Sapphire Avenue Exchange
+次元の狭間 	 The Interdimensional Rift
+アンズヘルム大通り 	 Anshelm March
+アラミゴ貴族街 	 Noble District
+アラミゴ王宮中庭 	 Palace Gardens
+アラミゴ王宮深部 	 Palace Shadows
+壊神門前 	 Rhalgr's Gate
+アシナ仮設実験場 	 The Chamber of Knowledge
+鷲獅子の間 	 The Hall of the Griffin
+アラミゴ 	 Ala Mhigo
+アラミゴ市街地 	 Mercantile District
+アラミゴ王宮 	 Royal Palace
+宝物殿 	 The Blessed Treasury
+超越技術研究所 	 The Resonatorium
+セイレーン海 	 The Sirensong Sea
+クガネ城 	 Kugane Castle
+美神の地下神殿 	 Emanation
+イシュガルド：下層 	 Foundation
+イシュガルド：上層 	 The Pillars
+聖徒門 	 The Arc of the Worthy
+エーテライト・プラザ 	 Ishgard Aetheryte Plaza
+聖バルロアイアン広場 	 Saint Valeroyant's Forum
+聖レネット広場 	 Saint Reinette's Forum
+聖バルロアイアン通り 	 Saint Valeroyant's Way
+清貧の凱旋門 	 The Arc of the Humble
+ハルオーネの慈悲 	 The Fury's Mercy
+雲霧街 	 The Brume
+旅籠「九つの雲」 	 Cloud Nine
+忘れられた騎士亭 	 The Forgotten Knight
+神殿騎士団本部 	 Congregation of Our Knights Most Heavenly
+ライトフェザー闘技場 	 The Lightfeather Proving Grounds
+スカイスチール機工房 	 Skysteel Manufactory
+チョコボ留 	 Chocobokeep
+聖大厩舎 	 The Holy Stables
+宝杖通り 	 The Jeweled Crozier
+デュランデル伯爵邸 	 Durendaire Manor
+アインハルト伯爵邸 	 Haillenarte Manor
+フォルタン伯爵邸 	 Fortemps Manor
+ゼーメル伯爵邸 	 Dzemael Manor
+聖ガンリオル占星院 	 Athenaeum Astrologicum
+イシュガルド・ランディング 	 Airship Landing
+ボーレル子爵邸 	 Borel Manor
+神聖裁判所 	 The Supreme Sacred Tribunal of Halonic Inquisitory Doctrine
+グランド・ホプロン 	 The Hoplon
+イシュガルド教皇庁 	 The Vault
+聖レマノー大聖堂 	 Saint Reymanaud's Cathedral
+建国十二騎士像 	 The Architects
+ラストヴィジル 	 The Last Vigil
+尊者の凱旋門 	 The Arc of the Venerable
+エディン小広場 	 Edyn
+ウェスト・コロネード 	 West Colonnade
+イースト・コロネード 	 East Colonnade
+神殿騎士団総長室 	 Seat of the Lord Commander
+決闘裁判場 	 Ruling Chamber
+聖アンダリム神学院 	 Saint Endalim's Scholasticate
+ライトフェザー闘技場 	 The Lightfeather Proving Grounds
+ジャナン・カット地下祭壇 	 The First Altar of Djanan Qhat
+ウズネアカナル 	 The Lost Canals of Uznair
+シロガネ 	 Shirogane
+[拡張街]シロガネ 	 Shirogane Subdivision
+凶鳥の左翼 	 The Left Wing of Avis
+凶鳥の右翼 	 The Right Wing of Avis
+凶鳥の背 	 Avis's Back
+ファルコンベース 	 Falcon Base
+サウス・ファルコンタワー 	 South Falcon Tower
+ノース・ファルコンタワー 	 North Falcon Tower
+レイヴンベース 	 Raven Base
+ノース・レイヴンタワー 	 North Raven Tower
+サウス・レイヴンタワー 	 South Raven Tower
+ジェネレーターベース 	 The Generator
+クガネ・ランディング 	 Airship Landing
+白帝の竹林 	 The Jade Stoa
+ポイントIV 	 Point IV
+ヴァレンティオンセレモニー 	 Valentione's Ceremony
+被検世界「デルタ」V1.0 	 Deltascape V1.0
+被検世界「デルタ」V2.0 	 Deltascape V2.0
+被検世界「デルタ」V3.0 	 Deltascape V3.0
+被検世界「デルタ」V4.0 	 Deltascape V4.0
+ロッホ・セル鍾乳洞 	 Lookback Cave
+ケルピーの縄張り 	 The Green Screams
+聖堂区画 	 Salvation
+封印された門扉 	 A Door Unopened
+幽閉区画 	 Condemnation
+テオドリックの黄金堂 	 The Golden Walls of Ruin
+スカラ 	 The Drowned City of Skalla
+浅層 	 The Shallows
+深層 	 The Depths
+劇場艇プリマビスタ・大道具部屋 	 The Prima Vista Tiring Room
+劇場艇プリマビスタ・ブリッジ 	 The Prima Vista Bridge
+失われた都 ラバナスタ 	 The Royal City of Rabanastre
+ラバナスタ廃墟 	 Charred Ruins
+ガラムサイズ水路 	 Garamsythe Waterway
+王都ルザリア 	 The Royal City of Lesalia
+ダルマスカ砂漠 	 Dalmasca Estersand
+崩れかけた橋 	 Crumbling Bridge
+ムスルバザー 	 Muthru Bazaar
+市街地北部 	 North End
+王宮前広場 	 Palace Square
+ルザリア円庭跡 	 Lesalia Garden Ruins
+ルザリア神殿跡 	 Lesalia Temple Ruins
+クリスタルタワー演習場 	 Crystal Tower Training Grounds
+ファングケージ 	 Fang Cage
+クロウケージ 	 Claw Cage
+獄之蓋火口 	 Lid Crater
+獄之蓋溶岩湖 	 Lava Pool
+鬼之門 	 Demonsgate
+獄之蓋溶岩洞 	 Lava Tube
+獄之釜 	 The Furnace
+醴泉神社参道 	 Reisen Temple Road
+醴泉神社境内 	 Reisen Temple
+亀甲舞台 	 The Polished Shell
+フラクタル・コンティニアム (Hard) 	 The Fractal Continuum (Hard)
+兵器実演デッキ 	 Arsenal
+管理補修デッキ 	 Maintenance Deck
+第VIII展示区 	 Exhibit Level VIII
+起動試験室 	 Genesis Engine
+艦尾構造群 	 Rear Complex
+ギラバニア 	 Gyr Abania
+オサード 	 Othard
+ひんがしの国 	 Hingashi
+ラールガーズリーチ 	 Rhalgr's Reach
+クガネ 	 Kugane
+？？？？ 	 ???
+ギラバニア辺境地帯 	 The Fringes
+ギラバニア山岳地帯 	 The Peaks
+ギラバニア湖畔地帯 	 The Lochs
+紅玉海 	 The Ruby Sea
+ヤンサ 	 Yanxia
+アジムステップ 	 The Azim Steppe
+シロガネ 	 Shirogane
+望海楼 	 Bokairo Inn
+エウレカ：アネモス帯 	 Eureka Anemos
+ポート・サーゲイト 	 Port Surgate
+スクイブ浜 	 Squib Sands
+ハートブレイク樹林 	 Heartbreak Holt
+オーチャード高木林 	 The Orchard
+バル川流域 	 The Val River Swale
+ニューヴォイド 	 Newvoid
+クラウザーの庭 	 Klauser's Peace
+アネモス結晶脈 	 The Anemos Seam
+奇怪の谷 	 Uncanny Valley
+スケープ滝 	 The Scape
+蜂蜜酒愛好会の密造所 	 The Missing Sester
+風の心臓 	 The Heart Ecru
+クラウザーの観測小屋 	 Klauser's Howe
+原初自然史院分室 	 Early Natural History Society Observatory
+放棄された研究室 	 Abandoned Laboratory
+マージ滝 	 The Marge
+転送技術管理室 	 Aethernet Control
+十二神大聖堂：特別式場 	 The Hall of Congress
+貨車 	 Freight Car
+魔列車：客車 	 The Phantom Train Passenger Car
+魔列車 	 The Phantom Train
+破壊された山小屋 	 Windtorn Cabin
+ガンエン廟 	 The Swallow's Compass
+無二江 	 The One River
+大龍山脈 	 The Dairyu Chain
+水脈之間 	 The Heart of Water
+地脈之間 	 The Heart of Earth
+風脈之間 	 The Heart of Wind
+龍脈之間 	 The Heart of the Dragon
+緩流之路 	 The Timid Current
+急流之路 	 The Wrathful Current
+大龍関門 	 The Dragon's Mouth
+玉聖祠 	 Serenity
+大草原の狩場 	 The Great Hunt
+禁絶幻想 	 Ultimacy
+カストルム・フルーミニス 	 Castrum Fluminis
+リドルアナ大瀑布 	 The Ridorana Cataract
+大灯台下部 	 The Lower Lighthouse
+大灯台上部 	 The Upper Lighthouse
+機工都市ゴーグ 	 The Clockwork City of Goug
+封殺の層 	 The Station of Banishment
+はるかなる時の庭 	 Echoes from Time's Garden
+至頂の旋回廊 	 Spire Ravel
+至頂の封域 	 The Spire's Bounds
+至天の歩廊 	 The Walk of Divine Ascent
+異なる風吹く白き戦場 	 The Cleft of Profaning Wind
+ゴーグ・コロセウム 	 The Clockwork Coliseum
+エウレカ：パゴス帯 	 Eureka Pagos
+アイスポイント 	 Icepoint
+パインコーン樹林 	 The Cones
+フローズンレイク 	 Frozen Lake
+バル川中流域 	 The Val River Belly
+ホットウォーター 	 Hot Water
+筆先の道 	 Brushtip Gap
+アガリックロック 	 Agaric Rock
+屍人の監視台 	 Corse Rise
+結晶化実験洞 	 Test Cavern 1-P
+地熱研究室 	 Geothermal Studies
+レビテト研究分室 	 Gravitational Studies
+ヴロンデットの別荘 	 Vlondette's Retreat
+ウェスタンエッジ 	 The Western Edge
+ミノタウロスの箱庭 	 The Bull's Pen
+凍りついた滝 	 Frightened Falls
+菌床洞 	 The Moldbeds
+イースタンエッジ 	 The Eastern Edge
+氷華洞 	 Icebloom Cavern
+地脈の噴出口 	 The Fumarole
+氷の円形劇場 	 The Barren Arena
+封じられた聖塔 リドルアナ 	 The Ridorana Lighthouse
+聖モシャーヌ植物園 (Hard) 	 Saint Mocianne's Arboretum (Hard)
+ウズネアカナル祭殿 	 The Shifting Altars of Uznair
+真白き岩場 	 The Bleached Shelf
+ヘデテトの縄張り 	 The Scorpion's Den
+忘れられた坑道 	 Imperial Mineshaft
+大砂虫の通り道 	 The Bore
+旧ガンマ分離区 	 The Gamma Segregate
+捨て去られた遺構 	 Forsaken Ruins
+焼かれた大地 	 The Blacklands
+霧の皿 	 The Aspersory
+白砂の滝 	 Whitelick Falls
+大砂虫の遺骸 	 The First Worm
+獄之底 	 Hells' Kier
+亡霊屋敷 ホーンテッドマナー 	 The Haunted Manor
+ベラフディア遺跡風特設アスレチック 	 The Fall of Belah'dia
+クガネ大橋 	 Kugane Ohashi
+ハク・カール 	 Hak Khaal
+波止場全体 	 Kugane Piers
+ミラージュクリーク上流 	 Upper Mirage Creek
+星導山寺院入口 	 The Outer Fist
+ラールガーズリーチ 	 Rhalgr's Reach
+シロガネ 	 Shirogane
+シロガネ水路 	 The Silver Canal
+ドマ町人地 	 The Doman Enclave
+蛇神大社 	 The Wreath of Snakes
+紅玉台場周辺 	 Ruby Price Depths
+碧のタマミズ周辺 	 Tamamizu
+スイの里周辺 	 Sui–no–Sato
+アドヴェンチャー号周辺 	 The Adventure
+紫水宮周辺 	 Shisui of the Violet Tides
+小林丸周辺 	 The Kobayashi Maru
+無二江川底南西 	 The One River Southwestern Riverbeds
+無二江川底南 	 The One River Southern Riverbeds
+高速魔導駆逐艇L‐XXIII周辺 	 Imperial Hypersonic Assault Craft L-XXIII
+沈没川船周辺 	 The Sunken Junk
+大龍瀑川底 	 The Dragon's Struggle
+アジム・カート湖底西 	 Azim Khaat Western Lakebed
+アジム・カート湖底東 	 Azim Khaat Eastern Lakebed
+ロッホ・セル湖底北西 	 Loch Seld Northwestern Lakebed
+ロッホ・セル湖底中央 	 Loch Seld Central Lakebed
+ロッホ・セル湖底南東 	 Loch Seld Southeastern Lakebed
+ニーム浮遊遺跡風特設アスレチック 	 The Falling City of Nym
+シルフ領風特設アスレチック 	 Sylphstep
+オルト・エウレカ 	 Eureka Orthos
+エウレカ：ピューロス帯 	 Eureka Pyros
+ノースポイント 	 Northpoint
+スノウクラッシュ 	 Flurry
+アイスニードル北東 	 Northeastern Ice Needles
+アイスニードル南西 	 Southwestern Ice Needles
+歌う氷洞 	 The Cavern of the Second Cant
+ピューロスの炎穴 	 Bonfire
+フレイムロック溶岩洞西 	 West Flamerock
+フレイムロック溶岩洞東 	 East Flamerock
+実験魔器工房 	 The Living Foundry
+竜星観測所 	 The Dragon Star Observatory
+耐熱実験場 	 The Firing Chamber
+カーボナタイト試掘地 	 Carbonatite Quarry
+サーゲイト別邸跡 	 The Surgate Town House
+嘲りの庭 	 The Garden of Despite
+エウレカ：ヒュダトス帯 	 Eureka Hydatos
+偏屈者の実験場 	 The Partisan's Proof
+焔の闘技場 	 The Ring of Fire
+ブルースカイ 	 Blue Sky
+魔導雀荘「マンダヴィル」 	 The Manderville Tables
+ファッションチェック 	 Masked Rose
+マギアメルダー 	 Magia Melder
+義援物資置き場 	 Donation Basket
+アチーブメント 	 Achievement Exchange
+コンテンツ退出口 	 Exit
+旅のモーグリ 	 Itinerant Moogle
+青魔道士 	 Blue Mage
+居室 (宿屋) 	 Personal Suite
+ミーン工芸館取引 	 The Crystalline Mean
+復興事業掲示板 	 Skybuilders' Board
+クポフォーチュン 	 Kupo of Fortune
+ソーチョーの幻想盤 	 Faux Hollows
+総合ショップ 	 Sundry Splendors
+ロストボックス 	 Lost Finds Cache
+コンテンツ解説 	 Expedition Information
+ナップルーム(宿屋) 	 Andron
+無人島開拓 	 Island Sanctuary
+計画貢献度ボード 	 Starward Standings
+コスモフォーチュン 	 Cosmic Fortune
+コスモリサーチ 	 Cosmic Research
+禁断の地 エウレカ
+[特殊フィールド探索] 	 The Forbidden Land, Eureka
+(Field Entry)
+セイブ・ザ・クイーン
+[特殊フィールド探索] 	 Save the Queen
+(Field Entry)
+死者の宮殿
+[ディープダンジョン] 	 The Palace of the Dead
+(Dungeon Entry)
+アメノミハシラ
+[ディープダンジョン] 	 Heaven-on-High
+(Dungeon Entry)
+オルト・エウレカ
+[ディープダンジョン] 	 Eureka Orthos
+(Dungeon Entry)
+シラディハ水道
+[特殊ダンジョン探索] 	 The Sil'dihn Subterrane
+(Dungeon Entry)
+六根山
+[特殊ダンジョン探索] 	 Mount Rokkon
+(Dungeon Entry)
+アロアロ島
+[特殊ダンジョン探索] 	 Aloalo Island
+(Dungeon Entry)
+アラグ市場跡・北 	 Allagan Markets North
+アラグ市場跡・南 	 Allagan Markets South
+アラグ太陽神殿・東 	 Allagan Sun Temple East
+アラグ太陽神殿・西 	 Allagan Sun Temple West
+アラグ居住区跡・南 	 Allagan Manors South
+アラグ居住区跡・北 	 Allagan Manors North
+蜃気楼の島 クレセントアイル
+[特殊フィールド探索] 	 The Occult Crescent
+(Field Entry)
+ピルグリム・トラバース
+[ディープダンジョン] 	 Pilgrim's Traverse
+(Dungeon Entry)
+ギムリトダーク 	 The Ghimlyt Dark
+ノース・マーシナリーベース 	 North Mercenary Base
+サウス・マーシナリーベース 	 South Mercenary Base
+ヒドゥンゴージ 	 Hidden Gorge
+凶鳥の左翼 	 The Left Wing of Avis
+凶鳥の右翼 	 The Right Wing of Avis
+凶鳥の背 	 Avis's Back
+ファルコンベース 	 Falcon Base
+ノース・ファルコンタワー 	 North Falcon Tower
+サウス・ファルコンタワー 	 South Falcon Tower
+レイヴンベース 	 Raven Base
+ノース・レイヴンタワー 	 North Raven Tower
+サウス・レイヴンタワー 	 South Raven Tower
+ステーション 	 Loading Station
+イーストエンド混交林 	 East End
+パイクフォールズ 	 Pike Falls
+ストライプヒルズ 	 The Striped Hills
+ヴィルジャラの涸れ谷 	 Virdjala
+ラストフォレスト 	 The Last Forest
+ラストロック 	 Rustrock
+ワイトロック 	 Wightrock
+マウントヨーン 	 Mount Yorn
+ハイバンク 	 The High Bank
+ロッホ・セル湖 	 Loch Seld
+アラミガン・クォーター 	 The Ala Mhigan Quarter
+アバラシアズスカル 	 Abalathia's Skull
+バエサルの長城 	 Baelsar's Wall
+カストルム・オリエンス 	 Castrum Oriens
+自由門 	 Liberty Gate
+ビターミル 	 Bittermill
+日隠し岩 	 Dark Morning Rise
+ティモン川 	 Timmon Beck
+オウェンの酒蔵 	 Owyn's Stash
+レイスウォーク 	 The Wraithwalk
+賢者の木 	 The Percipient One
+夜の森 	 Dimwold
+狩人の山小屋 	 Fletcher's Cabin
+カステッルム・コルヴィ 	 Castellum Corvi
+流星の尾 	 The Comet's Tail
+迷悟橋 	 The Pall of Clarity
+ベロジナ川 	 The Velodyna River
+スキズム開山堂 	 Schism
+悟りの円座 	 The Circles of Answering
+ライオンズナップ 	 Lion's Nap
+ミラージュクリーク 	 Mirage Creek
+ギルケヒム僧園 	 Gyr Kehim
+カステッルム・ベロジナ 	 Castellum Velodyna
+兄弟岩 	 Fraternity
+ピーリングストーンズ 	 The Peering Stones
+ウィルラ・ニリヤ 	 Vira Nilya
+カリヤナ・ニリヤ 	 Qalyana Nilya
+ジャナン・カット 	 Djanan Qhat
+グディ・マガ 	 Qudhi Maga
+サトヤ・マガ 	 Sathya Maga
+ヤーンの大穴 	 The Yawn
+旅立ちの回廊 	 Emprise
+夫婦池 	 Grymm & Enid
+バイロンズブレッド 	 Byron's Bread
+赤のジグラート 	 The Ziggurat
+赤の台所 	 The Carmine Kitchen
+アラガーナ 	 Ala Gannha
+スロウウォッシュ 	 The Slow Wash
+メーソン滝 	 Mason's Falls
+ヒース滝 	 Heather Falls
+サーストレスパス 	 The Thirstless Path
+涙隠しの丘 	 Hidden Tear
+スリーピングストーンズ採石場 	 Sleeping Stones
+裁定者の像 	 The Ephor
+修験の迷道 	 Whitherwander
+レイザー連山 	 The Razor Mountains
+モモルーンズミルク 	 Momoroon's Milk
+隊商宿グッドブレード跡 	 Goodblade
+ミリアムの幸運 	 Miriam's Luck
+胆汁の谷 	 The Choler
+アラギリ 	 Ala Ghiri
+スカバードの風穴 	 The Scabbard
+スペキュラ・インペラトリス 	 Specula Imperatoris
+アームズ・オブ・ミード 	 The Arms of Meed
+ニュンクレフの箱船 	 Nyunkrepf's Hope
+カストルム・アバニア 	 Castrum Abania
+ラジアタ 	 Radiata
+アイアンロード 	 The Ironroad
+ブルズバス 	 The Bull's Bath
+コールドハース 	 Coldhearth
+ポルタ・プレトリア 	 Porta Praetoria
+ファーキン砲塔群 	 The Firkins
+リンバーレッチャー 	 The Limber Lecher
+デミルーンの隠谷 	 Demilune
+ソスウォッチ塔 	 Sothwatch
+サリ僧院 	 Sali Monastery
+モンストランス 	 The Monstrance
+重荷の闇 	 The Dark of Lasting Cumber
+試練の羽織 	 The Cope
+エナデム・エイ 	 Aenadem Ei
+ロズリト雲海 	 Rothlyt
+貧者の金蔵 	 The Pauper's Lode
+スウィートウォーター 	 Sweetwater
+スタックス跡 	 Stacks
+パイヤー物見塔 	 The Pyre
+ソルトリー 	 The Saltery
+ロッホワッチ塔 	 Lochwatch
+壊神ラールガー像 	 The Destroyer
+聖なる礼拝台 	 The Divine Audience
+廃王テオドリック像 	 The Ruiner
+ホワイトアイル陸橋 	 The White Aisle
+アラミゴ 	 Ala Mhigo
+女王の庭 	 The Queen's Gardens
+アラミガン・クォーター 	 The Ala Mhigan Quarter
+ギルバルド門 	 Gylbarde's Gate
+王立第四兵舎 	 The Fourth Royal Casern
+王立第三兵舎 	 The Third Royal Casern
+コッター・トル 	 Cotter Tor
+エナデム・オル 	 Aenadem Ol
+ブラッドハウ墓地 	 Bloodhowe
+エラントソードの墓 	 The Tomb of the Errant Sword
+霊安所 	 The Charnel Parlor
+列王の詩 	 The Song of Kings
+強健王マンフレッドの墓 	 The Tomb of King Manfred
+王の狩場 	 The Royal Hunting Grounds
+エーテライト・プラザ 	 Rhalgr's Reach Aetheryte Plaza
+野戦病院 	 The Barber
+星導山寺院 	 The Temple of the Fist
+アラミゴ王立飛空艇発着場 	 The Royal Airship Landing
+アラミゴ王宮屋上庭園 	 The Royal Menagerie
+壊神ラールガー像 	 The Destroyer
+血嵐の訓戒 	 Bloodstorm
+代価の墓地 	 Recompense
+星降りの池 	 Starfall
+チャクラ大滝 	 Chakra Falls
+結晶化空間 	 Transparency
+神話空間 	 Myth
+被検世界「シグマ」V1.0 	 Sigmascape V1.0
+被検世界「シグマ」V2.0 	 Sigmascape V2.0
+被検世界「シグマ」V3.0 	 Sigmascape V3.0
+被検世界「シグマ」V4.0 	 Sigmascape V4.0
+迷いの森 	 Phantom Forest
+屋敷の地下室 	 Mansion Cellar
+瓦礫の塔：中層 	 Lower Tower of Ruin
+瓦礫の塔：最上層 	 Upper Tower of Ruin 
+被検世界「プサイ」V1.0 	 Psiscape V1.0
+過去のカオスの神殿 	 The Chaos Shrine
+次元の狭間 	 The Interdimensional Rift
+最終検証フィールド 	 Final Verification
+最終防衛ライン 	 The Last Line
+沃土の寝室 	 The Soil Bed
+環境制御棟 	 Environmental Control
+第3浄化槽 	 Purification Tank C
+第2浄化槽 	 Purification Tank B
+第1浄化槽 	 Purification Tank A
+汚泥王の謁見室 	 Kingsloam
+被検世界「プサイ」V2.0 	 Psiscape V2.0
+次元の狭間 	 The Interdimensional Rift
+竜の星 	 The Dragonstar
+再現宇宙 	 Creation
+第一防衛ライン 	 The First Line
+第二防衛ライン 	 The Second Line
+エオルゼア同盟軍本陣 	 Alliance Headquarters
+同盟軍塹壕 	 The Trenches
+薄汚れた広場 	 The Field of Dust
+飛空戦艦墜落現場 	 Crash Site
+煤だらけの荒野 	 The Field of Soot
+巨大爆撃痕 	 Impact Crater
+灰だらけの荒野 	 The Field of Ash
+帝国軍仮設ランディング 	 Provisional Imperial Landing
+螺旋海峡 	 Rasen Kaikyo
+オサード小大陸東岸 	 East Othard Coastline
+玄水連山 	 The Gensui Chain
+無二江流域 	 The Glittering Basin
+七彩渓谷 	 Valley of the Fallen Rainbow
+ドマ城下町 	 Doma
+刃の海 	 The Sea of Blades
+オンサル・ハカイル 	 Onsal Hakair
+風止めの大岩 	 The Towering Still
+ナーマ砂漠北端 	 Nhaama's Retreat
+紅玉台場 	 The Ruby Price
+境島 	 Barrier Isle
+獄之蓋 	 Hells' Lid
+蟹茹浜 	 The Crab Pots
+血のナガレ 	 The Bleed
+オニオウどん 	 Bathing Onio
+サカズキ島 	 Sakazuki
+ベッコウ島 	 The Isle of Bekko
+ベッコウ噴泉 	 The Turtle's Back
+碧のタマミズ 	 Tamamizu
+珊瑚台 	 The Coral Banquet
+沖之岩 	 Shoal Rock
+スイの里 	 Sui-no-Sato
+オノコロ島 	 Onokoro
+筋違砦 	 Crick
+アメノミハシラ 	 Heaven-on-High
+万年松 	 Ten-thousand-year Pine
+早逃桟橋 	 Quickscape Pier
+蒼玉海溝 	 The Turquoise Trench
+紫水宮 	 Shisui of the Violet Tides
+アドヴェンチャー号 	 The Adventure
+小林丸 	 The Kobayashi Maru
+サイバイ洞 	 Saibai Cavern
+カガミの仙窟 	 Exile
+イシボタンの巌窟 	 The Anemone Gardens
+イサリ村 	 Isari
+ゼッキ島 	 The Isle of Zekki
+海の穴 	 The Dive
+タカラモチの棲処 	 The Air of the Opulent
+酔いどれ蛙の船小屋 	 The Drunken Toad
+不見転岩場 	 Unseen Spirits Laughing
+アオサギ滝 	 The Heron's Flight
+アオサギ川 	 The Heron's Way
+ナマイ村 	 Namai
+梅泉郷 	 Plum Spring
+無二江 	 The One River
+西龍鱗橋 	 Western Ryurin Bridge
+東龍鱗橋 	 Eastern Ryurin Bridge
+クサカリの里 	 Kusakari
+カストルム・フルーミニス 	 Castrum Fluminis
+ユヅカ代官屋敷 	 Yuzuka Manor
+ガンエン廟 	 The Swallow's Compass
+大龍月亮門 	 The Dairyu Moon Gates
+青燐水保管所 	 Ceruleum Depot
+高速魔導駆逐艇L‐XXIII 	 Imperial Hypersonic Assault Craft L-XXIII
+烈士庵 	 The House of the Fierce
+万糸条 	 The Ribbons
+七彩溝 	 Prism Lake
+門前侍町 	 Monzen
+城下船場 	 Mercantile Docks
+ドマ城 	 Doma Castle
+裾踏橋 	 The Coattails
+大龍瀑 	 The Dragon's Struggle
+ドマ町人地 	 The Doman Enclave
+再会の市 	 Reunion
+ラギルの誤算 	 Ragill's Reckoning
+臆病者の吊り橋 	 The Path of the Craven
+ハク・カール 	 Hak Khaal
+ライ・カール 	 Rai Khaal
+ネム・カール 	 Nem Khaal
+カコール・イロー 	 Kahkol Iloh
+モル・イロー 	 Mol Iloh
+明けの玉座 	 The Dawn Throne
+アジム・カート 	 Azim Khaat
+兄たちの橋 	 The Bridge of the High Rule Warriors
+大地の傷痕 	 The Wound
+蛇の食道 	 Throttle
+楔石の虚 	 The House of the Crooked Coin
+タオ・カール 	 Tao Khaal
+昇月の高地 	 Moonrise
+テール山脈 	 The Tail Mountains
+空の山 	 Skypiercer
+チャカ・ゾー 	 Chakha Zoh
+バルダム覇道 	 Bardam's Mettle
+キオルエン 	 Ceol Aen
+ウヤギルの古巣穴 	 The Uyagir Caves
+百一の啓示 	 The Hundred-and-one Revelations
+ケレル・イロー 	 Qerel Iloh
+暮れの玉座 	 The Dusk Throne
+ヤト・カール 	 Yat Khaal
+ナーマ砂漠 	 The Nhaama Desert
+祝福の道 	 The Blessed Passage
+ドタール・カー 	 Dotharl Khaa
+船着場：城下船場 	 Mercantile Docks
+船着場：ドマ町人地 	 Doman Enclave Docks
+船着場：茜雲桟橋 	 Akanegumo Bridge Docks
+[拡張街]船着場：茜雲桟橋 	 Akanegumo Bridge Docks Subdivision
+帰燕館 	 Kienkan
+車前会所 	 Shazenkai
+エーテライト・プラザ 	 Doman Enclave Aetheryte Plaza
+ドーロ・イロー 	 Dhoro Iloh
+ザ・バーン 	 The Burn
+万市場 	 The Ten Thousand Stalls
+職人町 	 The Yard
+田園地 	 The Enclave Demesne
+栗斎塾 	 Rissai-juku
+見廻組屯所 	 The Enclave Barracks
+物見塔 	 The Watchtower
+無二庭園 	 The One Garden
+ドマ町人地南（栗斎塾） 	 The Southern Enclave
+ドマ町人地北（無二庭園・田園地） 	 The Northern Enclave
+無二江流域（ヤンサ方面） 	 The One River
+エオルゼア同盟軍本陣 	 Eorzean Alliance Headquarters
+ガレマール帝国軍天幕 	 Garlean Legion Tents
+楽欲の僧院 オーボンヌ 	 The Orbonne Monastery
+ゴルモア大密林 	 The Golmore Jungle
+オーボンヌ修道院 	 The Orbonne Monastery
+死せる都 	 The Necrohol
+密林の円庭 	 The Jungle's Plea
+機工士の領域 	 Realm of the Machinists
+聖騎士の領域 	 Realm of the Templars
+命なき街路 	 Lifeless Alley
+雷神の領域 	 Realm of the Thunder God
+水晶の監獄 	 Crystalline Gaol
+懺悔室 	 Confessional
+古の闘技場 	 The Forgotten Arena
+セントラルポイント 	 Central Point
+バル川西岸 	 The West Val River Bank
+バル川源流域 	 The Val River Source
+バル川東岸 	 The East Val River Bank
+本部塔エントランス 	 Headquarters Entrance
+バルデシオンアーセナル：最下層 	 The Basement
+バルデシオンアーセナル：中層 	 The Belly
+バルデシオンアーセナル：霊極層 	 The Umbral Tier
+バルデシオンアーセナル：星極層 	 The Astral Tier
+バルデシオンアーセナル：最上層 	 The Loft
+西部魔力橋脚 	 The Western Columns
+中央魔力橋脚 	 The Central Columns
+東部魔力橋脚 	 The Eastern Columns
+魔力橋基部 	 The Aetherbridge Foundation
+水晶龍の縄張り 	 The Crystal Dragon's Bloom
+封印術研究棟跡 	 Unverified Research
+崩壊した学寮 	 Dormitory
+委員長の執務室 	 Board Room
+エントランス 	 Entranceway
+妖槍オールラスラッハ封印区 	 Orlasrach Containment Unit
+妖槍ムンジャルグ封印区 	 Munderg Containment Unit
+真・斬鉄剣封印区 	 Shin-Zantetsuken Containment Unit
+ランス・オブ・ヴァーチュー封印区 	 Lance of Virtue Containment Unit
+プロトオズマ封印区 	 Proto Ozma Containment Unit
+第二波止場 	 Pier #2
+楽座街 	 Rakuza District
+小波止場 	 The Short Pier
+小金通り 	 Kogane Dori
+第一波止場 	 Pier #1
+異人街 	 Ijin District
+潮風亭 	 Shiokaze Hostelry
+転魂塔広場 	 Tenkonto
+ウミネコ茶屋 	 Umineko Teahouse
+ズイコウ像 	 The Statue of Zuiko
+望海楼 	 Bokairo Inn
+望海泉 	 Bokaisen Hot Springs
+松葉門外広場 	 Matsuba Square
+松葉門 	 Matsuba Gate
+三条花街 	 Sanjo Hanamachi
+赤誠組屯所 	 Sekiseigumi Barracks
+御船蔵 	 Ofunakura Shipwrights
+無地鼓座 	 The Mujikoza
+参番蔵 	 San-ban Kura
+伍番蔵 	 Go-ban Kura
+小鍛冶屋 	 Kokajiya
+クガネ御船蔵 	 Kugane Ofunakura
+黒母衣丸 	 The Kuroboro Maru
+ウルダハ商館 	 The Ruby Bazaar
+楽水園 	 Rakusui Gardens
+ガレマール帝国大使館 	 Garlean Consulate
+ラザハン大使館 	 Thavnairian Consulate
+ウルダハ商館応接室 	 Ruby Bazaar Offices
+黄昏橋 	 Tasogare Bridge
+船着場：第二波止場 	 Pier #2 Ferry Docks
+クガネ・ランディング 	 Airship Landing
+エーテライト・プラザ 	 Kugane Aetheryte Plaza
+真ギルガメッシュ討滅戦 	 Kugane Ohashi
+アマジナ杯闘技会決勝戦 	 The Dragon's Neck
+船着場 	 Ferry Docks
+ガンゴッシュ 	 Gangos
+パガルザン 	 Paglth'an
+ゾレマク 	 Zolm'ak
+大平原 	 The Boundless Plains
+ゾレマク祭場 	 Gathering Ring
+トカゲの囲い場 	 Scalekin Pen
+黄昏の庭 	 Sunseat
+境界の谷 	 The Valley of No One
+ゾレマク市街 	 Zolm'ak Citadel
+黄金の平原 	 The Gilded Sea
+アマルジャの移動集落 	 Drifting Encampment
+商客物語
+[特殊ダンジョン探索] 	 The Merchant's Tale
+(Dungeon Entry)
+ノルヴラント 	 Norvrandt
+ノルヴラント 	 Norvrandt
+クリスタリウム 	 The Crystarium
+ユールモア 	 Eulmore
+レイクランド 	 Lakeland
+コルシア島 	 Kholusia
+アム・アレーン 	 Amh Araeng
+イル・メグ 	 Il Mheg
+ラケティカ大森林 	 The Rak'tika Greatwood
+テンペスト 	 The Tempest
+秘密の花園 	 Hidden Gardens
+迷いの森 	 Wanderlust
+幻惑の湖 	 Dohn Toch
+幻惑の城 	 Dohn Lran
+微睡みの泉 	 Teag Gye
+捻じれた大樹 	 The Twisted Trunk
+フーアの浴場 	 The Bathing Pools
+グリオールの寝床 	 The Atelier
+水面のホール 	 Reflections
+王冠の間 	 The Throne Room
+至天の広間 	 The Hall of Ascension
+冥界の大空洞 	 The Underworld
+大改装区画 	 Repurposement
+崩壊した通路 	 Collapsed Passage
+次元潜行装置 	 The Dimensional Brake
+煉獄の入口 	 The Dark Invitation
+改装作業拠点 	 Repurposing
+エーテル観測台 	 Aetherial Observation
+主動力エーテル炉 	 Main Aether Furnace
+次元潜行装置中枢 	 The Cornice
+ドォーヌ・メグ 	 Dohn Mheg
+幻惑の園 	 Lran Mheg
+幻惑の城 	 Dohn Lran
+シルクス・ツイニング 	 The Twinning
+地下浅層 	 The Shallow
+地下深層 	 The Deep
+アーモロート 	 Amaurot
+滅びゆく都 	 Fading Footsteps
+滅びゆく星 	 Fading Hearth
+見よ、獣は解き放たれた 	 And lo, vile beasts did rise,
+それらは人々を殺し、街を焼いた 	 Leaving naught in their wake but blood and ash.
+これが、第一の災いである 	 Thus did the first doom befall us.
+この後、なお二つの災いが来る 	 It would not, however, prove the last.
+明日は燃え殻となり塵となった 	 For soon did the sun bend low, scorching earth and boiling seas.
+これが、第二の災いである 	 Thus did the second doom break us.
+滅びは影のように速い 	 Yet it was neither claw nor flame, but our very sins─
+すべてが失われようとしていた 	 Stacked to the heavens where they took root, corrupting its halls─
+これが、第三の災いである 	 Thus did the third doom undo us.
+グルグ火山 	 Mt. Gulg
+崩れかけた山道 	 The Perished Path
+純白門 	 The White Gate
+光芒の階段 	 The Winding Flare
+大タロースの背 	 The Spine of the Talos
+大タロースの右腕 	 The Arm of the Talos
+漂白された山道 	 The Pallid Path
+改竄された山道 	 The Permuted Path
+下層 	 The Rise Above
+上層 	 The Cant Below
+アナイダアカデミア 	 Akadaemia Anyder
+水棲生物創造場 	 Ichthyology
+草木生物創造場 	 Phytobiology
+幻想生物創造場 	 Phantomology
+アカデミア正門 	 The Main Gate
+ミトロン院 	 The Words of Mitron
+ハルマルト院 	 The Words of Halmarut
+ラハブレア院 	 The Words of Lahabrea
+構内 	 The Halls
+屋上 	 Rooftop
+階差閉宇宙 	 Liminal Space
+キタンナ神影洞 	 The Qitana Ravel
+キタリの誰何 	 The Qitari Dissent
+神前の石扉 	 The Divine Threshold
+ロックワ神の寝床 	 The Night of Yx'Lokwa
+アンパ神の涙 	 Tears of the Gods
+神影写しの虚 	 Shadowed Hollow
+チャール神の踊場 	 The Leap of Ox'Charl
+ラケティカ大飛瀑 	 Rak'tika Falls
+ガトル神の祭壇 	 The Song of Ox'Gatorl
+偽造された宮殿 	 The False Prayer
+マリカの大井戸 	 Malikah's Well
+トロッコターミナル 	 Terminus
+マリカの水源 	 Malikah's Gift
+無償の離宮 	 Unquestioned Acceptance
+赤の水殿 	 The Jasper Walls
+翠の坑道 	 The Jade Paths
+青の水脈 	 The Turquoise Currents
+漂白された洞穴 	 Blanch
+迷える羊飼いの森 	 The Forest of the Lost Shepherd
+水晶公の門 	 The Exarch Gate
+風化した大地 	 Weathering
+始まりの湖 	 The Source
+狭間の空き地 	 Embrasure
+従者の門 	 The Accensor Gate
+帯の道 	 The Belt
+千の山々 	 The Chiliad
+ジョッブ砦 	 Fort Jobb
+光耀教会 	 The Church of the First Light
+岩の橋 	 The Bridges
+ラディスカ物見塔 	 Radisca's Round
+留めの堡塁 	 The Stay
+北の集結地 	 Northern Staging Point
+ホルミンスター 	 Holminster Switch
+クリアメルト 	 Clearmelt
+穢れなき証 	 Inviolate Witness
+ラクサン城 	 Laxan Loft
+首吊り塔 	 The Hanging Tower
+三再誕の広間 	 The Hall of the Thrice Born
+巨人の兎小屋 	 Hare Among Giants
+オスタル厳命城 	 The Ostall Imperative
+影狼の屋敷 	 Wolves of Shadow
+サレン郷 	 Sullen
+ウィード島 	 Weed
+ブリック島 	 Brick
+ノット島 	 Knot
+ラップ島 	 Lap
+ダンプソール桟橋 	 Dampsole
+責苦の監獄 	 The Hour of Certain Durance
+錆ついた鉄鎖 	 Mortal Irons
+渇き知らずの浜 	 The Thirstless Shore
+ケンの島 	 The Isle of Ken
+裸岩 	 Naked Rock
+ブライトクリフ 	 The Bright Cliff
+シャドウ・フォールト 	 Shadow Fault
+スクリー山地 	 Scree
+ドヴェルガル山脈 	 The Duergar Mountains
+クラックシェル海岸 	 Cracked Shell Beach
+スティルタイド 	 Stilltide
+穴あき小舟亭 	 The Leaky Keel
+ガバナーの畑 	 Governor's Row
+ホワイトオイルフォールズ 	 White Oil Falls
+グリーリースタイズ 	 Greely Sties
+スローロード 	 Slowroad
+サザンクロッシング 	 Southern Crossing
+グリーリーブリッジ 	 Greely Bridge
+ワッツリバー下流 	 Lower Watts River
+偏屈者の小屋 	 The Codger's Crook
+ゲートタウン 	 Gatetown
+歓迎の門 	 Open Arms
+ホエール岬 	 The Whale's Breach
+チゼルの岩門 	 The Chisel
+クレイヴ灯台 	 The Clave
+シーゲイザー 	 Seagazer
+ストーンゲイザー 	 Stonegazer
+ヴェンモント造船所 	 Venmont Yards
+スプリットハル岬 	 The Split Hull
+ライト村 	 Wright
+ワックスシール牧場 	 Wax Seal Mills
+ウィスパーウィンド入江 	 Whisperwind Cove
+ボトムラング 	 Bottom Rung
+ラダー大昇降機 	 The Ladder
+バローアイル 	 Barrow Isle
+シャープタンの泉 	 Sharptongue Drip
+娘たちの舞踏場 	 The Lawns
+トップラング 	 Top Rung
+アミティー 	 Amity
+八号坑口 	 Pit 8
+トメラの村 	 Tomra
+クイックウェイ 	 The Quick Way
+南アンバーヒル 	 The Southern Hills of Amber
+ワッツリバー上流 	 Upper Watts River
+ボイルドアウルブリッジ 	 Boiled Owl Bridge
+フルーブリッジ 	 Flue Bridge
+コメラの村 	 Komra
+ドヴェルグの煙突 	 The Duergar's Tewel
+ドワーフの洞窟 	 Dwarven Hollows
+カスール・シャル 	 Qasr Sharl
+アンバーフィールド 	 The Fields of Amber
+北アンバーヒル 	 The Northern Hills of Amber
+中央アンバーヒル 	 The Central Hills of Amber
+廃都ナバスアレン 	 Nabaath Areng
+隊商の野営地 	 The Red Serai
+砂の川 	 The River of Sand
+シムーンの背骨 	 Samiel's Backbone
+モルド・スーク 	 Mord Souq
+帽子の塔 	 The Rack
+手の風車 	 Our Ladies' Hands
+足の風車 	 Our Ladies' Feet
+眼の塔 	 Pitch
+鼻の塔 	 Snitch
+髭の塔 	 Twitch
+旅立ちの宿 	 The Inn at Journey's Head
+物見櫓 	 The Derrick
+ナバースの断絶 	 The Nabaath Severance
+ビラン大鉱山 	 Mount Biran Mines
+ガリク村 	 Garik
+尻尾の道 	 The Dragging Tail
+トゥワイン 	 Twine
+ケルク遺跡 	 Kelk
+ゴンドラ操作場 	 Lift Station
+ヌベイ旧鉱山 	 Nuvy's Leavings
+マリカの大井戸 	 Malikah's Well
+水の駅 	 Ladle
+ゴンドラ操作場 	 Lift Station
+アム・マリク新宮殿 	 The Pristine Palace of Amh Malik
+無の大地 	 The Empty
+ティム・グース 	 Timh Gyeus
+姿見の湖 	 Longmirror Lake
+フッブーテンブルク 	 Voeburtenburg
+リダ・ラーン 	 Lydha Lran
+フィソー・ラーン 	 Phisor Lran
+ドォーヌ・メグ 	 Dohn Mheg
+篤学者の荘園 	 The Bookman's Shelves
+手鏡の湖 	 Handmirror Lake
+ジズム・ラーン 	 Thysm Lran
+水没した教会 	 The House of the First Light
+魚たちの街 	 Deepwood Swim
+ジェナーナ峠 	 Good Jenanna's Grace
+プラ・エンニ茸窟 	 Pla Enni
+ヴォレクドルフ 	 Wolekdorf
+六つ子の浅瀬 	 Sextuplet Shallow
+ダメルン巡礼教会跡 	 The Church at Dammroen Field
+コラード菌床 	 Father Collard's Chambers
+聖ファスリクの額 	 Saint Fathric's Temple
+アンデンの羊小屋 	 Anden's Airs
+エアラ登城橋 	 Old Earra Bridge
+リェー・ギア城 	 Lyhe Ghiah
+シチュア湿地 	 The Citia Swamps
+トゥシ・メキタ湖 	 Lake Tusi Mek'ta
+イキス・マヤエの森 	 The Blind Forest of Yx'Maja
+クムル星遺跡群 	 The K'mul Astropolis
+ゴーンの砦 	 Fort Gohn
+スリザーバウ 	 Slitherbough
+至暗所 	 The Darker
+書記者の樹洞 	 Cleric
+ロツァトル大階段 	 Lozatl's Conquest
+ウォーヴンオウス 	 Woven Oath
+アースタディアの胎 	 The Womb
+水蛇の宝卵 	 Fruit of the Protector
+割れた宝卵 	 The Husk
+ダワトリ溺没神殿 	 The Covered Halls of Dwatl
+ファノヴの里 	 Fanow
+午睡の東屋 	 Sleepaway Common
+ワイルドガーデン 	 The Wild Fete
+射手の露宿 	 Bowrest
+ミュリルの郷愁 	 Mjrl's Regret
+風の渦 	 Windmire
+四つの明星 	 The Morning Stars
+ガトル神のムル 	 Ox'Gatorl Mul
+ロックワ神のムル 	 Yx'Lokwa Mul
+チャール神のムル 	 Ox'Charl Mul
+アンパ神のムル 	 Yx'Anpa Mul
+ユキス・ネルの大ピラミッド 	 The Great Pyramid of Ux'ner 
+大トゥパサの崇神所 	 The Confessional of Toupasa the Elder
+ノルヴラント大陸斜面 	 The Norvrandt Slope
+キャリバン海底谷 	 The Caliban Gorge
+アーモロート 	 Amaurot
+オンドの潮溜まり 	 The Ondo Cups
+フラウンダーの穴蔵 	 The Flounders' Floor
+奇人のアトリエ 	 The Workbench
+パールの砂壺 	 The Crock of Pearls
+陸人の墓標 	 Where the Dry Return
+主なき遺構 	 Walls of the Forgotten
+プルプラ洞 	 Purpure
+キャリバンの古巣穴 	 The Caliban Gap
+アコラの塔 	 Achora Heights
+ポリルリタ官庁街 	 The Polyleritae District
+マカレンサス広場 	 The Macarenses Angle
+人民弁論館 	 The Hall of Rhetoric
+創造物管理局 	 Bureau of the Architect
+人民管理局 	 Bureau of the Administrator
+人民事務局 	 Bureau of the Secretariat
+カピトル議事堂 	 The Capitol
+第一の災い 	 The First Doom
+第二の災い 	 The Second Doom
+第三の災い 	 The Third Doom
+エデンコア 	 The Core
+エデン甲板 	 The Halo
+ネレウス海淵 	 The Nereus Trench
+アトラス山頂 	 Atlas Peak
+妖精王の舞踏場 	 The Dancing Plague
+イマキュレートクラウン 	 The Crown of the Immaculate
+終末のアーモロート 	 The Dying Gasp
+シルクスの峡間 	 The Syrcus Trench
+ペンダント居住館：居室 	 The Pendants Personal Suite
+星見の間  	 The Ocular
+サンクチュアリ 	 Sanctuary
+無の大地 	 The Empty
+ナバース家の鉱山 	 The Nabaath Mines
+ロンカの遺構 	 Ronkan Reflections
+大トゥパサの崇神所 	 The Confessional of Toupasa the Elder
+リェー・ギア・ダンジョン 	 The Dungeons of Lyhe Ghiah
+ダンジョン入口 	 The Point of No Return
+第一区画 	 1st Chamber
+第二区画 	 2nd Chamber
+第三区画 	 3rd Chamber
+第四区画 	 4th Chamber
+最終区画 	 Condemnation
+円蓋の座 	 The Rotunda
+天蓋の座 	 The Baldaquin
+三学科の座 	 The Trivium
+四学科の座 	 The Quadrivium
+テセレーション鉄橋 	 Tessellation
+エーテライト・プラザ 	 The Crystarium Aetheryte Plaza
+エクセドラ大広場 	 The Exedra
+深慮の間 	 Umbilicus
+ドッサル大門 	 The Dossal Gate
+シルクスの塔クリスタルタワー 	 The Syrcus Tower
+テメノスルカリー牧場 	 Temenos Rookery
+アマロ桟橋 	 The Amaro Launch
+ミーン工芸館 	 The Crystalline Mean
+スパジャイリクス医療館 	 Spagyrics
+バリスティクス造兵館 	 Ballistics
+博物陳列館 	 The Cabinet of Curiosity
+自由弁論館 	 The Whispering Gallery
+ホルトリウム園芸館 	 The Hortorium
+ムジカ・ユニバーサリス 	 Musica Universalis
+彷徨う階段亭 	 The Wandering Stairs
+カテナリー居住館 	 The Catenaries
+スウィートシーヴ果樹園 	 Sweetsieve
+廃船街 	 The Derelicts
+樹根の層 	 The Buttress
+樹幹の層 	 The Understory
+樹梢の層 	 The Canopy
+樹葉の層 	 The Emergent
+栄光の門 	 The Glory Gate
+腐臭の花園 	 Nightsoil Pots
+ジョイアスホール 	 Joyous Hall
+入国審査室 	 The Bureau of Immigration
+新民登録室 	 The Bureau of Registration
+洗民室 	 The Delousery
+一号交易室 	 Customs Office A-1
+二号交易室 	 Customs Office A-2
+交易倉庫 	 Customs Hold
+ザイレムリフト 	 The Xylem Lift
+ユールモア軍司令本部 	 Eulmoran Army Headquarters
+メインステイ 	 The Mainstay
+エーテライト・プラザ 	 Eulmore Aetheryte Plaza
+グランドデイム・パーラー 	 The Grand Dame's Parlor
+キャバレー・ビーハイヴ 	 The Beehive
+クラウンリフト 	 The Crown Lift
+スカイフロント 	 Skyfront
+元首の執務室 	 The Offer
+紫黒の森 	 The Bruise
+薄煙の牧草地 	 The Blackened Meadow
+焦熱の村落 	 The Burning Village
+紫黒のギャップ 	 The Wound
+家畜市広場 	 The Auction
+燃え盛る交差路 	 The Fiery Crossroad
+マナーハウスの前庭 	 The Manor House Courtyard
+ペンダント居住館 	 The Pendants
+三学科の座 	 The Trivium
+四学科の座 	 The Quadrivium
+クリスタリウム居室 	 Crystarium Personal Suites
+風化した裂け目 	 The Rift of Sighs
+錆ついた貯水池 	 The Rusted Reservoir
+始まりの湖 	 The Source
+サレン郷 	 Sullen
+ケンの島 	 The Isle of Ken
+ワッツリバー上流 	 Upper Watts River
+ホワイトオイルフォールズ 	 White Oil Falls
+ワッツリバー下流 	 Lower Watts River
+シャープタンの泉 	 Sharptongue Drip
+コルシア島沿岸西 	 The Western Kholusian Coast
+シーゲイザーの入江 	 Seagazer Shoals
+コルシア島沿岸東 	 The Eastern Kholusian Coast
+廃船街 	 The Derelicts
+砂の川 	 The River of Sand
+ナバースの断絶 	 The Nabaath Severance
+アンバーヒル 	 The Hills of Amber
+手鏡の湖 	 Handmirror Lake
+姿見の湖 	 Longmirror Lake
+上の子らの流れ 	 The Haughty One
+中の子らの流れ 	 The Jealous One
+末の子らの流れ 	 The Spoiled One
+聖ファスリクの額 	 Saint Fathric's Temple
+コラードの排水溝 	 Father Collard's Failings
+トゥシ・メキタ湖 	 Lake Tusi Mek'ta
+血の酒坏 	 The Red Chalice
+ロツァトル川 	 The Lozatl
+ミュリルの郷愁南 	 South Mjrl's Regret
+ウォーヴンオウス 	 Woven Oath
+フラウンダーの穴蔵 	 The Flounders' Floor
+陸人の墓標 	 Where the Dry Return
+キャリバン海底谷北西 	 Northwest Caliban Gorge
+キャリバンの古巣穴西 	 West Caliban Gap
+キャリバンの古巣穴東 	 East Caliban Gap
+プルプラ洞 	 Purpure
+ノルヴラント大陸斜面 	 The Norvrandt Slope
+エーテライト・プラザ 	 The Crystarium Aetheryte Plaza
+マーケット（ムジカ・ユニバーサリス） 	 Musica Universalis Markets
+テメノスルカリー牧場 	 Temenos Rookery
+ドッサル大門前（星見の間） 	 The Dossal Gate
+ペンダント居住館前 	 The Pendants
+アマロ桟橋前 	 The Amaro Launch
+ミーン工芸館前 	 The Crystalline Mean
+博物陳列館前 	 The Cabinet of Curiosity
+テセレーション鉄橋（レイクランド方面） 	 Tessellation (Lakeland)
+エーテライト・プラザ 	 Eulmore Aetheryte Plaza
+廃船街南東 	 Southeast Derelicts
+メインステイ 	 The Mainstay
+腐臭の花園 	 Nightsoil Pots
+栄光の門 	 The Glory Gate
+始まりの湖北東 	 Northeast Source
+ケンの島 	 The Isle of Ken
+始まりの湖南東 	 Southeast Source
+リェー・ギア城北 	 North Lyhe Ghiah
+魚たちの街 	 Deepwood Swim
+姿見の湖中央 	 Central Longmirror Lake
+ジズム・ラーン 	 Thysm Lran
+姿見の湖南 	 South Longmirror Lake
+トゥシ・メキタ湖北 	 North Lake Tusi Mek'ta
+ダワトリ溺没神殿 	 The Covered Halls of Dwatl
+栄光の道（コルシア島方面） 	 The Path to Glory (Kholusia)
+栄光の道 	 The Path to Glory
+シャープタンの泉 	 Sharptongue Drip
+長老たちの集会所 	 Longbeard Council
+呑んべぇの館 	 The Wet Whistle
+ミサ・グロリアンダ 	 Mithai Glorianda
+花侯爵の凱旋路 	 The March of the Marchioness
+羊毛街道 	 The Woolen Way
+ミサ・グロリアンダ 	 Mithai Glorianda
+無言の崖 	 The Silent Cliffs
+絡み根の林 	 The Trip
+ダイヤーズウォッシュ 	 Dyers' Wash
+岩兵の瞑目 	 The Deliberating Doll
+ロツァトル川 	 The Lozatl
+血の酒坏 	 The Red Chalice
+弓の枝島 	 The Isle of Bows
+姉妹の隠れ島 	 The Isle of Sisters
+婿の枝島 	 The Isle of Consorts
+トリンキュローの岩棚 	 The Trinculo Shelf
+呑まれた天楼 	 The Swallowed Spire
+ギャングウェイ 	 The Gangway
+飛空艇桟橋 	 Airship Launch
+オキス・ダランの深淵 	 The Ox'Dalan Gap
+アマロ留 	 Amarokeep
+兵棋の間 	 The Martial Court
+春の泉 	 The Font of Quintessence
+演奏の間 	 The Chamber of Celestial Song
+オンサル・ハカイル 	 Onsal Hakair
+オンサル・ハカイル西部 	 Western Onsal Hakair
+オンサル・ハカイル東部 	 Eastern Onsal Hakair
+オンサル・ハカイル南部 	 Southern Onsal Hakair
+聖者バグルチの神託 	 Bagurchi Abjiya
+侮られしバグルチの不屈 	 Bagurchi's Vindication
+聡きバグルチの旅程 	 Bagurchi's Foresight
+グラン・コスモス 	 The Grand Cosmos
+騎士の城館 	 The Chivalric Sphere
+王妃の庭園 	 The Regal Sphere
+王の宮殿 	 The Divine Sphere
+騎士の間 	 The Presence Chamber
+剣槍の間 	 The Cross of Blades
+蛍石のホール 	 The Myrhinne Hall
+会食の間 	 The Chamber of Raised Cups
+英雄の間 	 The Chamber of Immortal Legacy
+舞踏の間 	 The Chamber of Courtly Love
+工場廃墟：上層 	 Upper Stratum
+工場廃墟：中層 	 Middle Stratum
+工場廃墟：下層 	 Lower Stratum
+工場廃墟：深層 	 Deep Stratum
+第1区画 	 Zone 1
+第2区画 	 Zone 2
+第3区画 	 Zone 3
+第4区画 	 Zone 4
+第5区画 	 Zone 5
+倉庫A 	 Warehouse A
+倉庫B 	 Warehouse B
+検品場 	 Quality Assurance
+廃棄物処理室 	 Waste Disposal
+倉庫C 	 Warehouse C
+螺旋通路 	 Winding Walkway
+前部甲板 	 Forward Deck
+後部甲板 	 Rear Deck
+無垢の土地01 	 Ovoo 1
+無垢の土地02 	 Ovoo 2
+無垢の土地03 	 Ovoo 3
+無垢の土地04 	 Ovoo 4
+無垢の土地05 	 Ovoo 5
+無垢の土地06 	 Ovoo 6
+無垢の土地07 	 Ovoo 7
+無垢の土地08 	 Ovoo 8
+無垢の土地09 	 Ovoo 9
+無垢の土地10 	 Ovoo 10
+無垢の土地11 	 Ovoo 11
+無垢の土地12 	 Ovoo 12
+無垢の土地13 	 Ovoo 13
+複製サレタ工場廃墟 	 The Copied Factory
+廃倉庫 	 Ruined Warehouse
+機械遺跡の坑道 	 Excavation Tunnels
+リェー・メグ 	 Lyhe Mheg
+帝都魔導城 	 The Imperial Palace
+皇族区画通路 	 The Imperial Way
+皇族区大広間 	 Emperor's Crossroads
+連絡通路 	 Connecting Corridor
+動力区 	 Principle Dynamics
+魔導兵器格納庫 	 Magitek Installation
+蒼天街 	 The Firmament
+名も無き者たちの広場 	 The Mendicant's Court
+工場廃墟：上層 	 Upper Stratum
+工場廃墟：中層 	 Middle Stratum
+工場廃墟：下層 	 Lower Stratum
+工場廃墟：深層 	 Deep Stratum
+複製サレタ工場廃墟 	 The Copied Factory
+ギムリト防衛ライン 	 Cinder Drift
+オーシャンフィッシング 	 The High Seas
+ガラディオン湾 	 Galadion Bay
+メルトール海峡南 	 The Southern Strait of Merlthor
+メルトール海峡北 	 The Northern Strait of Merlthor
+ロータノ海 	 Rhotano Sea
+ガラディオン湾沖合 	 Outer Galadion Bay
+ガラディオン湾沖合：幻海流 	 Galadion Spectral Current
+メルトール海峡南 	 The Southern Strait of Merlthor
+メルトール海峡南：幻海流 	 Southern Merlthor Spectral Current
+メルトール海峡北 	 The Northern Strait of Merlthor
+メルトール海峡北：幻海流 	 Northern Merlthor Spectral Current
+ロータノ海沖合 	 Open Rhotano Sea
+ロータノ海沖合：幻海流 	 Rhotano Spectral Current
+トゥシ・メキタ湖中央 	 Central Lake Tusi Mek'ta
+トゥシ・メキタ湖南 	 South Lake Tusi Mek'ta
+ミュリルの落涙 	 Mjrl's Tears
+ビスマルクの額 	 Bismarck's Brow
+想起の庭 	 The Garden of Recollection
+想起の館 	 Anamnesis
+カタルシスの広場 	 Katharsis
+ドクサの広間 	 Doxa
+イデア保管庫 	 The Archive Eternal
+ノエシスの間 	 Noesis
+セティボス海溝 	 The Setebos Trench
+アニドラス・アナムネーシス 	 Anamnesis Anyder
+ガンドフ雷平原 	 The Gandof Thunder Plains
+灰の旅程 	 Ashfall
+エデン甲板 	 The Halo
+徳測りし前室 	 Trial's Threshold
+ホパル古盤 	 Hopl's Stopple
+十字鍬通り 	 The Mattock
+聖ロエル広場 	 Saint Roelle's Dais
+ニューネスト居住区 	 The New Nest
+ロランベリー・フィールド 	 Rolanberry Field
+エンデバー号 	 The Endeavor
+ガンゴッシュ 	 Gangos
+シドの記憶空間 	 Cid's Memory
+シタデル・ボズヤ大通り 	 Cardo Maximus
+シタデル・ボズヤ居住区 	 Insulae
+シタデル・ボズヤ広場 	 Bozja Forum
+プリンシピア前 	 Praetentura
+プリンシピア 	 Principia
+交信雷波塔 	 Lunar Transmitter
+交信雷波塔管制室 	 Transmission Control
+大氷河 	 Great Glacier
+分断された大氷河 	 Frozen Reflections
+風吹き上がる雲海 	 Windswept Cloudtop
+遺構表層 	 Sunken Structures
+遺構深層 	 Sunken Sanctum
+人形タチノ軍事基地 	 The Puppets' Bunker
+ドヴェルガル山脈 	 The Duergar Mountains
+バンカー 	 Bunker
+エレベーター 	 Elevator
+エイリアンシップ 	 Alien Ship
+クレーター 	 Crater
+格納庫 	 Hangar
+通路 	 Corridor
+司令室 	 Command Room
+縦坑 	 Shaft
+A区画 	 Sector A
+B区画 	 Sector B
+残骸A 	 Elevated Detritus
+残骸B 	 Sunken Detritus
+射出デッキ 	 Launch Deck
+第二司令室 	 Core Command
+通路 	 Passage
+艦橋 	 Bridge
+２Ｂの部屋 	 2B's Room
+漆黒決戦 ノルヴラント 	 The Heroes' Gauntlet
+アム・アレーン 	 Amh Araeng
+イル・メグ 	 Il Mheg
+レイクランド 	 Lakeland
+アルゲ鉱山 	 Mount Argai Mines
+草人たちの踊り場 	 Summer Ballroom
+大聖堂前広場 	 Illuminated Plaza
+放棄された鉱山軌道 	 Lost Track
+アンバーバレー 	 Amber Valley
+ア・ミルラン 	 A' Milran
+水没した空中回廊 	 Sunken Skyway
+ストーイ・クリッヒ 	 Staoigh Creach
+不寝の野営地 	 Sleepless Vigil
+光耀大聖堂跡 	 The Luminous Sanctuary
+フェザーフォール商業区 	 Featherfall
+スカイスチール機工房分館 	 Skysteel Workshop
+アバカス通り 	 The Abacus
+ホアフロスト官舎 	 Hoarfrost Hall
+ウトヤ前哨地 	 Utya's Aegis
+オランタ陣地 	 Olana's Stand
+ルンヤ陣地 	 Lunya's Stand
+風吹き溜まる雲海 	 Windbreaking Cloudtop
+風吹き荒ぶ雲海 	 Buffeted Cloudtop
+南方ボズヤ戦線 	 Bozjan Southern Front
+カストルム・ラクスリトレ 	 Castrum Lacus Litore
+南方塹壕地帯 	 Southern Entrenchment
+ボズヤ旧市街跡 	 Old Bozja
+アラムート城下 	 The Alermuc Climb
+城塞外 	 Castrum Approach
+城塞内 	 Inner Castrum
+剣たちの大広間 	 Bladesmeet
+失われた遺跡 	 The Last Trace
+冷灰の大穴 	 Firelight's Coffin
+荒鷲の広場 	 Eaglesight
+城門 	 The Grand Gates
+飛空戦艦発着場 	 Airship Landing
+円壇の間 	 Majesty's Auspice
+王者の円壇 	 Majesty's Place
+破壊された市街 	 Orphaned Ruins
+DII-I号 	 DII-I
+DII-II号 	 DII-II
+DII-III号 	 DII-III
+DII-IV号 	 DII-IV
+DII-V号 	 DII-V
+DII-VI号 	 DII-VI
+SII-I号 	 SII-I
+SII-II号 	 SII-II
+SII-III号 	 SII-III
+SII-IV号 	 SII-IV
+SII-V号 	 SII-V
+SII-VI号 	 SII-VI
+DI-I号 	 DI-I
+DI-II号 	 DI-II
+DI-III号 	 DI-III
+SI-I号 	 SI-I
+SI-II号 	 SI-II
+SI-III号 	 SI-III
+始皇帝の玉座 	 The Seat of Sacrifice
+次元の狭間 	 The Rift
+ターンクリフ沖 	 Terncliff Bay
+ターンクリフ 	 Terncliff
+アノッグの部屋 	 Anogg's Lair
+未明の間 	 Dawn's Respite
+ワッツハンマー・ガレージ 	 Watts's Anvil
+ステヴァ野営地 	 Camp Steva
+人形タチノ軍事基地 	 The Puppets' Bunker
+ドヴェルガル山脈 	 The Duergar Mountains
+バンカー 	 Bunker
+エレベーター 	 Elevator
+エイリアンシップ 	 Alien Ship
+カステッルム・マリヌム・ドライドック 	 Castrum Marinum Drydocks
+土いじりの虚 	 Grimegrot
+水はこびの虚 	 Wandering Well
+火あそびの虚 	 Flame's Fantasia
+魔まわしの虚 	 The Sorcerer's Interstice
+輝きの採土場 	 Clayclot Cauldron
+涼しの採水場 	 Clearnote Cauldron
+彩りの採熱場 	 Kilnfire Cauldron
+居留守の工房 	 Woebegone Workshop
+マトーヤのアトリエ 	 Matoya's Relict
+土いじりの虚 	 Grimegrot
+水はこびの虚 	 Wandering Well
+火あそびの虚 	 Flame's Fantasia
+魔まわしの虚 	 The Sorcerer's Interstice
+ユールモア監獄棟 	 Bygone Gaol
+暗闇の領域 	 Sphere of Naught
+グンヒルド・ディルーブラム 	 Delubrum Reginae
+遺跡浅層 	 Outer Locus
+遺跡中層 	 Inner Locus
+遺跡深層 	 Hidden Locus
+取り残された前庭 	 Suspended Approach
+失われた兵舎 	 Abandoned Barracks
+捨てられた穀倉 	 Neglected Granary
+知られざる離宮 	 Dead Living Quarters
+語られぬ拝廊 	 Uninviting Entrance
+祈りなき拝殿 	 Silent Prayer Hall
+隠された階段 	 Concealed Staircase
+触れ得ざる身廊 	 Undisturbed Shrine
+命なき神殿 	 Dormant Altar
+満たされぬ聖所 	 Still Sanctum
+円形劇場跡 	 The Theater of One
+雌獅子の広間 	 Pride of the Lioness
+大祈祷所 	 The Hall of Supplication
+託宣所 	 The Hall of Hieromancy
+雄獅子の広間 	 Pride of the Lion
+響き合う水晶の間 	 The Vault of Singing Crystal
+静かなる瞑想室 	 Seer's Solace
+命の至聖所 	 The Path of Divine Clarity
+巫女たちの広間 	 Queensheart
+ラクサン城 	 Laxan Loft
+シェルダレー諸島沖合 	 Cieldalaes Margin
+シェルダレー諸島沖合：幻海流 	 Cieldalaes Spectral Current
+緋汐海沖合 	 Open Bloodbrine Sea
+緋汐海沖合：幻海流 	 Bloodbrine Spectral Current
+ロズリト湾沖合 	 Outer Rothlyt Sound
+ロズリト湾沖合：幻海流 	 Rothlyt Spectral Current
+紅玉海底東 	 The Eastern Ruby Sea
+小林丸北 	 Kobayashi Maru's Northern Wake
+沈没川船南 	 The Sunken Junk's South Side
+アジム・カート湖底南 	 Azim Khaat Southern Lakebed
+ロッホ・セル湖底深部 	 Loch Seld Deep Lakebed
+ケンの島東 	 Eastern Isle of Ken
+姿見の湖東 	 East Longmirror Lake
+トゥシ・メキタ湖底深部 	 Deep Lake Tusi Mek'ta
+絶望の園 	 The Garden of Nowhere
+ルーシュマンド記念病院 	 Ser Vaindreau's Grace
+クウィル通り 	 Quill's Trace
+詩伯門 	 Bright Ballad's Passage
+スノーソーク浴場 	 Snowsoak Springs
+リズンソング文化区 	 The Risensong Quarter
+シェルダレー諸島 	 The Cieldalaes
+緋汐海 	 The Bloodbrine Sea
+ロズリト湾 	 The Rothlyt Sound
+リェー・ギア・ダンジョン祭殿 	 The Shifting Oubliettes of Lyhe Ghiah
+リズンソング文化区東 	 Eastern Risensong Quarter
+リズンソング文化区西 	 Western Risensong Quarter
+希望ノ砲台：「塔」 	 The Tower at Paradigm's Breach
+最下層 	 Lower Section
+電脳空間A 	 Ego Collective A
+電脳空間B 	 Ego Collective B
+モノレール 	 Monorail System
+最上層 	 Upper Section
+電脳空間C 	 Ego Collective C
+封鎖区画A 	 Closed Area A
+封鎖区画B 	 Closed Area B
+迎撃区画A 	 Staging Node A
+迎撃区画B 	 Staging Node B
+迎撃区画C 	 Staging Node C
+迎撃区画D 	 Staging Node D
+昇降機 	 Ascension Platform
+頂上 	 Beyond
+ザトゥノル高原 	 Zadnor
+Gセイヴァー戦闘甲板 	 G-Savior Deck
+ヴァルデニス前哨地 	 Camp Vrdelnis
+スピタク陣地 	 Zuprtik Point
+イジェバン陣地 	 Ljeban Point
+アルマヴィル陣地 	 Hrmovir Point
+高原南方台地 	 The Southern Plateau
+高原西方台地 	 The Western Plateau
+高原北方台地 	 The Northern Plateau
+カステッルム・ザトゥノル 	 Castellum Zadnori
+旗艦ダル・リアータ：前部 	 The War Bow
+旗艦ダル・リアータ：中枢 	 The Founder's Deck
+アラグ試掘坑 	 The Allagan Pits
+旗艦停泊地 	 Flagship Landing
+搬入出区画 	 Loading Dock
+搬入出制御室 	 Cargo Administration
+魔導研究区画 	 Magitek Development
+動力制御区画 	 Dynamic Systems
+大型格納区画 	 The Greater Hold
+崩落した試掘坑 	 The Fallen Ring
+旗艦ダル・リアータ 	 The Dalriada
+エッグドリーム鶏舎 	 The Dreamer's Run
+月の底 	 The Dark Inside
+マザークリスタル 	 The Mothercrystal
+果ての終焉 	 The Final Day
+エンピレアム 	 Empyreum
+[拡張街]エンピレアム 	 Empyreum Subdivision
+エンピレアム：コテージ 	 Private Cottage - Empyreum
+エンピレアム：ハウス 	 Private House - Empyreum
+エンピレアム：レジデンス 	 Private Mansion - Empyreum
+エンピレアム：プライベートルーム 	 Private Chambers - Empyreum
+エンピレアム：地下工房 	 Company Workshop - Empyreum
+イングルサイド：ロビー 	 Ingleside Apartment Lobby
+イングルサイド：部屋 	 Ingleside Apartment
+ホーンテッドフィースト 	 The Phantoms' Feast
+ジュニアの子供部屋 	 The Playroom
+ママのダイニング 	 The Banquet Hall
+パパのダンスホール 	 The Ballroom
+原初世界 	 The Source
+第一世界 	 The First
+北洋地域 	 The Northern Empty
+イルサバード 	 Ilsabard
+星外宙域 	 The Sea of Stars
+古代世界 	 The World Unsundered
+オールド・シャーレアン 	 Old Sharlayan
+ラザハン 	 Radz-at-Han
+ラヴィリンソス 	 Labyrinthos
+サベネア島 	 Thavnair
+ガレマルド 	 Garlemald
+嘆きの海 	 Mare Lamentorum
+ウルティマ・トゥーレ 	 Ultima Thule
+エルピス 	 Elpis
+ハイモーン広場 	 Highmorn's Horizon
+エンピレアム南東 	 Empyreum Southeast
+エンピレアム中央 	 Central Empyreum
+エンピレアム南西 	 Empyreum Southwest
+イングルサイド 	 Ingleside
+エンピレアム北西 	 Empyreum Northwest
+エンピレアム東 	 Empyreum East
+エンピレアム北東 	 Empyreum Northeast
+[拡張街]ハイモーン広場 	 Highmorn's Horizon Subdivision
+[拡張街]エンピレアム南西 	 Empyreum Southwest Subdivision
+[拡張街]エンピレアム中央 	 Central Empyreum Subdivision
+[拡張街]エンピレアム北西 	 Empyreum Northwest Subdivision
+[拡張街]イングルサイド 	 Ingleside Subdivision
+[拡張街]エンピレアム北東 	 Empyreum Northeast Subdivision
+[拡張街]エンピレアム南 	 Empyreum South Subdivision
+[拡張街]エンピレアム南東 	 Empyreum Southeast Subdivision
+地脈調整区 	 Aetherial Manipulation
+信仰抽出区 	 Inculcation Channel
+信仰増幅区 	 Fervor Enhancement
+技巧の間 	 Ingenuity's Ingress
+富の間 	 Prosperity's Promise
+知恵の間 	 Wisdom's Ward
+ゾットの塔 	 The Tower of Zot
+基部層 	 Tower Base
+中層 	 Tower Climb
+最上層 	 Tower Top
+ラヴィリンソス 	 Labyrinthos
+サベネア島 	 Thavnair
+星外 	 The Sea of Stars
+古代世界 	 The World Unsundered
+オールド・シャーレアン 	 Old Sharlayan
+ラザハン 	 Radz-at-Han
+アキャーリ南 	 Southern Akyaali
+アキャーリ西 	 Western Akyaali
+遺烈郷南 	 Southern Great Runoff
+マーヤーの幻泉 	 The Font of Maya
+アキャーリ沖 	 Outer Akyaali
+オノコロ島北 	 Northern Onokoro
+イサリ村周辺 	 Isari Slope
+カガミの仙窟周辺 	 Exile
+ベッコウ島北東 	 Northeastern Bekko
+境島東 	 Eastern Barrier Isle
+オノコロ島北西 	 Northwestern Onokoro
+イシボタンの巌窟周辺 	 The Anemone Gardens
+ロッホ・セル湖北東 	 Loch Seld Northeastern Lakebed
+ヒュペルボレア造物院 	 Ktisis Hyperboreia
+創造大陸層 	 Terrestrial Artifice
+創造研究層 	 Experimental Artifice
+創造低空層 	 Lower Aerial Artifice
+創造大陸観察区 	 Geopsis
+創造天空観察区 	 Ouranopsis
+創造天脈観察区 	 Cosmopsis
+寒冷創造環境 	 Frozen Sphere
+創造生物評価室 	 Concept Review
+天脈創造環境 	 Celestial Sphere
+パンデモニウム正門 	 The Gates of Pandæmonium
+スマイルトン 	 Smileton
+都市表層区 	 The Outsides
+都市内層区 	 The Insides
+都市工事区 	 The On-the-waysides
+笑顔あふれる正門 	 Smileport
+大歓迎の玄関 	 The Welcome Wheel
+ビッグチーズ 	 The Frame
+世にも素晴らしい市街地 	 The Many Ways
+理想的な居住区 	 Block of Dreams
+くつろぎの居間 	 Recreation Room
+感動と興奮の音楽堂 	 Moving Music Hall
+工事中：ご迷惑をおかけしております 	 Under Construction (Sorry!)
+幸せを運ぶ通路 	 Happy Street
+スティグマ・フォー 	 The Stigma Dreamscape
+アルファトロン星 	 The Alphatron Star
+小惑星帯 	 Gordhonite Asteroid Belt
+竜星 	 The Dragonstar
+アルファトロン星 	 The Alphatron Star
+ゴードナ文明首都 	 Gordhona
+竜星 	 The Dragonstar
+ウェポンプラント 	 Weapons Manufacturing
+コマンドA4 	 A-4 Command
+コンクエストA4 	 A-4 Conquest
+アウトポストA4 	 A-4 Outpost
+ヘッドクォーターA4 	 A-4 Headquarters
+斧槍通り（居住区担当官） 	 The Halberd's Head
+[拡張街]斧槍通り（居住区担当官） 	 The Halberd's Head Subdivision
+パンデモニウム辺獄下層 	 The Fervid Limbo
+パンデモニウム辺獄水道 	 The Stagnant Limbo
+アレクサンドリア 	 Alexandria
+シャーレアン魔法大学 	 The Studium
+フェノメノン大講堂 	 Phenomenon
+工匠殿 	 Makers' Meet
+選者殿 	 Searchers' Meet
+公開講堂 	 Learners' Meet
+ヌーメノン大書院 	 Noumenon
+討論のモノペトロス 	 The Speaking Monopteros
+沈思の森 	 Tranquility
+黙考のモノペトロス 	 The Silent Monopteros
+七賢人の庭 	 Archons' Design
+哲学者の広場 	 The Rostra
+アルティフィスホール 	 The Hall of Artifice
+ニンファイオン 	 The Nymphaeum
+転送魔法研究所 	 The Confluence
+エーテライト・プラザ 	 Old Sharlayan Aetheryte Plaza
+アゴラ 	 The Agora
+バルデシオン分館 	 The Baldesion Annex
+メインホール 	 Main Hall
+ナップルーム 	 Andron
+漂流者の丘 	 Journey's End
+ルヴェユール邸 	 The Leveilleur Estate
+パフィン広場 	 Auk's Landing
+知神の港 	 Scholar's Harbor
+ラストスタンド 	 The Last Stand
+ニュンクレフの岩 	 Nyunkrepf's Sight
+サリャク柱廊 	 The Thaliak Stoa
+知神サリャク像 	 The Scholar
+ペリスタイル 	 The Peristyle
+出入国管理所 	 Worldly Affairs
+アウターサーキット 	 The Outer Circuit
+アルティフィスパス 	 The Path of Artifice
+アッパー・アクリンソス 	 Upper Acrinthos
+地下水排出路 	 The Phreatic Conduit
+アルケイオン保管院 	 The Archeion
+恵みのトロス 	 The Aesthete's Tholos
+パスメラン種畜研究所 	 Passemerrant Pasturponics
+試作漁場河川 	 Hatching Canal
+洞穴生物繁殖区 	 Troglophile's Deep
+第三十三期拡張坑道 	 The Thirty-third Facet
+朝露の森 	 Mornveil Forest
+人工霧制御塔 	 Mistloom
+ミディアルサーキット 	 The Medial Circuit
+メリオール実験農場 	 Meryall Agronomics
+プシケ送風塔 	 Psyche
+ポイボス制御塔 	 Phoibos
+プネウマ送風塔 	 Pneuma
+ロウアー・アクリンソス 	 Lower Acrinthos
+ミタト酪農場 	 Mitato
+セントラルサーキット 	 The Central Circuit
+ロジスティコン・アルファ 	 Logistikon Alpha
+リトルシャーレアン 	 Sharlayan Hamlet
+ロジスティコン・ベータ 	 Logistikon Beta
+アポリア本部 	 Aporia
+ロジスティコン・ガンマ 	 Logistikon Gamma
+ククロの工房 	 Kokkol's Forge
+タウマゼイン 	 Thaumazein
+星海 	 The Aetherial Sea
+ガジャシンハ大橋 	 Gajasimha Bridge
+真眼門 	 The Gate of First Sight 
+誓約の階段 	 The Loyal Rise
+アルザダール通り 	 Alzadaal's Path
+アルザダール廟 	 Alzadaal's Peace
+パクシャ通り 	 Paksa's Path
+ラザハン・ランディング 	 Airship Landing
+ダーマ区 	 Dharma
+メーガドゥータ宮 	 Meghaduta
+ニーローパラ畜産局 	 Nilopala Nourishments
+風の桑畑 	 Windweft
+ルヴェーダ製糸局 	 Ruveydah Fibers
+アルタ区 	 Artha
+星戦士団本営 	 Hall of the Radiant Host
+流星の間 	 Sundrop
+バルシャーン・バザール西通り 	 West Balshahn Bazaar
+バルシャーン・バザール東通り 	 East Balshahn Bazaar
+メリードズメイハネ 	 Mehryde's Meyhane
+エーテライト・プラザ 	 Radz-at-Han Aetheryte Plaza
+アルキミヤ製薬堂 	 The High Crucible of Al-Kimiya
+ユジュ区 	 Yuj
+カーマ区 	 Kama
+微風の浜 	 Saltwind's Welcome
+イェドリマン 	 Yedlihmad
+ウッサケイーク島 	 Ussaqeyiq
+テブケイーク島 	 Tebqeyiq
+アルネア島 	 Alnair
+アキャーリ 	 Akyaali
+薫香の丘 	 The Perfumed Rise
+デミールの遺烈郷 	 The Great Work
+カジャーヤ演舞場 	 Kadjaya's Footsteps
+ハンサ牧場跡 	 The Hamsa Hatchery
+ギガントガル採石場 	 Giantsgall Grounds
+ゾットの塔 	 The Tower of Zot
+ナルネア島 	 Narunnair
+衆園の森 	 The Shroud of the Samgha
+トラーナ関門 	 The Wakeful Torana
+パーラカの里 	 Palaka's Stand
+パワナの悔悟 	 Pavana's Remorse
+聖仙アガマの墳墓 	 Agama Temple
+クシールローダ川 	 Ksiroda
+マーヤーの幻泉 	 The Font of Maya
+プルシャ寺院 	 Purusa
+星戦士団の調練場 	 The Burning Field
+夜番の崖 	 Night's Watch
+エブラーナ氷原 	 The Eblan Rime
+キャンプ・ブロークングラス 	 Camp Broken Glass
+ホレア・カンピ 	 Horrea Campi
+管理官舎G棟 	 Monitoring Station G
+臣の褒賞 	 Victors' Spoils
+大セルレア湖 	 Cerulea Ingens
+タッパーズデン 	 Tapper's Den
+ユートゥルナG水上リグ 	 Juturna Platform G
+ガレアン・ドモルム区 	 Regio Domorum
+エンセラダス魔導工廠 	 The Enceladeum
+フォルム・パーテンズ 	 Forum Patens
+第IV市外駅 	 Liminal Station IV
+脱線した列車 	 The Runaway Train
+テルティウム駅 	 Tertium
+青燐パイプライン 	 The Pipe
+ウルバニッシマ区 	 Regio Urbanissima
+ガレマール元老院 	 Senaculum Imperialis
+パラティウム・ノヴム 	 Palatium Novum
+フォルム・ソリウス 	 Forum Solius
+帝都高速路 	 Alta Strata
+潔白の環濠 	 The Stainless Course
+バブイルの塔 	 The Tower of Babil
+マグナ・グラキエス 	 Magna Glacies
+ノトスの感嘆 	 Philomythes Notos
+プロピュライオン 	 Propylaion
+芽吹の玄関 	 First Bloom
+アナグノリシス天測園 	 Anagnorisis
+十二節の園 	 The Twelve Wonders
+ノエトン万華樹 	 Noetophoreon
+汐沫の庭 	 The Mourning Dew
+異土の庭 	 The Chthonic Horns
+ナビ・ノトス 	 Notoneus
+ゼピュロスの喝采 	 Kallimelios Zephyros
+ナビ・南ゼピュロス 	 Southerly Zephyrneus
+メタバシス六洋院 	 Metabaseos Thalassai
+ペリペテイア晶蔵院 	 Peripeteia Krystalline
+ポイエテーン・オイコス 	 Poieten Oikos
+ナビ・北ゼピュロス 	 Northerly Zephyrneus
+逍遥水径 	 Rumination's Ramble
+ボレアースの黙劇 	 Ethoseletikos Boreas
+ナビ・南ボレアース 	 Southerly Boreneus
+ヒュペルボレア造物院 	 Ktisis Hyperboreia
+ナビ・東ボレアース 	 Easterly Boreneus
+エウロスの冷笑 	 Misopses Euros
+牙の園 	 The Hungering Gardens
+レーテー海 	 Lethe
+ナビ・エウロス 	 Euroneus
+涙の入江 	 Sinus Lacrimarum
+監視者の館 	 The Watcher's Palace
+嘆きの海 南 	 Southern Mare Lamentorum
+霊水の剣 	 The Drowning Brand
+霊氷の剣 	 The Numbing Brand
+霊土の剣 	 The Crushing Brand
+クロロフォスグロット 	 The Chlorophosgrot
+闇の揺り籠 	 The Cradle of Darkness
+痛みの峡谷 	 Vallis Vulneris
+嘆きの海 北 	 Northern Mare Lamentorum
+霊風の剣 	 The Biting Brand
+霊雷の剣 	 The Striking Brand
+霊火の剣 	 The Searing Brand
+シドニア・ノールズ 	 Kydonia Knolls
+ラヴィングウェイの花園 	 Lovingway's Darlings
+苦悶の入江 	 Sinus Tormenti
+ヘイムダル級観察艇の残骸 	 Heimdall's Last Sight
+ベストウェイ・バロー 	 Bestways Burrow
+ムーンセイル 	 Moonsail
+キャロットリウム 	 The Carrotorium
+グレーテスト・エンズヴィル 	 Greatest Endsvale
+オストラコン・デカオクト 	 Ostrakon Deka-okto
+魔導船ラグナロク 	 The Ragnarok
+熔解した前哨基地 	 The Vitrified Fort
+リア・ターラ 	 Reah Tahra
+アーム・ノール 	 Ahm Nohl
+オストラコン・トゥリア 	 Ostrakon Tria
+逡巡の泉 	 The Wellspring of Regret
+再受肉槽 	 Hollow of the Flesh
+イーアの里 	 Abode of the Ea
+辞世の連句碑 	 Elegeia
+イーアの転移陣 	 The Tube
+オストラコン・デカークシ 	 Ostrakon Deka-hexi
+放棄されたポータル 	 Clouded Portal
+オミクロンベース 	 Base Omicron
+寂れたポータル 	 Fallow Portal
+生命の木 	 The Tree of Life
+スティグマ・ワン 	 Stigma-1
+見捨てられたポータル 	 Empty Portal
+オストラコン・エーナ 	 Ostrakon Hena
+命なき街 	 The Nekropolis
+最果ての中心 	 Absolute Horizon
+レムナント 	 The Dead Ends
+主観測室 	 Central Observatory
+星海結晶域 	 Saltcrystal Strings
+星海乱流域 	 Midnight Downwell
+エーテル鏡群 	 Aetherial Lens
+星海深淵域 	 Abyssal Plane
+星海中枢域 	 Aetherostatic Peak
+シャーレアン魔法大学 	 The Studium
+バルデシオン分館前 	 The Baldesion Annex
+哲学者の広場 	 The Rostra
+ルヴェユール邸前 	 The Leveilleur Estate
+漂流者の丘 	 Journey's End
+知神の港 	 Scholar's Harbor
+アルティフィスホール（ラヴィリンソス方面） 	 The Hall of Artifice (Labyrinthos)
+メーガドゥータ宮前 	 Meghaduta
+ルヴェーダ製糸局前 	 Ruveydah Fibers
+ラザハン・ランディング 	 Airship Landing
+アルザダール廟前 	 Alzadaal's Peace
+星戦士団本営前 	 Hall of the Radiant Host
+メリードズメイハネ 	 Mehryde's Meyhane
+真眼門（サベネア島方面） 	 The Gate of First Sight (Thavnair)
+樹海の空地 	 Trnakiya
+里長邸前 	 Insight
+デーヴァター寺院 	 Devatagara
+ヴァナスパティ樹海 	 Vanaspati
+祈りの水辺 	 Wandering Wellspring
+決意の道 	 The Chosen Path
+シュラマナの里 	 Sramana's Salve
+太陽の階段 	 Sun's Ascent
+石窟寺院群 	 The Temple Stones
+天の最果て 	 Beyond the Stars
+レムレースのオフィス 	 Lemures Headquarters
+作戦立案室 	 Strategy Room
+神門の間 	 The Nethergate
+星海 	 The Aetherial Sea
+ロスト・ハイドロリック 	 The Lost Hydraulic
+ジュニャーナ洋上祭殿 	 Jnanamandapa
+アイティオン星晶鏡 	 The Aitiascope
+忘れられたポータル 	 Unmemoried Portal
+スワルナの大蔵 	 Svarna
+オムファロス 	 The Omphalos
+ポルタ・デクマーナ 	 The Porta Decumana
+パンデモニウム正門 	 The Gates of Pandæmonium
+ヌーメノン大書院：禁書庫 	 Restricted Archives
+アルザダール海底遺跡群 	 Alzadaal's Legacy
+トロイアコート 	 The Fell Court of Troia
+アイティオン星晶鏡 	 The Aitiascope
+ゼロの領域 	 Zero's Domain
+メーガドゥータ宮の客間 	 Meghaduta Guest Chambers
+魔人の隠れ家 	 Sneaky Hollow
+リサーチA4 	 A-4 Research
+エリュシオン 	 Elysion
+名もなき島 	 Unnamed Island
+アルキミヤ製薬堂 	 The High Crucible of Al-Kimiya
+呪髪の風塔 	 Storm's Crown
+ゼロのねぐら 	 Zero's Hideout
+広場 	 Ramshackle Square
+カフェ「ラストレムナント」 	 The Last Dregs
+農業区画 	 Elysian Fields
+知神の港 	 Scholar's Harbor
+碧き谷 	 Oinops
+沈思の泉 	 Reflecting Pool
+一号天球口 	 Unmoved Source Alpha
+一号排出路 	 The Mover Alpha
+二号天球口 	 Unmoved Source Beta
+二号排出路 	 The Mover Beta
+ディープモート 	 Deepmoat
+メーガドゥータの飛沫 	 Meghaduta
+イェドリマン沿岸 	 Yedlihmad
+サベネア島近海 	 The Thavnairian Coast
+デミールの遺烈郷沿岸 	 The Great Runoff
+ギガントガル採石場 	 Giantsgall Grounds
+トラーナ関門 	 The Wakeful Torana
+クシールローダ川 	 Ksiroda
+パワナの悔悟 	 Pavana's Remorse
+マーヤーの幻泉 	 The Font of Maya
+薫香の浜 	 The Perfumed Tides
+エブラーナ不凍池 	 The Eblan Thaw
+潔白の環濠 	 The Stainless Course
+グレーテスト・エンズヴィル 	 Greatest Endsvale
+クロロフォス・ポンド 	 The Chlorophospond
+氷土の亀裂 	 The Frozen Fissure
+逍遥水径 	 Rumination's Ramble
+牙の園下層 	 The Lower Hungering Gardens
+レーテー海 	 Lethe
+ヘロス・デカオクトγ 	 Apohelos 18-γ
+ヘロス・デカオクトβ 	 Apohelos 18-β
+ヘロス・デカオクトα 	 Apohelos 18-α
+逡巡の泉 	 The Wellspring of Regret
+イーアの里 	 Abode of the Ea
+リムニ・デカオクト 	 Limne 18
+リムニ・トゥリアα 	 Limne 3-α
+リムニ・トゥリアβ 	 Limne 3-β
+創造中空層 	 Central Aerial Artifice
+創造高空層 	 Upper Aerial Artifice
+創造天空層 	 Prime Artifice
+海洋区画 	 Elysian Seas
+遊園区画 	 Elysian Playgrounds
+森林区画 	 Elysian Groves
+パライストラ 	 The Palaistra
+ヴォルカニック・ハート 	 The Volcanic Heart
+クラウドナイン 	 Cloud Nine
+東方絡繰御殿 	 The Clockwork Castletown
+レッド・サンズ 	 The Red Sands
+ベイサイド・バトルグラウンド 	 The Bayside Battleground
+詩想空間 	 Medias Res
+詩想空間 	 Medias Res
+レムナント 	 The Dead Ends
+オストラコン・エークシ 	 Ostrakon Hexi
+オストラコン・オクト 	 Ostrakon Okto
+オストラコン・デカエプタ 	 Ostrakon Deka-hepta
+消えゆく貝塚 	 Shell Mound
+抑止の丘 	 Deterrence Grounds
+世界樹の庭 	 The World Tree
+穢れた渚 	 Pestilent Sands
+グレビュオフの集落 	 Grebuloff Pillars
+ジャッジメント・デイ 	 Judgment Day
+満ち足りた世界 	 The Plenty
+エキサイトロン 	 The Excitatron 6000
+エキサイトロン入口 	 Admissions
+第一区画 	 Hyperstage 1
+第二区画 	 Hyperstage 2
+第三区画 	 Hyperstage 3
+第四区画 	 Hyperstage 4
+最終区画 	 The Hypermost Stage
+バブイルの塔 	 The Tower of Babil
+E号魔導貨物線 	 Magitek Freight Depot E
+地下区画 	 Subterranean Sector
+昇降区画 	 Conveyance Sector
+宮殿区画 	 Palatial Sector
+増築区画 	 Auxiliary Sector
+魔導整備庫 	 Magitek Servicing
+武術訓練ホール 	 Martial Conditioning
+鉄の肚 	 The Iron Womb
+XLIX式貨物車 	 Mark XLIX Freighter
+搬出通路 	 Loading Belt
+A号昇降機 	 Magitek Lift A
+連絡通路 	 Connecting Corridor
+宮殿通路 	 Palatial Corridor
+鎖環の間 	 The Chain
+地脈歪曲層 	 Aetherial Distortion
+アニマディメンション 	 Anima's Dimension
+パンデモニウム辺獄深層 	 The Sanguine Limbo
+イディルシャイア 	 Idyllshire
+ラールガーズリーチ 	 Rhalgr's Reach
+ガレマルド 	 Garlemald
+エンピレアム 	 Empyreum
+聖竜門 	 Great Wyrm's Gate
+スノースティープ浴場 	 Snowsteep Springs
+斧槍通り 	 The Halberd's Head
+義勇門 	 Kind Traveler's Gate
+ダングラン記念公園 	 Dangoulain's Devotion
+新飛竜泊 	 Risensong Rookery
+アイティオン星晶鏡 	 The Aitiascope
+下層 	 Lower Sepulchres
+深層 	 Cairn's Hollow
+[拡張街]聖竜門 	 Great Wyrm's Gate Subdivision
+[拡張街]スノースティープ浴場 	 Snowsteep Springs Subdivision
+[拡張街]義勇門 	 Kind Traveler's Gate Subdivision
+[拡張街]ダングラン記念公園 	 Dangoulain's Devotion Subdivision
+[拡張街]新飛竜泊 	 Risensong Rookery Subdivision
+アルザダール海底遺跡群 	 Alzadaal's Legacy
+バフラウ遺構 	 The Bhaflau Remnants
+アラパゴ遺構 	 The Arrapago Remnants
+ゼオルム遺構 	 The Zhayolm Remnants
+崩れかけた広間 	 Undersea Entrance
+豊穣の間 	 The Threshold of Bounty
+封宝の間 	 Weaver's Warding
+バフラウ遺構 	 The Bhaflau Remnants
+アラパゴ遺構 	 The Arrapago Remnants
+ゼオルム遺構 	 The Zhayolm Remnants
+●玉座の間 	 ●玉座の間
+●財宝の間 	 ●財宝の間
+アルザダール3世の宝物殿 	 The Thrice-won Hoard
+輝ける神域 アグライア 	 Aglaia
+雷天 	 Heaven of Lightning
+炎天 	 Heaven of Fire
+二面宮 	 The Twin Halls
+雷天 	 Heaven of Lightning
+炎天 	 Heaven of Fire
+技巧宮 	 Ingenuity's Foothold
+導きの歩廊 	 The Path
+彗星宮 	 Monument to Destruction
+壮麗なる都 	 Endless City
+審理宮 	 Circle of Inquiry
+二面宮 	 The Twin Halls
+ロッホ・セル湖南西 	 Loch Seld Southwestern Lakebed
+トロイアコート 	 The Fell Court of Troia
+第四監獄棟 	 Carcere IV
+トロイア城 	 Troia Keep
+水占庭園 	 Hydromantic Terraces
+責罪広場 	 Penitence
+筆頭神官の間 	 Seat of the Foremost
+姉妹たちの園 	 The Garden of Epopts
+庭園への階 	 Pilgrim's Ascent
+第四監獄棟 	 Carcere IV
+トロイア城 	 Troia Keep
+水占庭園 	 Hydromantic Terraces
+エリュシオン農業区画 	 Elysian Fields
+エリュシオン海洋区画α 	 Elysian Seas α
+エリュシオン海洋区画β 	 Elysian Seas β
+エリュシオン遊園区画α 	 Elysian Playgrounds α
+エリュシオン遊園区画β 	 Elysian Playgrounds β
+寄生生物隔離棟 	 The Pestilent Purgatory
+呪髪の風塔 	 Storm's Crown
+創生樹隔離棟 	 The Hollow Purgatory
+シラディハ水道 	 The Sil'dihn Subterrane
+泥水ポンプ棟 	 Silt Pump
+花園の前庭 	 Forgotten Forecourt
+孔雀石の間 	 Malachite Portico
+秘蔵の間 	 Shaded Solace
+陽だまりの花園 	 Sunlit Garden
+汚泥処理池 	 Settling Basin
+勇士たちの寝所 	 Eternal Ease
+祭具室 	 Ceremonial Stores
+沈石搬出施設 	 Sifting Site
+御前闘技台 	 The Cornice of Favor
+王族の私室 	 Royal Bedchambers
+王家の食卓 	 The Sultan's Table
+謁見の間 	 Audience Chamber
+シラディハ公庫 	 Prosperity
+聖火兵器安置場 	 Cold Arms' Quietus
+聖火と天秤の間 	 Beacon's Balance
+選扉の間 	 Thresholds Three
+灌漑用水路 	 Irrigation Ducts
+翠の散策路 	 Spring's Passage
+地下河川取水堰 	 Groundwater Intake
+汚水処理区画 	 Sanitation Sluices
+聖戦への岐路 	 Flames' Fork
+掃討作戦前哨地 	 The Traders' Return
+上水道施設 	 Cistern System
+シラディハ王政区画 	 The Quarter of Rule
+後宮 	 Hidden Halls
+共闘記念斎場 	 Friendship's Testament
+異聞シラディハ水道 	 Another Sil'dihn Subterrane
+知恵の層 	 The Jewel
+力の層 	 The Helm
+天秤の層 	 The Scales
+壱の試練 	 Trial of Knowledge
+弐の試練 	 Trial of Might
+参の試練 	 Trial of Balance
+知恵の庭 	 Refuge of the Wise
+力の庭 	 Refuge of the Powerful
+採集環境 	 The Wilds
+開拓拠点 	 Home Sweet Hideaway
+海賊たちの浜 	 Pirate Bay
+飛び石岩礁 	 Rocky Reef
+のっぺり丘 	 Gentle Slope
+山の泉 	 Small Spring
+とんがり山頂 	 True Summit
+山の中腹 	 Sunrise Lookout
+サンゴ海岸 	 Coral Sands
+青空池 	 Pristine Pond
+三角岬 	 Peak Point
+縦の川 	 Northward Stream
+横の川 	 Eastward Stream
+猛毒生物隔離棟 	 The Caustic Purgatory
+生命神秘研究棟 	 Stygian Insenescence Cells
+エリュシオン 	 Elysion
+エリュシオン 	 Elysion
+エリュシオン 	 Elysion
+エリュシオン 	 Elysion
+エリュシオン 	 Elysion
+エリュシオン 	 Elysion
+[拡張街]斧槍通り 	 The Halberd's Head Subdivision
+喜びの神域 エウプロシュネ 	 Euphrosyne
+土天 	 Heaven of Earth
+氷天 	 Heaven of Ice
+氷天宮 	 Hall of the Spear
+氷天宮屋上 	 Arete
+土天 	 Heaven of Earth
+氷天 	 Heaven of Ice
+豊穣の地 	 Fertile Plains
+世界樹の根土 	 The Roots
+世界樹 	 The Bole
+削られた氷河 	 Hanging Tributary
+戦神の間 	 The Barbs
+ラピス・マナリス 	 Lapis Manalis
+モンス・アルバス山腹 	 Mons Albus
+ヴィクス・メッソルム 	 Vicus Messorum
+フォンス・マナリス 	 Fons Manalis
+雪獣の帝座 	 The Silvan Throne
+フォルム・メッソルム 	 Forum Messorum
+青炎の棘 	 Deepspine
+穂刈の炉 	 Lar
+モンス・アルバス山腹 	 Mons Albus
+ヴィクス・メッソルム 	 Vicus Messorum
+フォンス・マナリス 	 Fons Manalis
+ケンの島南西 	 Southwestern Isle of Ken
+水没した教会周辺 	 The House of the First Light
+ブロンズレイク北東湖底 	 Northeast Bronze Lake Depths
+双月の間 	 The Chamber of Revolutions
+XLVII登山雪道 	 Via Nivalis XLVII
+僭主の森 	 Tyrannis
+エルピス・ギュムナシオン祭殿 	 The Shifting Gymnasion Agonon
+次元の狭間 	 The Interdimensional Rift
+試練の山 	 Mount Ordeals
+ホーパーズ・ホールド 	 Hoper's Hold
+モンス・アルバス山麓 	 Pes Albus
+モンス・アルバス山麓 	 Pes Albus
+カドガの大岩 	 Khadga
+魔導雪上車甲板部 	 Magitek Snowcraft 
+ラピス・マナリス 	 Lapis Manalis
+立方魔法陣 	 The Voidcast Dais
+ハーム島 	 The Aetherfont
+流氷帯 	 Ice Field
+ハーム島 	 Isle of Haam
+星霊間欠泉群 	 The Aetherfont
+流氷の円庭 	 Landfast Floe
+シアンキャップ中継地 	 Cyancap Cavern
+エーテリックポンド 	 The Deep Below
+流氷帯 	 Ice Field
+ハーム島 	 Isle of Haam
+星霊間欠泉群 	 The Aetherfont
+十四座の間 	 The Chamber of Fourteen
+六根山 	 Mount Rokkon
+六根山麓 	 Mountain Base
+六根山林道 	 Shaded Approach
+五堂塔下層 	 Lower Pagoda
+五堂塔中層 	 Upper Pagoda
+五堂塔上層 	 Fifth Story
+六根山参道 	 Pilgrim's Road
+六根山山道 	 Ascetic's Climb
+眼根の木間 	 Last Glimpse
+金堂 	 Hall of Temptation
+落葉川河畔 	 Autumn Rivers' End
+眼根の御堂 	 Hall of the Unseen
+宝蔵の間 	 Hall of Becoming
+怪鳴石の磐座 	 Stone's Silence
+浄桜湖 	 Pond of Spring Rain
+赤青の像廟 	 The Cardinal Gate
+身根の湯 	 Untouched Spring
+意根の古堂 	 Shrine of the Sixth Sense
+六根山麓 	 Mountain Base
+眼根の林道 	 Scenic Path
+五堂塔下層 	 Lower Pagoda
+五堂塔中層 	 Upper Pagoda
+五堂塔上層 	 Fifth Story
+鼻根の竹林 	 Fragrant Forest
+聖浄院本堂 	 Shojo Sanctum
+聖浄院回廊 	 Way of Naught
+聖浄院宝蔵堂 	 Sacred Stores
+舌根の険道 	 Sweet Path
+耳根の険道 	 Singing Path
+望桜の湖畔 	 Shore of Far Sight
+異聞六根山 	 Another Mount Rokkon
+福徳の層 	 Path of the First Virtue
+智徳の層 	 Path of the Second Virtue
+寿徳の層 	 Path of the Third Virtue
+福徳の狭間 	 The Single Step
+智徳の狭間 	 The Clever Roost
+福徳の試練 	 Trial of Benevolence
+智徳の試練 	 Trial of Wisdom
+寿徳の試練 	 Trial of Responsibility
+福徳の道 	 Path of the First Virtue
+智徳の道 	 Path of the Second Virtue
+寿徳の道 	 Path of the Third Virtue
+彼女が生きた時代 	 The Dream She Lived
+隔離領域III 	 Containment Area III
+彼女が死にゆく時代 	 The Dream She Lost
+隔離領域V 	 Containment Area V
+私が微睡む時代 	 My Dream Everlasting
+アレクサンドリア城下町 	 Alexandria
+流れゆく記憶の狭間 	 Volatile Memory Cache
+アレクサンドリア城下町 	 Alexandria
+星海滞留域 	 The Aetherial Slough
+とんがり山の洞窟 	 Mountain Hollow
+陸上 	 Surface Terrain
+洞窟 	 Cave System
+万魔の産屋 	 The Dæmons' Nest
+セイレーン海 	 The Sirensong Sea
+クガネ 	 Kugane
+紅玉海 	 The Ruby Sea
+無二江 	 The One River
+セイレーン海沖合 	 Open Sirensong Sea
+セイレーン海沖合：幻海流 	 Sirensong Spectral Current
+クガネ沖合 	 Kugane Coast
+クガネ沖合：幻海流 	 Kugane Spectral Current
+紅玉海沖合 	 Open Ruby Sea
+紅玉海沖合：幻海流 	 Ruby Spectral Current
+無二江下流 	 Lower One River
+無二江下流：幻海流 	 One River Spectral Current
+神の座 	 Ascension
+創造世界 	 Apex of Creation
+アラヤの宝塔 	 The Gilded Araya
+魔石の鉱脈 	 Spriggan's Delight
+つらら洞 	 Shiny Spring
+エスティニアンの客室 	 Estinien's Chambers
+セナトゥス駅 	 Senatus
+赤き月 	 The Red Moon
+アロアロ島 	 Aloalo Island
+アロアロ島外縁 	 Island Foreshore
+アロアロ島湾岸 	 Island Coastline
+算命樹への道 	 Incalculable Approach
+算命樹の幹 	 The Incalculable
+アロアロ島内陸部 	 Island Interior
+算命樹の根 	 Thatchroot
+忘れられた遺跡 	 Arboreal Structure
+忘れられた祭祀場 	 Forgotten Sanctum
+ケトゥルの江湾 	 Ketulu Cove
+老樹の切り株 	 Elder Stump
+古き広場 	 Ancient Forum
+鯨の還る地 	 Seasong's Rest
+大樹の命泉 	 The Origin Spring
+昏き微睡の間 	 Slumbering Canopy
+神子の祭壇 	 Kairimai Loquloqai
+遺忘の史跡 	 Ancestral Pavilion
+名もなき白浜 	 Silver-white Sands
+波食い洞 	 Waveater Cave
+テサタの入り江 	 Tesata Bay
+船食いのトンボロ 	 Shipwreck Shoal
+髭の岬 	 Baleen Cape
+痕の沼地 	 Abiding Wetlands
+算命樹の麓 	 Incalculable Roots
+樹上の道 	 Boughsplane
+算術士の洞 	 The Arithmetician's Cup
+算命樹の樹冠 	 Incalculable Heights
+木像の道 	 Aloqulo Thickets
+巡礼の場 	 Sacred Site
+夢見の地下道 	 Dreaming Halls
+古き参道 	 Ancient Trail
+霧の道 	 Shrouded Bridge
+神子の祭祀場 	 The Speaker's Realm
+異聞アロアロ島 	 Another Aloalo Island
+ディルムの層 	 Dilumu
+クルペの層 	 Qurupe
+ノコセロの層 	 Nokosero
+ディルムの狭間 	 Sands of Morn
+クルペの狭間 	 Roots of Gloam
+ディルムの試練 	 Dawn Trial
+クルペの試練 	 Dusk Trial
+ノコセロの試練 	 Midnight Trial
+ディルムの道 	 Dalu Dilumu
+クルペの道 	 Dalu Qurupe
+ノコセロの道 	 Dalo Nokosero
+●ハーム島研究施設前 	 ●ハーム島研究施設前
+サイバイ洞周辺 	 Saibai Cavern
+ブロンズレイク北西湖底 	 Northwest Bronze Lake Depths
+月の地下渓谷 	 The Lunar Subterrane
+月の地下渓谷 	 The Lunar Subterrane
+バロンの町 	 Baron
+バロン城 	 Baron Castle
+クリスタル広場 	 Cloven Crystal Square
+バロン城正門 	 Bloodied Barbican
+バロン城中庭 	 Carnelian Courtyard
+月の地下渓谷 	 The Lunar Subterrane
+バロンの町 	 Baron
+バロン城 	 Baron Castle
+赤き月の底 	 The Abyssal Fracture
+詩想空間 	 The Memory of Embers
+華めく神域 タレイア 	 Thaleia
+水天 	 Heaven of Water
+知神の水郷 	 Mind's Libation
+風天 	 Heaven of Wind
+旅神の霊峰 	 Mythic Mountains
+オシュオン神殿 	 The Wanderer's Heights
+オムファロス 	 The Omphalos
+星天 	 Highest Heaven
+水天 	 Heaven of Water
+知神の水郷 	 Mind's Libation
+風天 	 Heaven of Wind
+旅神の霊峰 	 Mythic Mountains
+オムファロス 	 The Omphalos
+星天 	 Highest Heaven
+知恵の河 	 River of Knowledge
+大洋の虚 	 Briny Deep
+風の通り道 	 Windward Pass
+オシュオン神殿 	 The Wanderer's Heights
+祝福の天球 	 The Twelve's Embrace
+導きの水廊 	 Way of the Wise
+六天座の門 	 Seventh Gate
+六天座の階 	 Stairway to the Seventh
+水晶の地底湖 	 Mother Lode
+ゴルベーザの記憶 	 What Once Was
+渓谷の底 	 Darkened Vestibule
+ブランダーヴィルスクウェア 	 Blunderville Square
+ブランダーヴィル 	 Blunderville
+マンダヴィルフィーバー 	 Gentlebean's Fever
+マンダヴィルパレード 	 Manderville-can Parade
+マンダヴィルスピナー 	 The Gold Swiveller
+マンダヴィルキャッスル 	 Saucery Siege
+マンダヴィルマウンテン 	 Manderville Mountain
+マンダヴィルロビー 	 Lobbyville
+早足の浜 	 Swiftstep Beach
+忘れられた道 	 Forgotten Footfalls
+算命樹の枝 	 Incalculable Boughs
+ウォーコー・ゾーモー 	 Worqor Zormor
+ジィゴ・ゾーモー 	 Zirgor Zormor
+モーガァダー天壁 	 Morgardar Ridge
+ゾーの天頂 	 Summit of Zor
+ジィゴ・ゾーモー 	 Zirgor Zormor
+モーガァダー天壁 	 Morgardar Ridge
+ゾーの天頂 	 Summit of Zor
+猛凰の爪痕 	 Ruin's Wrath
+凪の露営地 	 Calmgrounds
+凪への復路 	 Grounding Way
+雲への往路 	 Skybound
+煙嵐の廃路 	 Forsaken Haze
+モーガァの白海 	 Morgar Rise
+モーガァ王屯所 	 Council of Morgar
+カーリョー陵墓 	 Karryor the Resting
+消えゆく記憶の狭間 	 Corrupted Memory Cache
+アレクサンドリア城下町 	 Alexandria
+凱旋通り 	 Victors' March
+平和広場 	 Peacemeet
+再臨の地 	 Reascension
+ヨカ・トラル 	 Yok Tural
+サカ・トラル 	 Xak Tural
+アンロスト・ワールド 	 Unlost World
+ソリューション・ナイン 	 Solution Nine
+トライヨラ 	 Tuliyollal
+オルコ・パチャ 	 Urqopacha
+コザマル・カ 	 Kozama'uka
+ヤクテル樹海 	 Yak T'el
+シャーローニ荒野 	 Shaaloani
+ヘリテージファウンド 	 Heritage Found
+リビング・メモリー 	 Living Memory
+ヨカ・トラル 	 Yok Tural
+サカ・トラル 	 Xak Tural
+アンロスト・ワールド 	 Unlost World
+ソリューション・ナイン 	 Solution Nine
+トライヨラ 	 Tuliyollal
+連なる丘 	 The Arterial Climb
+赤銅の門庭 	 Copperstone
+満ちた玄関 	 High Tide Harbor
+翼鏡の街 	 The Resplendent Quarter
+鸞翔の城郭 	 Exultation
+ヴォロク連王宮 	 Vollok Shoonsa
+羽毛広場 	 The Winged Walk
+金凰の間 	 Sunperch
+鵬翼の露台 	 Pinion's Reach
+サカ・トラル関門 	 Xak Tural Skygate
+ゾーゴー永結橋 	 Zorgor the Boundless
+ブライトプルーム・ポスト 	 Brightploom Post
+フヌイリーの塔 	 Hunu'iliy
+エクワーヤ広場 	 Ek-wawya Plaza
+鳥趾大路 	 Talonmarch
+シーフォーム農園 	 Seafoam Fields
+ベイサイド・ベヴィー 	 Bayside Bevy
+ワチュメキメキ万貨街 	 Wachumeqimeqi
+タコスのチーちゃん 	 Aunt Tii's Tacos
+エーテライト・プラザ 	 Tuliyollal Aetheryte Plaza
+嘴休めの泉 	 Downripple
+シャバーブチェ 	 Xbalyav Ty'e
+ゴーニトルクの宝浜 	 Gornitruq Gleamsands
+金煌なる旅程 	 Morrow's Measure
+フォルアード・キャビンズ 	 The For'ard Cabins
+グルージャジャ凱旋門 	 Arch of the Dawn
+曙歌の大太鼓 	 The Dawnherald
+気球発着場 	 Dirigible Landing
+アルパカ停留場 	 Alpaca Stables
+チャバ・ユケク 	 Chabayuqeq
+チャバ・メキ 	 Chabameki
+千古への慰め 	 Solace
+遥遠なる嘆き 	 Sorrow
+ラァー・トートー 	 Larh Tortoh
+ワチュン・ペロ 	 Wachunpelo
+メスカル蒸留所 	 Mezcal Distillery
+友の牧場 	 The Family Ranch
+指先の館 	 Delicate Designs
+イクヴロ隊商宿 	 Icuvlo's Inn
+アガベの歯列 	 Agave Jaws
+パナクペル・リトリート 	 Panaqpelu Retreat
+ポーベル商運公司 	 Povlu's Peddlery
+キーベル・カピー農園 	 Ciblu's Coffee Grounds
+ミープル・マテ茶園 	 Miplu's Mate Garden
+オルン・カンカ 	 Oruncanca
+万ヶ踏跡 	 Ten Thousand Steps
+ウォーラーの残響 	 Worlar's Echo
+カーリョーザー祭拝殿 	 Karryorzar the Gracious
+哀苦の影 	 Shades of Grief
+ナーヨー・ゴーナ 	 Naryor Gorna
+佇む自証 	 Proof
+涙浮かぶ星池 	 Sunken Stars
+チーワグー塩田 	 Chirwagur Saltern
+チーワグー塩池 	 Chirwagur Lake
+ウォーコー・ゾーモー 	 Worqor Zormor
+忘れじの深奥 	 Indelible Passage
+花守の塚屋 	 Sentinel
+ウォーコー・ラァ・ドー 	 Worqor Lar Dor
+カーヴァーフー湖 	 Karvarhur the First
+ウユー・ウブ 	 Uyuyub'
+ボポル・ウィヒヒ 	 Bopo'uihih
+ミヤカ・ベック下流 	 Miyakabek'zu
+ウユー・ポガ 	 Uyuypoga
+デュースパン・バンク 	 The Dewspun Bank
+ミヤカ・ベック上流 	 Miyakabek'zoma
+グロストファイア・バンク 	 The Glostfired Bank
+オック・ハヌ 	 Ok'hanu
+生い茂る薫風の屋敷 	 House of Winds High
+キキトラ洞 	 Cave Kikitola 
+ショドゥネの滝 	 Xodune
+ショーヌの滝 	 Xo'onu
+ショピックの滝 	 Xopik'
+クル・シャゲ 	 Ku'uxage
+竿網桟橋 	 Breath Between
+プィフ橋 	 Bridge Puyhu
+金渦水田 	 Fields of Gold
+オック・ベックベ 	 Ok'bek'be
+清き水満ちる浮島の屋敷 	 House of Waters High
+コザヌア・キー 	 Kozanuakiy
+ポガ停船所 	 Dock Poga
+翼なき姉弟の大階段 	 Flight of We Wingless
+照らされし参道 	 Stride of the Sun
+朋友の灯火 	 Many Fires
+トゥム停船所 	 Dock Tumu
+リガカの潟 	 Marsh Ligaka
+敗者の船 	 Shoals of No Return
+イフイカ・トゥム 	 Ihuykatumu
+アースンシャイア 	 Earthenshire
+釉薬の工房 	 The Workpot
+割れた水瓶 	 Cracked Cistern
+飛び立ちし巨影の標 	 The Imperious
+奸臣の飾り棚 	 Deceiver's Mantel
+ウトォームの地平線 	 The Ut'ohmu Horizon
+ショブリト灰戦場 	 The Xobr'it Cinderfield
+ジャティーカ央森 	 The Ja Tiika Heartland
+底碧きセシュドロース 	 The Cerulean Cexudross
+気球発着場 	 Dirigible Landing
+ヤクアワク・ゾユ 	 Yak Awak Tsoly
+イクブラーシャ 	 Iq Br'aax
+星覚えの園庭 	 Garden of the Stars
+牙磨く鋳工 	 The Fanged Foundry
+シャムン・ホジャー 	 Xmun Hojaw
+睨視する夜番 	 Nightstalker's Shadow
+シャダータラト・ゾユ 	 Xd'aa Talat Tsoly
+イクラシュ・ゾユ 	 Iq Rrax Tsoly
+イヨンアソの家々 	 Village of Ilyon Asoh
+ショブリト・ゾユ 	 Xobr'it Tsoly
+ティーンベク洞道 	 The Ty'iinbek Traverse
+シャティーンベク・ゾユ 	 Xty'iinbek Tsoly
+マムーク 	 Mamook
+モシュク・レルーヌク演舞台 	 The Glory of Moxuk Reloonuk
+甘い涌き水 	 Sapsweet Cenote
+碧眼の家 	 Blue-eyes' Abode
+ゴルマジーカ蜜園 	 Golmajiik Grove
+幻煌樹 	 Tree of Living Light
+空の重し 	 Choliselvaas
+セノーテ・ネヨーゾテ 	 Cenote Neyozzote
+モシュトラル・ズージャ 	 Moxutural Zooj
+セノーテ・ジャユンジャ 	 Cenote Jayunja
+鱗の錬磨場 	 Whetstone
+足首の小セノーテ 	 Ankledeep
+ゴクドラーク岩窟 	 Gok Draak Descent
+天深きセノーテ 	 The Skydeep Cenote
+スキャンポート 	 Scanning Port Nine
+レジデンシャルセクター 	 Residential Sector
+コマースセクター 	 Commerce Sector
+ガバメントセクター 	 Government Sector
+レクリエーションゾーン 	 Recreation Zone
+レイノード・ナイン 	 Leynode Nine
+インフォメーションセンター 	 Information Center
+9-14居住殻 	 Residential Radius 9-14
+ネクサスアーケード 	 Nexus Arcade
+モザイク・コーヒー 	 Mosaic
+レゾリューション 	 Resolution
+プラクシスパーク 	 Praxis Park
+トゥルービュー 	 True Vue
+アルカディア・ソサエティ 	 The Arcadion
+ネオンスタイン 	 Neon Stein
+バックルーム 	 The Backroom
+ジム・トライテール 	 Tritails Training
+ヤータナネ草地 	 Yawtanane Grasslands
+パリヨーナン沃野 	 Pyariyoanaan Plain
+エシュケヤーニ荒原 	 Eshceyaani Wilds
+フーサタイ宿場町 	 Hhusatahwi
+ルワテニヤーサ 	 Luwateninyawawsa
+サンシェヤの大口 	 Maw of Sansheya
+トライヨラ関門 	 Tuliyollal Trailhead
+トーリ湖 	 Lake Toari
+メワヘイゾーン 	 Mehwahhetsoan
+ウィダヨーナン台地 	 Boughs of Hwittayoanaan
+善き釣り人の岸辺 	 Otsekarri Shore
+シェシェネ青燐泉 	 Sheshenewezi Springs
+シャーローニ駅 	 Shaaloani Station
+トナテニャイ 	 Tonatenyawi
+語り風の丘 	 Mount Loazensasaya
+ヨエヤ・ウィド墓地 	 Yoweya-hwitto Cemetery
+ヨエカ峡 	 Yowekwa Canyon
+パーエヘッパの丘 	 Pyaayehe'pya
+ヤースラニ荒野東部 	 East Yyasulani
+エバーキープ外縁 	 Everkeep Ward
+旧アレクサンドリア城下町 	 Archeo Alexandria
+ヴァンガード 	 Vanguard
+ヤースラニ駅 	 Yyasulani Station
+テッシャ・パニ廃村 	 Tesh'pyani Village
+サンダーヤード 	 The Thunderyards
+送雷塔群 	 The Pylons
+空の坑道 	 Earthen Sky
+蓄雷増幅施設 	 Electric Potential
+エバーキープ 	 Everkeep
+アウトスカーツ 	 The Outskirts
+ユーペ円形農地 	 Yyupye's Halo
+ドリフトダウンズ 	 The Driftdowns
+●命名なし 	 ●命名なし
+融合した家屋 	 Tumbled Hearthrises
+兵器射爆塔 	 Spire of Trial
+帯雷危険区域 	 Crackling Chasm
+水没した旧市街 	 Submerged Skyline
+記名された墓地 	 The Nameslates
+エレクトロープ採石場 	 Electrope Strike
+リメンバー・ゲート 	 Gate of Remembrance
+カナルタウン 	 Canal Town
+イェスタランド 	 Yesterland
+ウィンドパスガーデン 	 Windspath Gardens
+ヴォルケーノアサイラム 	 Asyle Volcane
+レイノード・メモリス 	 Leynode Mnemo
+メインターミナル 	 Meso Terminal
+ウォーターターミナル 	 Hydro Terminal
+遊水通り 	 The Promenade
+いたわりの泉 	 Font of Devotion
+ダゲレオ医療史博物館 	 Daguerreo Medical Collection
+不動の時計塔 	 The Immovable
+星河の鏡 	 Starglass
+ラウンダバウト・ベルクメア 	 Bergmähr-Ring
+エスペランス・ホイール 	 Esperance Wheels
+エアキャブ乗り場 	 Air Cab Station
+プロト・アレクサンドリア 	 Proto Alexandria
+アースターミナル 	 Geo Terminal
+レイノード・ウィンド 	 Leynode Aero
+探求の花園 	 Blooms of Discovery
+ムーの散歩道 	 Joy of the Mu
+クレイラ自然史博物館 	 Cleyra Museum of Nature
+ザ・ノーアブル 	 The Knowable
+ウィンドターミナル 	 Aero Terminal
+アサイラム・ホットウェル 	 Heatwells
+オパールスプリング 	 Opal Springs
+レイノード・ファイア 	 Leynode Pyro
+アリーナ・オブ・ヴァラー 	 Arena of Valor
+旧き神子の道 	 Steps of the Speaker
+マッチロック動物園 	 Matchlock Menagerie
+ファイアターミナル 	 Pyro Terminal
+気球発着場前 	 Dirigible Landing
+翼鏡の街 	 The Resplendent Quarter
+フォルアード・キャビンズ前 	 The For'ard Cabins
+マーケット（ベイサイド・ベヴィー） 	 Bayside Bevy Marketplace
+ヴォロク連王宮前 	 Vollok Shoonsa
+ワチュメキメキ万貨街 	 Wachumeqimeqi
+ブライトプルーム・ポスト前 	 Brightploom Post
+インフォメーションセンター前 	 Information Center
+トゥルービュー 	 True Vue
+ネオンスタイン前 	 Neon Stein
+アルカディア・ソサエティ前 	 The Arcadion
+レゾリューション 	 Resolution
+ネクサスアーケード 	 Nexus Arcade
+レジデンシャルセクター 	 Residential Sector
+スキャンポート（ヘリテージファウンド方面） 	 Scanning Port Nine (Heritage Found)
+グルージャジャ凱旋門（オルコ・パチャ方面） 	 Arch of the Dawn (Urqopacha)
+グルージャジャ凱旋門（コザマル・カ下流域方面） 	 Arch of the Dawn (Kozama'uka)
+イフイカ・トゥム（コザマル・カ上流域方面） 	 Ihuykatumu (Kozama'uka)
+気球発着場（ヤクテル樹海方面） 	 Dirigible Landing (Yak T'el)
+サカ・トラル関門（シャーローニ荒野方面） 	 Xak Tural Skygate (Shaaloani)
+エーテライト・プラザ 	 Solution Nine Aetheryte Plaza
+9-11居住殻 	 Residential Radius 9-11
+空の坑道のアジト 	 Earthen Sky Hideout
+控室 	 Greenroom
+大洋の船上 	 Main Deck
+天深きセノーテ 最深部 	 Skydeep Cenote Inner Chamber
+砂呑みのねぐら 	 Sandnest
+ムーの台塔 	 Tower of Mu
+星芒マーケット 	 Starlight Stalls
+仮設オーディション会場 	 Hall of the Unbound
+ゴクゴルマ農園 	 Gok Golma
+蜃気楼の町 	 Phantom Village
+大洋の船上 	 Main Deck
+仮眠室 	 Break Room
+玉座の間 	 Throne Room
+クイーン・ラミン号 	 The Queen Lhaminn
+アレクサンドリア王国跡地 	 Alexandria Crater
+ベンティーニ貨物駅 	 Bentini Depot
+美しい娘の家 	 The Maiden's Home
+トレノ 	 Treno
+イフイカ・トゥム下流域 	 Downriver Ihuykatumu
+イフイカ・トゥム中流域 	 Midriver Ihuykatumu
+王女の川船 	 Wuk Lamat's Riverboat
+コザ・ウユー 	 Koza'uyuy
+黄葉鉱洞 	 Richleaf Tunnels
+コザ・リガカ 	 Kozaligaka
+プヌティープール 	 Punutiy Pool
+ドラウジーのねぐら 	 Drowsie's Grotto
+肺の広場 	 Breathcatch
+ヴァンガード 	 Vanguard
+外縁区画 	 Outer Ward
+待機区画 	 Holding Line
+格納区画 	 Storage Facility
+連絡橋 	 Crossbridge
+本営区画 	 Vanguard Command
+大型格納庫 	 Central Garage
+保安検査室 	 Safety Inspection Chamber
+前哨基地司令室 	 Vanguard Control Room
+サボテンダーバレー 	 Tender Valley
+来たりし者の遺跡 	 Faded Footstep
+覇王樹の祭列 	 The Valley of Sabotenderous Celebrity
+ザージョー水道 	 Zarjor Wash
+来たりし者の参道 	 Ancient Arrival
+棘咲く苑 	 Spineblossom
+巨躯の貯水槽 	 Tremendous Tank
+蛇壺の祭壇 	 Altar of the Urn Exulted
+サボテンダーバレー 	 Tender Valley
+探査隊のベースキャンプ 	 Expedition Base Camp
+放浪神聖域跡前 	 The Wanderer's Haven
+水晶洞窟前 	 Crystallized Caverns
+古樹の湿原前 	 Eldergrowth
+三日月島 	 The Occult Crescent
+三日月島南部 	 South Horn
+フォークタワー：力の塔 	 Tower of Blood
+南部平原 	 Southdown Heath
+蜃気楼の浜 	 Vanishing Slope
+放浪神聖域跡 	 The Wanderer's Haven
+円蓋の城塞 	 Lost Citadel
+南部丘陵 	 Heathcliff
+水晶洞窟 	 Crystallized Caverns
+古樹の湿原 	 Eldergrowth
+禁忌の廃都 	 Shadowed City
+石塔水沼 	 Stonemarsh
+階段の殿堂 	 Abandoned Ascent
+探査隊のベースキャンプ 	 Expedition Base Camp
+静寂の東屋 	 Solitary Pavilion
+異相回廊 	 Occult Cloister
+石塔水沼前 	 Stonemarsh
+格納殻10-29 	 Containment Complex 10-29
+ジィゴーテー拝壇 	 Zirgorteh the Open-armed
+汎用研究室 	 Researchers' Commons
+中央ハブ 	 Hub
+第一実験室 	 Protolab
+第二実験室 	 Deuterolab
+管理設備室 	 Facilities
+所長室 	 Director's Office
+屯所 	 Warmth
+石材加工所 	 Masons' Work
+食料貯蔵庫 	 High Larder
+酒造場 	 Kirkahryar House
+雪の拝壇 	 Breathless Altar
+雪守の塚屋 	 Shelter
+セノーテ・ジャジャグラル 	 Cenote Ja Ja Gural
+セノーテ・ジャジャグラル入口 	 Cenote Entrance
+第一区画 	 The First Platform
+第二区画 	 The Second Platform
+第三区画 	 The Third Platform
+第四区画 	 The Fourth Platform
+最終区画 	 Throne of Abundance
+オリジェニクス 	 Origenics
+資源搬入港 	 Hover Docks
+下層 	 Lower Origenics
+昇降機 	 Transport Elevator
+中層 	 Middle Origenics
+上層 	 Upper Origenics
+資源搬入埠頭 	 Intake Wharf
+資源集積区画 	 Resource Collection Facility
+魂魄管理区画 	 Soul Management Division
+魂魄加工区画 	 Soul Processing Division
+魂魄研究区画 	 Soul Research Division
+資源用エレベーター 	 Resource Transport Elevator
+レギュレーター臨時保管場 	 Temporary Regulator Storage
+資源用エレベーター 	 Resource Transport Elevator
+魂魄抽出室 	 Soul Extraction Facility
+記憶洗浄室 	 Memory Separation Facility
+魂資源搬送路 	 Soul Conveyance Circuit
+警備監視室 	 Surveillance Room
+上層搬出口 	 Upper Delivery Port
+強化実験室 	 Enhancement Testing Grounds
+天深きセノーテ 	 The Skydeep Cenote
+ゴクドラーク慰霊堂 	 Gok Draak Cenotaph
+ヴーガー採石坑 	 Vurgar Quarry
+滅明の路 	 Path of Dying Light
+無命卵への弔歌壇 	 Unsung Elegy
+ヴーガー試戦場 	 Vurgar Mettlegrounds
+紫金の門前 	 Gatekeep's Anvil
+慰めの涙跡 	 Tearspent
+堅き石切場 	 Miners' Mark
+滅明の路 	 Path of Dying Light
+嘴休めの泉 	 Downripple
+フォルアード・キャビンズ 	 The For'ard Cabins
+満ちた玄関 	 High Tide Harbor
+涙浮かぶ星池 	 Sunken Stars
+チーワグー塩池 	 Chirwagur Lake
+カーヴァーフー湖 	 Karvarhur the First
+ボポル・ウィヒヒ 	 Bopo'uihih
+ハヌの水辺 	 Waters Hanu
+ミヤカ・ベック下流 	 Miyakabek'zu
+デュースパン・バンク 	 The Dewspun Bank
+ポガの岸辺 	 Peaks Poga
+クル・シャゲ 	 Ku'uxage
+ミヤカ・ベック上流 	 Miyakabek'zoma
+リガカの潟 	 Marsh Ligaka
+シャダータラト・ゾユ 	 Xd'aa Talat Tsoly
+イクブラーシャの溜池 	 Iq Br'aax Reservoir
+ヤクアワク・ゾユ 	 Yak Awak Tsoly
+イクラシュ・ゾユ 	 Iq Rrax Tsoly
+ショブリト・ゾユ 	 Xobr'it Tsoly
+足首の小セノーテ 	 Ankledeep
+セノーテ・モシュトラル 	 Cenote Moxutural
+セノーテ・ジャユンジャ 	 Cenote Jayunja
+甘い涌き水 	 Sapsweet Cenote
+辛水のセノーテ 	 Bitterbark Cenote
+シャティーンベク・ゾユ 	 Xty'iinbek Tsoly
+ニーケレピ川 	 Niikwerepi
+トーリ湖 	 Lake Toari
+ゾーゴー海峡西 	 Westbound Zorgor
+ゾーゴー海峡東 	 Eastbound Zorgor
+アウトスカーツ大濠 	 Outskirts Shallows
+ドリフトダウンズ 	 The Driftdowns
+帯雷危険水域 	 Crackling Canyons
+アレクサンドリア旧市街 	 Alexandrian Ruins
+レジデンシャルセクター 	 Residential Sector
+ザ・ノーアブル 	 The Knowable
+ムーの泉 	 Mu Springs Eternal
+レイノード・ウィンド 	 Leynode Aero
+カナルタウン南 	 Canal Town South
+カナルタウン北 	 Canal Town North
+プロト・アレクサンドリア 	 Proto Alexandria
+カーヴァーフー湖 	 Karvarhur the First
+リガカの潟東 	 Eastern Marsh Ligaka
+リガカの潟西 	 Western Marsh Ligaka
+リガカの潟中央深部 	 Marsh Ligaka Depths
+シャダータラト・ゾユ 	 Xd'aa Talat Tsoly
+イクラシュ・ゾユ西 	 Western Iq Rrax Tsoly
+イクラシュ・ゾユ東 	 Eastern Iq Rrax Tsoly
+イクラシュ・ゾユ中央湖底 	 Iq Rrax Tsoly Depths
+トーリ湖北 	 Northern Lake Toari
+ヴーガー造兵廠 	 Vurgar Armory
+リング・オブ・ラブ 	 Lovely Lovering
+リング・オブ・サンダー 	 The Thundering
+リング・オブ・キャット 	 Scratching Ring
+ストレイバロー 	 Strayborough
+フレンドシップラウンド 	 Friendship Round
+パーティープラザ 	 The Party Plaza
+レストレスホール 	 The Restive Hall
+ギグルゲート 	 The Giggling Gate
+バローストリート 	 The Boroughfare
+ナイスヘッド・ガーデン 	 Forget-Me-Nogg Gardens
+フロリックパーク 	 The Frolicking Grounds
+エンドレスハウス 	 The Endless House
+リング・オブ・ボンバー 	 Blasting Ring
+ウォーコー・ラァ・ドー 	 Worqor Lar Dor
+次元黄道 	 Interphos
+エバーキープ最上層 	 Summit of Everkeep
+ドリーマーバロー南地区 	 Dreamborough South
+ドリーマーバロー北地区 	 Dreamborough North
+廃屋の地下室 	 Manor Basement
+夢香る宮殿 	 Dreamlike Palace
+画廊の間 	 Antegallery
+画工の間 	 Artist's Atrium
+画室の間 	 Solitary Studio
+ザ・フォールド 	 The Fold
+ユウェヤーワータ 	 Yuweyawata
+ワーサテニャデト 	 Wawsatenyazeto
+採石場跡 	 Crystal Quarry
+人魂管理室 	 Soul Center
+砂兎の封牢 	 The Dust Yoke
+冥漠の森 	 Dryland Shroud
+ユウェヤーワータ廃村 	 Yuweyawata Village
+カニロッカ技研 	 The Kanilokka Corpus
+砂紋の戦野 	 Jackrabbit's Run
+機密研究棟 	 Shrouded Laboratory
+機密研究棟地下 	 Bedrock
+もうひとつの未来 	 A Future Rewritten
+ジュノ：ザ・ファーストウォーク 	 Jeuno: The First Walk
+ジュノ下層 	 Lower Jeuno
+ボヤーダ樹 	 The Boyahda Tree
+ル・オンの庭 	 Ru'Aun Gardens
+ラ・ロフの劇場 	 La'Loff Amphitheater
+王の間 	 Throne Room
+ジュノ下層 	 Lower Jeuno
+ボヤーダ樹 	 The Boyahda Tree
+ル・オンの庭 	 Ru'Aun Gardens
+ズヴァール城 	 Castle Zvahl
+市場橋 	 Market Bridge
+闘舞台 	 Grand Dais
+龍のねぐら 	 Dragon's Aery
+ラ・ロフの劇場 	 La'Loff Amphitheater
+玉座の間 	 Recollection
+ユウェヤーワータ 	 Yuweyawata
+第八層建設区域 	 Demolition Site
+アンダーキープ 	 The Underkeep
+基礎区画 	 Foundation Sector
+王城外郭 	 Royal Radius
+王城内郭1 	 Retrolevel 1
+王城内郭2 	 Retrolevel 2
+王城内郭3 	 Retrolevel 3
+基礎区画外構 	 Foundation Framework
+作業通路 	 Service Route
+砂礫堆積層 	 Sediment Trough
+難民居住区 	 Evacuation Zone
+物資搬入路 	 Supply Route
+主門 	 Royal Portal
+メインホール 	 Grand Hall
+連絡昇降機 	 Elevator
+砂礫排棄孔 	 Sediment Funnel
+排棄孔点検口 	 Access Hatch
+物資搬入口 	 Supply Port
+迎賓の間 	 Receiving Room
+玉座の間前室 	 Chamber of Patience
+リング・オブ・アート 	 Rebel Ring
+リング・オブ・ダンス 	 Groovy Ring
+リング・オブ・ウルフ 	 Hunter's Ring
+リング・オブ・ハント 	 Hunting Ground
+フォークタワー：力の塔 	 Tower of Blood
+下層 	 Tower Base
+中層中央広間 	 Central Gallery
+中層西部回廊 	 Central West Passage
+中層東部回廊 	 Central East Passage
+中層秘匿区画1 	 Secret Nook 1
+中層秘匿区画2 	 Secret Nook 2
+中層秘匿区画3 	 Secret Nook 3
+中層秘匿区画4 	 Secret Nook 4
+中層秘匿区画5 	 Secret Nook 5
+中層秘匿区画6 	 Secret Nook 6
+中層秘匿区画7 	 Secret Nook 7
+中層秘匿区画8 	 Secret Nook 8
+上層1 	 Upper Interior
+上層2 	 Upper Exterior
+最上層1 	 Towertop Gateway
+最上層2 	 Towertop Passage
+隠者の書庫 	 Secluded Stacks
+最上層秘匿区画1 	 Top Secret Nook 1
+最上層秘匿区画2 	 Top Secret Nook 2
+最上層秘匿区画3 	 Top Secret Nook 3
+石板の間 	 Palaeography Room
+星頭の間 	 Astronomy Room
+氷魔の間 	 Glaciology Forum
+力の間 	 Haematology Room
+フォークタワー外縁回廊 	 Pronged Passage
+特殊鍵操作区画 	 Binding Lock
+貯涙池 	 Weeping Pool
+ホッププリント・ノース 	 Northward Hop-print
+ホッププリント・ウェスト 	 Westward Hop-print
+基地南東水溜まり 	 Southeast Well
+ホローハーバー 	 Hollow Harbor
+パルス・アーセニキ 	 Palus Arsenici
+グリーミングポンド・アルファ 	 Glimmerpond Alpha
+グリーミングポンド・ベータ 	 Glimmerpond Beta
+月底の魔滝 	 Aetherial Falls
+8-71居住殻 	 Residential Radius 8-71
+8-72居住殻 	 Residential Radius 8-72
+8-72居住殻屋内 	 Residential Rubble 8-72
+ユウェヤーワータ 	 Yuweyawata
+焦がれの入江 	 Sinus Ardorum
+コスモ・ゲートウェイ 	 The Cosmoor
+キャラバシュ・コーヴ 	 Calabash Cove
+ウェディングウェイの式園 	 Weddingway's Bower
+グリーミングマウンテン 	 Gleamslope
+ルナ・ネイディア 	 Lunar Nadir
+ムーンゲート基地 	 Moongate Hub
+流星の涙跡 	 The Fallen Tears
+爛漫の寝床 	 Blooming Beds
+マッシュルーム・ルーム 	 The Mush-room
+岩滑りの穴 	 Rock Slide
+グリーミングクラック 	 Gleamrift
+スクリーム・パフ 	 Scream Puff
+ホローハーバー 	 Hollow Harbor
+分かたれた観察艇 	 Heimdall Debris
+碧き荊 	 Frozen Briar
+クロロフォスボールト 	 Chlorophosvault
+フラッフィーコート 	 Fluffcourt
+月底の魔滝 	 Aetherial Falls
+ピアッシングウェイ・トンネル 	 Piercingway Tunnel
+ネイディア・リフト 	 Nadir Lift
+サンドリア：ザ・セカンドウォーク 	 San d'Oria: The Second Walk
+サンドリア 	 San d'Oria
+ロンフォール 	 Ronfaure
+ホルレーの岩峰 	 Horlais Peak
+艦隊の飛空艇 	 Armada Airship J-I
+艦隊の飛空艇II 	 Armada Airship J-II
+艦隊の飛空艇III 	 Armada Airship J-III
+艦隊の飛空艇IV 	 Armada Airship J-IV
+クフィム 	 Qufim
+天輪の場 	 Stellar Fulcrum
+ル・アビタウ神殿 	 The Shrine of Ru'Avitau
+宿星の座 	 The Celestial Nexus
+サンドリア 	 San d'Oria
+ロンフォール 	 Ronfaure
+ホルレーの岩峰 	 Horlais Peak
+クフィム 	 Qufim
+天輪の場 	 The Stellar Fulcrum
+ル・アビタウ神殿 	 The Shrine of Ru'Avitau
+宿星の座 	 The Celestial Nexus
+ドラギーユ城 	 Chateau d'Oraguille
+岩峰の武闘場 	 Highland Battlefield
+艦隊の飛空艇 	 Armada Airship J-I
+艦隊の飛空艇II 	 Armada Airship J-II
+艦隊の飛空艇III 	 Armada Airship J-III
+艦隊の飛空艇IV 	 Armada Airship J-IV
+デルクフの塔 	 Delkfutt's Tower
+メインターミナル 	 The Meso Terminal
+メインターミナル下層 	 Lower Circuits
+メインターミナル中層 	 Central Circuits
+メインターミナル上層 	 Upper Circuits
+下層多目的広場 	 Triage Module
+中層ホール 	 Public Forum
+重要記憶保管室 	 Non-volatile Memory
+記録された医療棟 	 Preserved Medical Facility
+記録された監獄棟 	 Preserved Carceral Facility
+記録された王都市街 	 Preserved Castle Town
+隔ての荒地 	 The Windward Wilds
+ピルグリム・トラバース 	 Pilgrim's Traverse
+ヴァレンティオンパティスリー 	 The Pâtisserie
+パティスリーフロア 	 Pâtisserie Stage
+クリーム・キャビネット 	 Shelves of Frosting
+フルーツ・キャビネット 	 Shelves of Delicacies
+トッピング・キャビネット 	 Shelves of Garnishes
+デコレーション・キャビネット 	 Shelves of Cake Toppers
+死の満ちる地 	 The Ageless Necropolis
+奈落 	 The Lightless Abyss
+レアー洞 	 The Lehr
+グラスブロワーズ基地西 	 West Beaconveil
+オパルセントの四辻 	 Opalescent Crossing
+ソーダライム・フロート上流 	 Upper Soda-lime Float
+ソーダライム・フロート中流北 	 Central Soda-lime Channel
+ソーダライム・フロート中流南 	 Western Soda-lime Tributary
+ソーダライム・フロート下流 	 Lower Soda-lime Float
+プリズマチック・シンク 	 The Prismatic Pull
+カプセル・プールズ 	 Capsule Pools
+泡間の奈落 	 Bubble Bursters
+フュージングウェイ・フロウ 	 Fusingway Flow
+ボルト・オネイロン 	 Vault Oneiron
+艦隊の飛空艇 	 Armada Airship
+メカオペレーション 	 Mech Ops
+惑星パエンナ 	 Phaenna
+グラスブロワーズ岩窟 	 Glassblown Grotto
+ミルフィオリの丘 	 Millefiori 
+ソーダライム・フロート 	 The Soda-lime Float
+硝礫の川浜 	 The Saltpeter Shore
+イリデセント・ステップス 	 Iridized Rise
+カプセル・カズム 	 Capsule Chasm
+フュージングウェイ・ヴェント 	 Fusingway Vent
+レアー洞 	 The Lehr
+チルマーク洞 	 The Chillmark
+風息の楼台 	 Windsbreath Bellows
+地息の楼台 	 Stonesbreath Bellows
+スランピングウェイの大滝 	 The Slumping Plunge
+プリズマチック・シンク 	 The Prismatic Pull
+十七色の流砂 	 Scoresheen Sands
+グラスブロワーズ基地 	 Glassblowers' Beacon
+カプセル・プールズ 	 Capsule Pools
+オパルセントの四辻 	 Opalescent Crossing
+マーバー高原 	 Marver Mesa
+コスモエクスプローラー：拠点へ移動 	 Intersite Travel
+緊急状況：任務地へ移動 	 Emergency Transport
+ミストウェイク 	 Mistwake
+クワン洞 	 Quan Caverns
+トレノ平野 	 Treno Lowlands
+トレノ市街地 	 The City of Treno
+魔獣の縄張り 	 Shattered Lair
+トレノ入口広場 	 Overture Plaza
+タウンホール前広場 	 Town Round
+クワン洞 	 Quan Caverns
+トレノ平野 	 Treno Lowlands
+トレノ市街地 	 The City of Treno
+放棄された採掘区画 	 Electrope Mine
+鉄馬車線路 	 Derelict Railway
+トレノへの道 	 Treno Thoroughfare
+トレノゲート 	 Darkgate
+拡張区画 	 Codetta Quarter
+トレノ主道路 	 Main Street
+トレノの裏道 	 Bridge Street
+鉄馬車線路 	 Hell on Rails
+？？？？ 	 ???
+リング・オブ・ヴァンプ 	 Ring Noir
+リング・オブ・エクストリーム 	 The X-Ring
+リング・オブ・タイラント 	 The Crown
+商客物語 	 The Merchant's Tale
+とある街 	 A Faraway Place
+実り豊かな大地 	 Land of Eternal Harvest
+彩り豊かな入江 	 Cove of Countless Colors
+歪な岩の谷 	 Valley of Living Stone
+霧深き海 	 Veil of Mist
+中央広場 	 Font of Paths Aplenty
+街道の休息地 	 Caravan Campsite
+日向へ続く広場 	 Sun-teased Cavern
+街を望む丘 	 Jealous Slope
+赤石の間 	 Ruby Receiving Room
+眠り火の間 	 Smoldering Bedchamber
+七色の浜 	 Seven-shade Sands
+虹の演舞台 	 Shimmering Stage
+人魚の石舞台 	 Sea-maid's Mirror
+野盗のたまり場 	 Den of Thieves
+古びたねぐら 	 Old Nest
+剛剣の試し場 	 Wound of the Heavens
+朽ちた家屋 	 Overgrown Dwelling
+街外れの裏通り 	 Beckoning Backstreet
+賑やかな市場 	 Bountiful Bazaar
+正門通り 	 Tiled Thoroughfare
+実り豊かな大地 	 Land of Eternal Harvest
+ブドウ畑 	 Ever-ripe Vineyard
+棄てられた宮殿 	 Palace of the Spurned
+隠遁者の膝元 	 Anchorite's Auspice
+彩り豊かな入江 	 Cove of Countless Colors
+歪な岩の谷 	 Valley of Living Stone
+磁力の洞窟 	 Passage of Earth
+浮かび岩の山道 	 Passage of Sky
+修行者たちの道 	 Little-traveled Path
+誰もいない村 	 Village of No One
+虚の海 	 Land of Sea
+リング・オブ・アルカディア 	 Arcadia
+惑星オイジュス 	 Oizys
+メガリスポリス 	 Megalithopolis
+凪去った砂漠 	 Erg Eris
+リフティング・レグ 	 The Regolift
+ケープ・ゲーラス 	 Cape Geras
+モロス・ウェル 	 The Moros Well
+藍裂の幽陸 	 Shadefleet
+翠核の谷 	 Emerald Echoes
+立盾の壁 	 Shielding Wall
+虚空の壁 	 Falsifying Wall
+圧壊した坑道 	 Collapsed Tunnel
+ロングロスト・キャロット 	 Long-lost Carrot
+先駆者のオアシス 	 Foregone Oasis
+極束の浜 	 Sound Pole
+テラ・ファーマ基地 	 Terra Firma
+因果の井戸端 	 Event Rise
+アンカーマウンテン 	 Unmoored Anchor
+藍裂の小丘 	 Indigo Flagship
+デザート・バロー遺跡 	 Desert Burrow
+先駆者のオアシス 	 Foregone Oasis
+メガリスポリス東 	 Megalithopolis
+極界の水平線 	 Magnetic Horizon
+圧壊した坑道東 	 Collapsed Tunnel
+モロス・ウェル 	 The Moros Well
+藍裂の裂界 	 Under Overboard
+サブターレイン 	 The Subterrain
+ウォーコー・チーテ 	 Worqor Chirteh
+戦略目標地01 	 Triumph 1
+戦略目標地03 	 Triumph 3
+戦略目標地02 	 Triumph 2
+戦略目標地04 	 Triumph 4
+戦略目標地05 	 Triumph 5
+戦略目標地06 	 Triumph 6
+戦略目標地07 	 Triumph 7
+戦略目標地08 	 Triumph 8
+戦略目標地09 	 Triumph 9
+戦略目標地10 	 Triumph 10
+戦略目標地11 	 Triumph 11
+戦略目標地12 	 Triumph 12
+睡蓮湖近郊 	 Lilyswim
+ムーンゲート基地 	 Moongate Hub
+キャラバシュ・コーヴ 	 Calabash Cove
+ウェディングウェイの式園 	 Weddingway's Bower
+グリーミングマウンテン 	 Gleamslope
+ルナ・ネイディア 	 Lunar Nadir
+グラスブロワーズ基地 	 Glassblowers' Beacon
+イリデセント・ステップス 	 Iridized Rise
+硝礫の川浜 	 The Saltpeter Shore
+カプセル・カズム 	 Capsule Chasm
+フュージングウェイ・ヴェント 	 Fusingway Vent
+テラ・ファーマ基地 	 Terra Firma
+リフティング・レグ北西 	 Northwestern Regolift
+ケープ・ゲーラス 	 Cape Geras
+藍裂の幽陸 	 Shadefleet
+デザート・バロー遺跡 	 Desert Burrow
+広場への道 	 Unfamiliar Street
+入江へ続く洞窟 	 Prismatic Cave
+虚の海 	 Land of Sea
+路地裏の広場 	 Font of Earthly Treasures
+路地裏の広場 	 Font of Earthly Treasures
+ドーゲーウォーの野営地 	 Dorgerwor the Astute
+祭陽殿跡 	 Singing Stone
+チーテ野城跡 	 Chirteh's Keep
+ジィゴ岩砦 	 Zirgor
+雪見の丘 	 Argent Overlook
+ヴァデー岩砦 	 Vahder
+雪水の泉 	 Snowmelt
+異聞商客物語 	 Another Merchant's Tale
