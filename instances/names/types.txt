@@ -1,0 +1,13 @@
+ゴールドソーサー	Gold Saucer
+トレジャーハント	Treasure Hunt
+Seasonal Dungeon	Seasonal Dungeon
+ディープダンジョン	Deep Dungeons
+マスクカーニバル	The Masked Carnivale
+ギャザラー	Disciples of the Land
+絶レイド	Ultimate Raids
+レイド	Raids
+PvP	PvP
+特殊ダンジョン探索	V&C Dungeon Finder
+滅アライアンスレイド	Chaotic Alliance Raid
+Unknown	Unknown
+討伐・討滅戦	Trials
